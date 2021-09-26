@@ -8,10 +8,6 @@ html {
     scroll-behavior: smooth;
 }
 
-html, body {
-    overflow-x: hidden;
-}
-
 body {
     font-family: Montserrat, Arial;
     overflow-y: auto;
