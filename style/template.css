@@ -1,0 +1,881 @@
+/* Aligning section (text area) responsively with sidebar for different screen sizes */
+section {
+    padding: 15px 10px;
+    width: 70%;
+    display: inline-block;
+    animation: fade 0.7s ease-in forwards;
+    overflow-wrap: break-word;
+}
+
+section h2 {
+    padding: 10px 15px 5px;
+}
+
+section p {
+    font-size: 20px;
+    padding: 0px 15px;
+}
+
+@media only screen and (max-width: 767px) {
+    section {
+        width: 100%;
+        padding: 15px;
+    }
+    section p {
+        font-size: 17px;
+    }
+    section ul li {
+        font-size: 17px;
+    };
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1119px) {
+    section {
+        width: 72%;
+    };
+}
+
+@media only screen and (min-width: 1200px) {
+    section {
+        width: 82%;
+        padding-top: 24px;
+    };
+}
+
+.section-container {
+    padding: 15px;
+}
+
+h2 {
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+h3 {
+    padding: 5px 15px 0px;
+}
+
+/* Pagination for easier navigation */
+div.pagination {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    background: aliceblue;
+}
+
+div.pagination a {
+    margin: 10px;
+}
+
+@media screen and (max-width: 500px) {
+    div.pagination {
+        display: block;
+    }
+    div.pagination a {
+        display: block;
+    };
+}
+
+.show-always, .center-backtotop {
+    display: block!important;
+    margin: auto!important;
+}
+
+div.pagination a {
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+/* Customized floating scroll top button for mobile, based on button code from https://www.youtube.com/watch?v=Vef9bxTilCU */
+.gotopbtn {
+    display: none;
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    background: #ff4d4d;
+    border: solid 1px gray;
+    bottom: 115px;
+    right: 20px;
+    text-align: center;
+    z-index: 1001;
+    color: white;
+    text-decoration: none;
+    line-height: 50px;
+}
+
+@media only screen and (max-width: 767px) {
+    .btn-show {
+        display: block;
+        animation: fade 0.3s ease-in forwards;
+    }
+    a.back-to-top:not(.show-always), .center-backtotop:not(.show-always) {
+        display: none!important;
+    };
+}
+
+a .previous {
+    float: left;
+}
+
+a .back-to-top {
+    margin: auto;
+}
+
+a .next {
+    float: right;
+}
+
+.footer {
+    background: #999999;
+}
+
+/* Coming soon page styles */
+.coming-soon {
+    text-align: center;
+    animation: fade 0.5s ease-in forwards;
+    padding-top: 50px;
+    margin-bottom: 5px;
+}
+
+.coming-soon h2 {
+    color: gray;
+}
+
+.coming-soon h1 {
+    font-weight: bold;
+}
+
+@media screen and (max-height: 575px) {
+    .coming-soon {
+        height: 100vh;
+    };
+}
+
+@keyframes fade {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.sources {
+    color: gray;
+    font-size: 13px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.note {
+    color: black;
+    font-size: 14px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.label {
+    font-size: 16px;
+    font-weight: bold;
+    padding-bottom: 0;
+    margin: 0;
+}
+
+.citation {
+    font-size: 14px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.citation a {
+    color: black;
+}
+
+.sources a {
+    color: #1a1a1a;
+}
+
+@media screen and (max-width: 568px) {
+    .sources, .citation, .caption {
+        font-size: 12px;
+    }
+    .note {
+        font-size: 13px;
+    }
+    .label {
+        font-size: 15px;
+    };
+}
+
+.link-darkblue {
+    color: #000099;
+}
+
+.full-indent {
+    padding-left: 35px;
+}
+
+section ul {
+    padding: 0px 35px;
+    font-size: 20px;
+    line-height: 1.75;
+}
+
+section ol {
+    padding: 0px 35px;
+    font-size: 20px;
+    line-height: 1.75;
+}
+
+ol.inner {
+    list-style-type: lower-alpha;
+}
+
+.ol-blue, .ul-blue, .text-blue {
+    color: #002b80;
+}
+
+ul.inner {
+    list-style-type: circle;
+}
+
+.ul-indented, .ol-indented {
+    padding-left: 70px;
+}
+
+img:not(#logo) {
+    padding: 5px 15px;
+}
+
+img.figure {
+    width: 75%;
+}
+
+.small-img {
+    width: 50%;
+}
+
+.xsmall-img {
+    width: 40%;
+}
+
+.xxsmall-img {
+    width: 25%;
+}
+
+@media screen and (max-width: 768px) {
+    img.figure {
+        width: 100%;
+    }
+    .small-img {
+        width: 100%;
+    }
+    .xxsmall-img {
+        width: 80%;
+    };
+}
+
+@media screen and (max-width: 567px) {
+    .xsmall-img {
+        width: 90%;
+    }
+    ul.inner li, ol.inner li {
+        font-size: 16px;
+    }
+    .xxsmall-img {
+        width: 100%;
+    };
+}
+
+@media screen and (min-width: 568px) and (max-width: 768px) {
+    .xsmall-img {
+        width: 65%;
+    };
+}
+
+.img-white-bg {
+    background: white;
+}
+
+.lightblue-bg {
+    background-color: #99bbff;
+}
+
+.yellow-bg {
+    background-color: #ffeb99;
+}
+
+.p-disclaimer {
+    font-weight: bold;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 5px;
+}
+
+@media screen and (min-width: 1200px) {
+    .about-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        padding-bottom: 7px;
+        align-items: center;
+        background: #fcf4e8;
+    };
+}
+
+.about-grid img, .rightsm-grid img {
+    max-width: 100%;
+}
+
+@media screen and (max-width: 1024px) and (orientation: landscape) {
+    .about-grid img, .rightsm-grid img {
+        width: 75%;
+    }
+}
+
+.about-grid ul, .rightsm-grid ul {
+    margin-top: 6px;
+}
+
+.about-grid ul li, .leftsm-grid ul li {
+    margin-bottom: 6px;
+    overflow-wrap: break-word;
+}
+
+@media screen and (min-width: 1200px) {
+    .rightsm-grid {
+        display: grid;
+        grid-template-columns: 65fr 35fr;
+        padding-bottom: 7px;
+        align-items: center;
+        background: azure;
+    };
+}
+
+.image-label {
+    position: relative;
+    margin-bottom: 8px;
+}
+
+.caption {
+    position: absolute;
+    left: 5px;
+    bottom: 5px;
+    margin: 0;
+    color: #f2f2f2;
+    font-size: 13px;
+    background: gray;
+    opacity: 80%;
+}
+
+section h3 {
+    font-family: Ubuntu, Arial;
+    margin: 0;
+    padding: 5px 15px;
+}
+
+section h4 {
+    padding: 5px 15px 15px;
+}
+
+#mari-about {
+    background: #003cb3;
+    color: white;
+}
+
+#dawson-about {
+    background: #001a4d;
+    color: white;
+}
+
+#vanier-about {
+    background: red;
+    color: white;
+}
+
+#champlain-about {
+    background: #006080;
+    color: white;
+}
+
+#jabbott-about {
+    background: #0066ff;
+    color: white;
+}
+
+#alc {
+    background: orangered;
+    color: white;
+}
+
+#lib-arts {
+    background: orange;
+    color: white;
+}
+
+#music {
+    background: darkviolet;
+    color: white;
+}
+
+#social-science {
+    background: blue;
+    color: white;
+}
+
+#science {
+    background: green;
+    color: white;
+}
+
+.description-top {
+    margin-top: 15px;
+}
+
+section hr {
+    background: #000066;
+}
+
+#accounting-management-tech {
+    background: #009999;
+    color: white;
+}
+
+#business-management {
+    background: #000099;
+    color: white;
+}
+
+#comp-sci-tech {
+    background: black;
+    color: #00ff00;
+}
+
+#nursing {
+    background: #ff00bf;
+    color: white;
+}
+
+#office-systems {
+    background: silver;
+}
+
+#special-care {
+    background: #ff5050;
+    color: white;
+}
+
+.description-bottom {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.p-space-bottom {
+    margin-bottom: 15px;
+}
+
+@media screen and (min-width: 768px) {
+    div#tool-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    };
+}
+
+div#tool-welcome {
+    animation: fade 0.5s ease-in forwards;
+}
+
+div#progtool-accordion {
+    animation: fade 0.6s ease-in forwards;
+}
+
+div#tool-grid, #tool-title {
+    animation: fade 0.7s ease-in forwards;
+    background-image: radial-gradient(#cce0ff, #0066ff);
+    color: black;
+}
+
+h4#cegep-name1, h4#cegep-name2 {
+    margin-bottom: 15px;
+}
+
+.program-compare {
+    padding: 10px 15px;
+}
+
+.program-compare label {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+div#tool-welcome {
+    padding: 15px;
+    font-size: 20px;
+}
+
+div#tool-welcome h2 {
+    text-align: center;
+    background-image: url('https://images.unsplash.com/photo-1475156366402-ffdc49dd371f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 5px;
+    font-weight: normal;
+    letter-spacing: 0;
+    border: solid 1px #cccccc;
+    border-radius: 5px;
+}
+
+div#tool-welcome h2:hover {
+    font-weight: bold;
+    letter-spacing: 0.3px;
+}
+
+div#tool-welcome p {
+    padding: 0px 10px;
+}
+
+#tool-welcome hr, .program-compare hr {
+    background:  #3333ff;
+}
+
+div.program-description {
+    padding: 10px;
+}
+
+div.program-description h4 {
+    font-weight: bold;
+}
+
+div#tool-welcome ul {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+@media screen and (max-width: 767px) {
+    div#tool-welcome ul {
+        font-size: 17px;
+    }
+    div#tool-welcome p {
+        font-size: 18px;
+    };
+}
+
+div#tool-welcome ul li {
+    line-height: 1.6;
+}
+
+h2#tool-title {
+    text-align: center;
+    padding: 10px 5px;
+    margin-bottom: 0;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    background: #001a4d;
+    color: white;
+    font-family: Ubuntu, Arial;
+}
+
+#tool-welcome p.tool-disclaimer {
+    font-weight: bold;
+    background: #ffc966;
+    font-size: 16px;
+    padding: 5px 8px;
+    border-radius: 5px;
+}
+
+img#program-grid1, img#program-grid2 {
+    max-width: 100%;
+    padding: 0;
+    display: block;
+    margin: auto;
+}
+
+.program-description h4 {
+    text-align: center;
+}
+
+div.footnotes {
+    padding: 15px 0px 10px;
+}
+
+.footnotes p {
+    margin-bottom: 5px;
+}
+
+.card-body ul {
+    padding-left: 55px;
+}
+
+@media screen and (max-width: 567px) {
+    .card-body ul {
+        padding-left: 35px;
+    };
+}
+
+.card-body:not(.hr-blue) hr {
+    background-color: #808080;
+}
+
+.gray-bg {
+    background: darkgray;
+}
+
+.lightgray-bg {
+    background: #bfbfbf;
+}
+
+.lightyellow-bg {
+    background: #fff5cc;
+}
+
+#headingOne h2 button, #headingTwo h2 button {
+    color: black;
+    font-weight: bold;
+}
+
+.yellow-link {
+    color: #ffdb4d;
+}
+
+.yellow-link:hover {
+    color: #e6b800;
+}
+
+/* Resources page styles */
+#resource-section {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://images.unsplash.com/photo-1518976024611-28bf4b48222e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=332&q=80');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 15px;
+}
+
+.resource-row {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+}
+
+.resource-row .card {
+    margin: 30px;
+    box-shadow: 0px 0px 10px 0px #e2d86a;
+}
+
+.card-header, .card-footer {
+    font-size: 18px;
+}
+
+@media screen and (max-width: 768px) {
+    .resource-row .card {
+        margin: 5px;
+    };
+}
+
+@media screen and (min-width: 767px) {
+    .resource-row {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    };
+}
+
+ul.card-text {
+    padding-left: 30px;
+}
+
+.resource-row .text-white hr {
+    background: black;
+}
+
+.banner-bottom {
+    padding: 8px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 15px 2px #000;
+    display: block;
+    margin: auto;
+}
+
+.text-consolas {
+    font-family: Consolas, Times;
+}
+
+.text-ubuntu {
+    font-family: Ubuntu, Arial;
+}
+
+.skyblue-bg {
+    background: #87ceeb;
+}
+
+.salmon-bg {
+    background: salmon;
+}
+
+.cadetblue-bg {
+    background: cadetblue;
+}
+
+.lightorange-bg {
+    background: #ffc966;
+}
+
+.text-roboto-condensed {
+    font-family: Roboto Condensed, Arial;
+}
+
+#sram-admissions, #sram-title {
+    background: darkgray;
+}
+
+#dawson-admissions, #dawson-title {
+    background: #3377ff;
+}
+
+#mari-admissions, #mari-title {
+    background: #004de6;
+}
+
+.green-bg {
+    background: #009900;
+}
+
+.lightgreen-bg {
+    background: lightgreen;
+}
+
+.silver-bg {
+    background: silver;
+}
+
+.orange-bg {
+    background: #ff6600;
+}
+
+.gold-bg {
+    background: gold;
+}
+
+.lightpurple-bg {
+    background: #cc99ff;
+}
+
+.blue-bg {
+    background: #0040ff;
+}
+
+.goldenrod-bg {
+    background: goldenrod;
+}
+
+.brightyellow-bg {
+    background: #e6e600;
+}
+
+.peach-bg {
+    background: peachpuff;
+}
+
+.logo-img {
+    width: 20%;
+}
+
+@media screen and (min-width: 568px) and (max-width: 767px) {
+    .logo-img {
+        width: 40%;
+    };
+}
+
+@media screen and (max-width: 567px) {
+    .logo-img {
+        width: 80%;
+    };
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    .logo-img {
+        width: 30%;
+    };
+}
+
+.event-row {
+    margin: 10px;
+    display: grid;
+}
+
+.event-row .event {
+    margin: 8px;
+}
+
+@media screen and (max-width: 999px) {
+    .event-row {
+        grid-template-columns: repeat(1, 1fr);
+    };
+}
+
+@media screen and (min-width: 1000px) {
+    .event-row {
+        grid-template-columns: repeat(2, 1fr);
+    };
+}
+
+.event-row .event .time {
+    background: #262626;
+    width: 30%;
+    height: 100%;
+    text-align: center;
+    float: left;
+    font-family: Roboto Condensed, Arial;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+.event-row .event .time h2 {
+    margin: 0;
+    color: #fff;
+    font-size: 45px;
+}
+
+.event-row .event .time h2 span {
+    font-size: 30px;
+}
+
+.event-row .event .details {
+    padding: 10px;
+    background: #f2f2f2;
+    color: black;
+    float: left;
+    width: 70%;
+    height: 100%;
+}
+
+@media only screen and (max-width: 319px) {
+    .event-row .event .time {
+        display: none;
+    }
+    .event-row .event .details {
+        width: 100%;
+    }
+    .event-row .event {
+        border: inset 1px black;
+    };
+}
+
+.hide {
+    visibility: hidden;
+}
+
+#site-link {
+    user-select: all;
+    color: #00004d;
+}
+
+#help-section {
+    padding: 5px 20px;
+    font-size: 22px;
+    width: 100%;
+}
+
+#help-section a.btn.lightgray-bg {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 22px;
+}
