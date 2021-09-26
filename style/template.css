@@ -800,6 +800,7 @@ ul.card-text {
 
 .event-row .event {
     margin: 8px;
+    height: 100%;
 }
 
 @media screen and (max-width: 999px) {
