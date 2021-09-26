@@ -638,7 +638,7 @@ i .fas {
     margin-left: 1px;
     margin-right: 1px;
     background-color: azure;
-    height: auto;
+    height: 100%;
 }
 
 #dates-important .events .event:hover {
