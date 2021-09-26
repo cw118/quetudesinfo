@@ -692,7 +692,7 @@ ul.card-text {
 }
 
 .text-consolas {
-    font-family: Consolas, Times;
+    font-family: Consolas, Verdana, Times;
 }
 
 .text-ubuntu {
