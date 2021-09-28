@@ -78,8 +78,8 @@ body {
         display: flex;
         flex-wrap: wrap;
         justify-content: space-between;
-        padding-top: 3px;
-        padding-bottom: 5px;
+        padding-top: 0.6rem;
+        padding-bottom: 0.7rem;
     }
     #header-help, #header-disclaimers, #header-terms, #header-contact {
         padding-left: 6px;
