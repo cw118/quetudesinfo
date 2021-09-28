@@ -12,7 +12,7 @@ The idea first came when I was brainstorming for my CS50 final project. Speaking
 - August 12, 2021: start the project
 - September 25, 2021: all code, design and research complete (website code finished, ready for hosting)
 - September 26, 2021: final checks complete, added to quetudesinfo repository. Site now available on GitHub Pages.
-- *???: CS50 final project requirements completed and submitted*
+- September 27, 2021: CS50x 2021 final project requirements completed and submitted. This was CS50!
 ___
 ## The code
 While the QUÉtudes-info site consists of numerous code files, the majority of the project’s files are, in reality, images. Many had to be taken as screenshots and uploaded to the repository as fitting photos did not exist elsewhere online.
