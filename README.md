@@ -25,39 +25,39 @@ The site’s organization and features were designed with the hope of facilitati
 Moreover, I’d originally tried to stick with using only Creative Commons images, but as this narrowed down my options far too much, I resorted instead to properly citing any copyright-protected media that I included. All references (my sources of information) are cited as well, and I made sure to use official and reliable sites/documents.
 ___
 ## Dissecting the site: the purpose of each section
-### **Home**
+### [**Home**](https://cw118.github.io/quetudesinfo/)
 The homepage of QUÉtudes-info: welcome to the site! This page has the most unique design, displays just a bit of key information on CEGEP with *Why CEGEP?* and *Dates to Remember*, and mainly serves to help users get started.
 
 (HTML file *index*)
-### **What is CEGEP**
+### [**What is CEGEP**](https://cw118.github.io/quetudesinfo/whatiscegep)
 This section includes titles *What is CEGEP, Programs, English-language CEGEPs, The R-Score*, and *Alternatives to CEGEP*. It aims to introduce you to CEGEP, explaining exactly what CEGEP is, what options are out there, as well as addressing common concerns. 
 
 (HTML files *whatiscegep, programs, english-cegeps, r-score, cegep-alternatives*)
-### **Applying to CEGEP**
+### [**Applying to CEGEP**](https://cw118.github.io/quetudesinfo/whatiscegep)
 This section includes titles *Applying to CEGEP, Choosing a CEGEP and Program, Making smart choices, Important Dates, Application Systems*, and *After applying*. Its purpose is to provide tips on the research and application process for CEGEP, as well as walk you through each step of completing and submitting an application. 
 
 (HTML files *applytocegep, choose-a-cegep-program, make-smart-choices, important-dates, application-systems, after-applying*)
-### **Program Comparison Tool**
+### [**Program Comparison Tool**](https://cw118.github.io/quetudesinfo/compare-programs)
 This is a tool that allows you to select and compare pre-university programs from English-language CEGEPs side-by-side. Be sure to select a CEGEP first to activate the program select menu (which will then allow you to select a specific program).
 
 (HTML file *compare-programs*)
-### **Important Links**
+### [**Important Links**](https://cw118.github.io/quetudesinfo/links)
 A catalogue of important links on CEGEP, including official CEGEP and organization sites, official documents such as viewbooks and calendars, and many more!
 
 (HTML file *links*)
-### **Resources**
+### [**Resources**](https://cw118.github.io/quetudesinfo/resources)
 A collection of free web resources for a variety of subjects.
 
 (HTML file *resources*)
-### **About**
+### [**About**](https://cw118.github.io/quetudesinfo/disclaimers-terms)
 This section includes titles *Disclaimers and Terms, QUÉtudes-info: The Project*, and *About the site creator*. It contains legal information about the site, but also shares the story behind QUÉtudes-info and a bit about the student behind the site (aka me).
 
 (HTML files *disclaimers-terms, about-project, about-me*)
-### **Help**
+### [**Help**](https://cw118.github.io/quetudesinfo/help)
 The Help page consists of an FAQ and a sitemap, in case you’re really not sure where to go or just have a quick question for which reading an entire web page may be unnecessary.
 
 (HTML file *help*)
-### **Contact**
+### [**Contact**](https://cw118.github.io/quetudesinfo/contact)
 Leads to a “coming soon” page for now. Whether or not my contact information will ever be posted, or at least some means of getting in touch through a QUÉtudes-info specific email/social media account, etc. is still undecided.
 
 (HTML file *contact*)
