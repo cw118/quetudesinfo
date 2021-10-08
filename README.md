@@ -33,7 +33,7 @@ The homepage of QUÉtudes-info: welcome to the site! This page has the most uniq
 This section includes titles *What is CEGEP, Programs, English-language CEGEPs, The R-Score*, and *Alternatives to CEGEP*. It aims to introduce you to CEGEP, explaining exactly what CEGEP is, what options are out there, as well as addressing common concerns. 
 
 (HTML files *whatiscegep, programs, english-cegeps, r-score, cegep-alternatives*)
-### [**Applying to CEGEP**](https://cw118.github.io/quetudesinfo/whatiscegep)
+### [**Applying to CEGEP**](https://cw118.github.io/quetudesinfo/applytocegep)
 This section includes titles *Applying to CEGEP, Choosing a CEGEP and Program, Making smart choices, Important Dates, Application Systems*, and *After applying*. Its purpose is to provide tips on the research and application process for CEGEP, as well as walk you through each step of completing and submitting an application. 
 
 (HTML files *applytocegep, choose-a-cegep-program, make-smart-choices, important-dates, application-systems, after-applying*)
