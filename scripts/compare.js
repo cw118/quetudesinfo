@@ -6,7 +6,7 @@ cegep1.addEventListener('change', () => {
     let cegepName1 = document.querySelector('#cegep-name1');
     let program1 = document.querySelector('#program1');
     let programGrid1 = document.querySelector('#program-grid1');
-    programGrid1.src = 'blank.png';
+    programGrid1.src = '../assets/blank.png';
     programGrid1.style.boxShadow = 'none';
 
     if (cegepOne === 'marianopolis') {
@@ -606,7 +606,7 @@ cegep2.addEventListener('change', () => {
     let cegepName2 = document.querySelector('#cegep-name2');
     let program2 = document.querySelector('#program2');
     let programGrid2 = document.querySelector('#program-grid2');
-    programGrid2.src = 'blank.png';
+    programGrid2.src = '../assets/blank.png';
     programGrid2.style.boxShadow = 'none';
 
     if (cegepTwo === 'marianopolis') {
