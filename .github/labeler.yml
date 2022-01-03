@@ -1,0 +1,29 @@
+# For more information on GitHub Actions' labeler, see https://github.com/actions/labeler
+
+assets:
+- assets/**/*
+- favicon/**/*
+
+content:
+- about/**/*
+- apply/**/*
+- whatiscegep/**/*
+- '*.html'
+
+CSS:
+- style/**/*
+- '*.css'
+
+documentation:
+- README.md
+- '*.md'
+
+HTML:
+- '*.html'
+
+JS:
+- scripts/**/*
+- '*.js'
+
+workflow:
+- .github/**/*

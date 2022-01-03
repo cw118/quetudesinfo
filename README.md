@@ -11,19 +11,6 @@
 - [The code](#the-code)
 - [Design and content](#design-and-content)
 - [Dissecting the site: the purpose of each section](#dissecting-the-site-the-purpose-of-each-section)
-  <details>
-    <summary>Subsections:</summary>
-    
-  - [Home](#home)
-  - [What is CEGEP](#what-is-cegep)
-  - [Applying to CEGEP](#applying-to-cegep)
-  - [Program Comparison Tool](#program-comparison-tool)
-  - [Important Links](#important-links)
-  - [Resources](#resources)
-  - [About](#about)
-  - [Help](#help)
-  - [Contact](#contact)
-  </details>
 - [CSS and JavaScript](##css-and-javascript)
 </details>
 
