@@ -14,7 +14,6 @@ CSS:
 - '*.css'
 
 documentation:
-- README.md
 - '*.md'
 
 HTML:
