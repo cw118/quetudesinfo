@@ -11,7 +11,7 @@
 - [The code](#-the-code)
 - [Design and content](#-design-and-content)
 - [Dissecting the site: the purpose of each section](#-dissecting-the-site-the-purpose-of-each-section)
-- [CSS and JavaScript](#%EF%B8%8Fcss-and-javascript)
+- [CSS and JavaScript](#%EF%B8%8F-css-and-javascript)
 </details>
 
 ___
