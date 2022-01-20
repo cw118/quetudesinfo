@@ -5,13 +5,13 @@
 <details>
     <summary><strong>README Table of contents</strong></summary>
 
-- [What is QUÉtudes-info?](#what-is-quétudes-info)
-- [Why was QUÉtudes-info created?](#why-was-quétudes-info-created)
-- [Milestones](#milestones)
-- [The code](#the-code)
-- [Design and content](#design-and-content)
-- [Dissecting the site: the purpose of each section](#dissecting-the-site-the-purpose-of-each-section)
-- [CSS and JavaScript](##css-and-javascript)
+- [What is QUÉtudes-info?](#-what-is-quétudes-info)
+- [Why was QUÉtudes-info created?](#-why-was-quétudes-info-created)
+- [Milestones](#-milestones)
+- [The code](#-the-code)
+- [Design and content](#-design-and-content)
+- [Dissecting the site: the purpose of each section](#-dissecting-the-site-the-purpose-of-each-section)
+- [CSS and JavaScript](#%EF%B8%8Fcss-and-javascript)
 </details>
 
 ___
