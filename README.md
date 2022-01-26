@@ -35,7 +35,8 @@ Speaking of CS50, I have professor Malan, Brian Yu, and all of the CS50 team to 
 - **September 25, 2021:** all code, design and research complete (website code finished, ready for hosting)
 - **September 26, 2021:** final checks complete, added to `quetudesinfo` repository. Site now available on GitHub Pages.
 - **September 27, 2021:** CS50x 2021 final project requirements completed and submitted. This was CS50!
-- **January 2, 2022** (happy new year!)**:** reorganization of the `quetudesinfo` repository complete
+- **January 2, 2022** (happy new year!)**:** first reorganization of the `quetudesinfo` repository complete
+- **January 21, 2022:** more improvements (custom 404 page, slight reorganization) and starting on the road to open source (hopefully)
 ___
 
 ## 💻 The code
@@ -72,19 +73,19 @@ ___
 
 The homepage of QUÉtudes-info: welcome to the site! This page has the most unique design, displays just a bit of key information on CEGEP with *Why CEGEP?* and *Dates to Remember*, and mainly serves to help users get started.
 
-(HTML file `index`)
+(HTML file `index` at the root)
 
 ### [**What is CEGEP**](https://cw118.github.io/quetudesinfo/whatiscegep)
 
 This section includes titles **What is CEGEP**, **Programs**, **English-language CEGEPs**, **The R-Score**, and **Alternatives to CEGEP**. It aims to introduce you to CEGEP, explaining exactly what CEGEP is and what options are out there, as well as address common concerns.
 
-(HTML files `whatiscegep`, `programs`, `english-cegeps`, `r-score`, `cegep-alternatives`)
+(HTML files in the `whatiscegep` folder: `index`, `programs`, `english-cegeps`, `r-score`, `cegep-alternatives`)
 
 ### [**Applying to CEGEP**](https://cw118.github.io/quetudesinfo/apply)
 
 This section includes titles **Applying to CEGEP**, **Choosing a CEGEP and Program**, **Making smart choices**, **Important Dates**, **Application Systems**, and **After applying**. Its purpose is to provide tips on the research and application process for CEGEP, as well as walk you through each step of completing and submitting an application. 
 
-(HTML files `applytocegep`, `choose-a-cegep-program`, `make-smart-choices`, `important-dates`, `application-systems`, `after-applying`)
+(HTML files in the `apply` folder: `index`, `choose-a-cegep-program`, `make-smart-choices`, `important-dates`, `application-systems`, `after-applying`)
 
 ### [**Program Comparison Tool**](https://cw118.github.io/quetudesinfo/compare-programs)
 
@@ -108,7 +109,7 @@ A collection of free web resources for a variety of subjects.
 
 This section includes titles **Disclaimers and Terms**, **QUÉtudes-info: The Project**, and **About the site creator**. It contains legal information about the site, but also shares the story behind QUÉtudes-info and a bit about the student behind the site *(aka me — also take a look at my [GitHub profile](https://github.com/cw118) to learn more about me)*.
 
-(HTML files `disclaimers-terms`, `about-project`, `about-me`)
+(HTML files in the `about` folder: `disclaimers-terms`, `about-project`, `about-me`)
 
 ### [**Help**](https://cw118.github.io/quetudesinfo/help)
 
