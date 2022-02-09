@@ -227,16 +227,8 @@ section ol {
     line-height: 1.75;
 }
 
-ol.inner {
-    list-style-type: lower-alpha;
-}
-
 .ol-blue, .ul-blue, .text-blue {
     color: #002b80;
-}
-
-ul.inner {
-    list-style-type: circle;
 }
 
 .ul-indented, .ol-indented {
