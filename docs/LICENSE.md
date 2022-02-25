@@ -1,6 +1,6 @@
 # Licenses for QUÉtudes-info
 
-The content and code of QUÉtudes-info are available under two separate licenses. For the prose and text license, see [License for all prose content](#license-for-all-prose-content). For the source code and design license, see [License for all source code and designs](#license-for-all-source-code-and-designs).
+The content and code of QUÉtudes-info are available under two separate licenses. For the prose and text license, see [License for all prose content](#license-for-all-prose-content). For the source code and design license, see [License for all source code](#license-for-all-source-code).
 
 ## License for all prose content
 
@@ -8,7 +8,7 @@ All prose content of QUÉtudes-info is available under [(CC BY-SA 4.0)](https://
 
 ### The CC BY-SA 4.0 license
 
-```
+```text
 Creative Commons Attribution-ShareAlike 4.0 International Public License
 
 CREATIVE COMMONS CORPORATION ("CREATIVE COMMONS") IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL SERVICES OR LEGAL ADVICE. DISTRIBUTION OF CREATIVE COMMONS PUBLIC LICENSES DOES NOT CREATE A LAWYER-CLIENT OR OTHER RELATIONSHIP. CREATIVE COMMONS MAKES ITS LICENSES AND RELATED INFORMATION AVAILABLE ON AN "AS-IS" BASIS. CREATIVE COMMONS GIVES NO WARRANTIES REGARDING ITS LICENSES, ANY MATERIAL LICENSED UNDER THEIR TERMS AND CONDITIONS, OR ANY RELATED INFORMATION. CREATIVE COMMONS DISCLAIMS ALL LIABILITY FOR DAMAGES RESULTING FROM THEIR USE TO THE FULLEST EXTENT POSSIBLE.
@@ -105,15 +105,15 @@ Creative Commons is not a party to its public licenses. Notwithstanding, Creativ
 Creative Commons may be contacted at creativecommons.org.
 ```
 
-## License for all source code and designs
+## License for all source code
 
-All source code and designs of QUÉtudes-info, including but not limited to markup, stylesheets, and scripts, are licensed under [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/). Note that patents and trademarks are **not** licensed under this Public License (see Section 2.3(c)).
+All source code of QUÉtudes-info, including but not limited to markup, stylesheets, and scripts, are licensed under [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/). Note that patents and trademarks are **not** licensed under this Public License (see Section 2.3(c)).
 
 *For the prose and text license, see [License for all prose content](#license-for-all-prose-content).*
 
 ### The MPL 2.0 license
 
-```
+```text
 Mozilla Public License Version 2.0
 ==================================
 
