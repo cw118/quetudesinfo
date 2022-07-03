@@ -1,4 +1,4 @@
 # Avoids committing/pushing .json linter config files 
 # Scope of files to ignore will be modified as needed
 
-*.json
+.markdownlint.json

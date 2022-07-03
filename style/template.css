@@ -531,6 +531,8 @@ div#tool-welcome p {
 
 div.program-description {
     padding: 10px;
+    background-color: rgba(255, 255, 255, 0.5);
+    user-select: all;
 }
 
 div.program-description h4 {
@@ -872,4 +874,14 @@ ul.card-text {
     padding-left: 20px;
     padding-right: 20px;
     font-size: 22px;
+}
+
+#program-grid1, #program-grid2 {
+    padding-left: 5px;
+    line-height: 1.75;
+}
+
+#program-grid1 li, #program-grid2 li {
+    font-size: 17px;
+    margin-left: 25px;
 }

@@ -1,0 +1,25 @@
+{
+  "ArtsandSciences": {
+    "Prerequisites": "Secondary V Math TS/SN (506), Secondary V Physics (504), Secondary V Chemistry (504)",
+    "Cutoffs": "85% overall average, 83% minimum in Secondary IV and V Math TS/SN, 85% science/math average",
+    "Letter of intent": "",
+    "Choice of Main Grid or Arts Grid (semester 4)": "",
+    "Program Grid": {
+      "Art": "Introduction to Studio Art (510-100-MS), CHOICE OF Thematic Studies in History of Art (520-903-MS) OR 16th to 19th-Century Art (520-120-MS)",
+      "Math": "Differential Calculus (201-701-MS), Integral Calculus (201-702-MS), Linear Algebra I (201-703-MS), Probability and Statistics (201-704-MS)",
+      "Science": "General Biology I (101-701-MS), Chemistry I (202-701-MS), Mechanics (201-701-MS)",
+      "Social Science": "International Politics and Economics (383-701-MS), Western Civilization (330-701-MS), Psychology of Human Behaviour (350-701-MS), Dynamics of Social Change (387-701-MS)",
+      "3 electives": ""
+    }
+  },
+  "ArtsLiteratureandCommunication": {
+    "Prerequisites": "general CEGEP entrance requirements",
+    "Cutoffs": "75% overall average",
+    "Letter of intent": "",
+    "Program Grid": {
+      "Arts and Literature": "Perspectives in Arts and Literature I (502-APA-MS), Perspectives in Arts and Literature II (502-APB-MS), Perspectives in Contemporary Arts and Literature (502-APC-MS)",
+      "22 credits from elective courses": "3 Explorations courses, 2 Techniques courses, 3 Critique courses, 3 Creation courses OR 2 Creation and 1 Language",
+      "Elective disciplines include": "Art History, Cinema, Communications, Computer Science, English Literature, Fine Arts, French, German, Italian, Mathematics, Music (general), Philosophy, Religious Studies, Spanish, Theatre"
+    }
+  }
+}
