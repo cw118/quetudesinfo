@@ -6,6 +6,22 @@ const cegep2 = document.querySelector('#cegep2');
 const progOneList = document.querySelector('#program-grid1');
 const progTwoList = document.querySelector('#program-grid2');
 
+// Small helper function to create/append elements
+const generateInfoList = (num, infoKey, infoDesc) => {
+    const list = document.createElement('li');
+    const boldKey = document.createElement('strong');
+    const normValue = document.createElement('span');
+
+    let description = infoDesc;
+
+    boldKey.textContent = infoKey;
+    normValue.textContent = description.length > 0 ? `: ${description}` : '';
+
+    list.appendChild(boldKey);
+    list.appendChild(normValue);
+    (num === 1 ? progOneList : progTwoList).appendChild(list);
+}
+
 // Helper async function to dynamically generate and display
 // data/information on the user's selected program(s)
 const fetchProgData = async (num, cegepId, program) => {
@@ -27,33 +43,13 @@ const fetchProgData = async (num, cegepId, program) => {
             (num === 1 ? progOneList : progTwoList).appendChild(subTitle);
 
             for (const subKey of Object.keys(progGrid)) {
-                const gridLi = document.createElement('li');
-                const boldKey = document.createElement('strong');
-                const normValue = document.createElement('span');
-
                 let description = progGrid[subKey];
-
-                boldKey.textContent = subKey;
-                normValue.textContent = description.length > 0 ? `: ${description}` : '';
-
-                gridLi.appendChild(boldKey);
-                gridLi.appendChild(normValue);
-                (num === 1 ? progOneList : progTwoList).appendChild(gridLi);
+                generateInfoList(num, subKey, description);
             }
 
         } else {
-            const infoLi = document.createElement('li');
-            const boldKey = document.createElement('strong');
-            const normValue = document.createElement('span');
-
             let description = progData[key];
-
-            boldKey.textContent = key;
-            normValue.textContent = description.length > 0 ? `: ${description}` : '';
-
-            infoLi.appendChild(boldKey);
-            infoLi.appendChild(normValue);
-            (num === 1 ? progOneList : progTwoList).appendChild(infoLi);
+            generateInfoList(num, key, description);
         }
     }
 }
