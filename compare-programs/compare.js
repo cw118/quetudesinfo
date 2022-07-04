@@ -77,7 +77,7 @@ cegep1.addEventListener('change', () => {
         title.textContent = programOne;
         progOneList.appendChild(title);
         
-        let program = programOne.replace(/ \(.+\)/, '').replace(/[ ,\-\&]/g, '');
+        let program = programOne.replace(/ \(.+\)/, '').replace(/[ ,\-\&:]/g, '');
 
         fetchProgData(1, cegepOneId, program);
     });
@@ -105,7 +105,7 @@ cegep2.addEventListener('change', () => {
         title.textContent = programTwo;
         progTwoList.appendChild(title);
         
-        let program = programTwo.replace(/ \(.+\)/, '').replace(/[ ,\-\&]/g, '');
+        let program = programTwo.replace(/ \(.+\)/, '').replace(/[ ,\-\&:]/g, '');
 
         fetchProgData(2, cegepTwoId, program);
     });

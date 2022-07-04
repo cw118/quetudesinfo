@@ -1,0 +1,98 @@
+{
+  "CreativeArts": {
+    "Prerequisites": "general CEGEP entrance requirements",
+    "Program Grid": {
+      "Art and Media": "Journalism Today (585-131-LE), Visual Literacy (581-132-LE), Film Study (530-123-LE), The Language of Music (550-122-LE), International Cinema (530-323-LE), R/Evolution in Communication (585-231-LE), The Creative Process (589-221-LE), Photography (510-221-LE), National Art & Literature in Quebec and Canada (585-331-LE), The Art of Communication (589-301-LE), Art Criticism (520-321-LE), Film Production (530-321-LE0, Communication and Mass Media (585-431-LE), Music Expression (550-401-LE)"
+    }
+  },
+  "LanguagesandCommunication": {
+    "Prerequisites": "general CEGEP entrance requirements",
+    "Program Grid": {
+      "Media and Communication": "Journalism Today (585-131-LE), Visual Literacy (581-132-LE), International Cinema (530-323-LE), R/Evolution in Communication (585-231-LE), National Art & Literature in Quebec and Canada (585-331-LE), Communication and Mass Media (585-431-LE)",
+      "Languages": "Spanish I (607-102-LE), Spanish II (607-202-LE), Spanish III (607-303-LE), Spanish IV (607-403-LE), German I (609-102-LE), German II (609-203-LE), German III (609-303-LE), Ancient Roots of Modern Languages (615-402-LE)"
+    }
+  },
+  "VisualArts": {
+    "Prerequisites": "general CEGEP entrance requirements",
+    "Program Grid": {
+      "Art": "Drawing 1 (510-110-LE), Drawing 2 (510-210-LE), Drawing 3 (510-310-LE), Painting 1 (510-112-LE), Painting 2 (510-212-LE), Painting 3 (510-312-LE), Sculpture 1 (510-170-LE), Sculpture 2 (510-270-LE), Sculpture 3 (510-370-LE), Photography 1 (510-113-LE), Photography 2 (510-213-LE), Printmaking 1 (510-122-LE), Printmaking 2 (510-222-LE), Design (510-220-LE), Portfolio (510-330-LE)",
+      "Art history": "Art History Basics (520-110-LE), Art History Study (520-210-LE), Reading and Writing Art History (520-310-LE)"
+    }
+  },
+  "LiberalArts": {
+    "Choice of Liberal Arts — General profile (700.GE), Liberal Arts — Math profile (700.GM)": "",
+    "General profile prerequisites": "Secondary IV Math CST (414)",
+    "Math profile prerequisites": "Secondary V Math TS/SN (506)",
+    "Program Grid": {
+      "History, Classics, and Religion": "Greco-Roman Foundations (332-110-LE), Thinking About Religion (370-121-LE), Middle Ages in Europe (330-254-LE), Birth of the Modern World (330-113-LE), The World Today (330-984-LE)",
+      "Philosophy and Methodology": "Ancient Philosophy (340-910-LE), Liberal Arts Methodology (360-141-LE), Principles of Logic (340-200-LE), Philosophy and History of Science (340-322-LE), Social and Political Philosophy (340-913-LE)",
+      "Liberal Arts Seminar Course (360-341-LE)": "",
+      "4 Optional courses": ""
+    }
+  },
+  "HealthScience": {
+    "Prerequisites": "Secondary V Math TS/SN (506), Secondary V Physics (504), Secondary V Chemistry (504)",
+    "Program Grid": {
+      "Math": "Calculus I (201-NYA-05), Calculus II (201-NYB-05), Linear Algebra (201-NYC-05)",
+      "Physics": "Mechanics (203-NYA-05); Wave Motion and Modern Physics (203-NYC-05); Electricity and Magnetism (203-NYB-05)",
+      "Chemistry": "General Chemistry (202-NYA-05), Chemistry of Solutions (202-NYB-05), Organic Chemistry I (202-BFA-05)",
+      "Biology": "General Biology I (101-NYA-05), General Biology II (101-BFC-05)",
+      "1 Science Option course": ""
+    }
+  },
+  "PureandAppliedScience": {
+    "Prerequisites": "Secondary V Math TS/SN (506), Secondary V Physics (504), Secondary V Chemistry (504)",
+    "Program Grid": {
+      "Math": "Calculus I (201-NYA-05), Calculus II (201-NYB-05), Linear Algebra (201-NYC-05)",
+      "Physics": "Mechanics (203-NYA-05); Wave Motion and Modern Physics (203-NYC-05); Electricity and Magnetism (203-NYB-05)",
+      "Chemistry": "General Chemistry (202-NYA-05), Chemistry of Solutions (202-NYB-05)",
+      "Biology": "General Biology I (101-NYA-05)",
+      "3 Science Option courses": ""
+    }
+  },
+  "GeneralSocialScience": {
+    "Prerequisites": "Secondary IV Math CST (414)",
+    "Program Grid": {
+      "Compulsory": "Introduction to Psychology (350-102-RE), Quantitative Methods (360-300-RE), Western Civilization (330-910-LE), Macroeconomics (383-920-LE), Social Science Methodology (300-300-RE)",
+      "3 Introductory Level courses": "",
+      "6 Advanced Level courses": ""
+    }
+  },
+  "SocialScienceMathematics": {
+    "Prerequisites": "Secondary V Math TS/SN (506)",
+    "Program Grid": {
+      "Math": "Differential Calculus (201-103-LE), Integral Calculus (201-203-LE), Linear Algebra (201-105-LE)",
+      "Compulsory": "Quantitative Methods (360-300-RE), Macroeconomics (383-920-LE), Western Civilization (330-910-LE), Introduction to Psychology (350-102-RE), Social Science Methodology (300-300-RE)",
+      "2 Introductory Level courses": "",
+      "3 Advanced Level courses": ""
+    }
+  },
+  "Commerce": {
+    "Prerequisites": "Secondary V Math TS/SN (506)",
+    "Program Grid": {
+      "Math": "Differential Calculus (201-103-LE), Integral Calculus (201-203-LE), Linear Algebra (201-105-LE)",
+      "Compulsory": "Quantitative Methods (360-300-RE), Macroeconomics (383-920-LE), Fundamentals of Business (401-101-LE), Western Civilization (330-910-LE), Introduction to Psychology (350-102-RE), Social Science Methodology (300-300-RE), Microeconomics (383-293-LE)",
+      "1 Introductory Level course": "",
+      "1 Advanced Level Business course": "",
+      "1 Advanced Level course": ""
+    }
+  },
+  "Psychology": {
+    "Prerequisites": "Secondary IV Math CST (414)",
+    "Program Grid": {
+      "Psychology and Sociology": "Introduction to Psychology (350-102-RE), Introduction to Sociology (387-101-LE), Psychology of Development (350-276-LE) OR Institutions and Institutional Issues (387-283-LE), Social Psychology (350-271-LE) OR Social Issues and Social Problems (387-281-LE)",
+      "Compulsory": "Quantitative Methods (360-300-RE), Macroeconomics (383-920-LE), Western Civilization (330-910-LE), Social Science Methodology (300-300-RE)",
+      "2 Introductory Level courses": "",
+      "2 Advanced Level courses": ""
+    }
+  },
+  "Criminology": {
+    "Prerequisites": "Secondary IV Math CST (414)",
+    "Program Grid": {
+      "Criminology": "History of Crime and Punishment (330-301-LE), Psychology of Criminal Behaviour (350-301-LE), Deviance and Delinquency (387-301-LE), Criminal Justice: Law & Order (385-401-LE)",
+      "Compulsory": "Western Civilization (330-910-LE), Introduction to Political Science (385-101-LE), Macroeconomics (383-920-LE), Quantitative Methods (360-300-RE), Introduction to Psychology (350-102-RE), Social Science Methodology (300-300-RE)",
+      "1 Introductory Level course": "",
+      "2 Advanced Level courses": ""
+    }
+  }
+}
