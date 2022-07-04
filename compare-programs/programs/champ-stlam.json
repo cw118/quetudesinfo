@@ -1,0 +1,131 @@
+{
+  "DigitalArtsNewMedia": {
+    "Prerequisites": "general CEGEP entrance requirements",
+    "Program Grid": {
+      "Media Design and Creation": "Introduction to Visual Creation: Drawing and Observation, Introduction to Digital Creation: 2D Imaging, Web & FX: From Theory to Practice, 2D Design Studio, 3D Design Studio, Multi-Media Animation, 3D Digital Modelling & Animation",
+      "Theory and History": "The Power of the Image; Sight, Sound, Motion; Expression in Visual Genres, Art History, Making Visual Narratives, Looking Critically and Creatively at Media",
+      "Portfolio: Synthesis of Theory & Practice": ""
+    }
+  },
+  "FilmNewMedia": {
+    "Prerequisites": "general CEGEP entrance requirements",
+    "Program Grid": {
+      "Media Design and Production": "Introduction to Media Production: TV Studio, Introduction to Digital Creation: 2D Imaging, Web & FX: From Theory to Practice, Mobile Journalism: Writing and Shooting, Digital Filmmaking: Montage, Multi-Media Animation, Digital Filmmaking: From the Word to the Screen",
+      "Theory and History": "The Power of the Image; Sight, Sound, Motion; Expression in Visual Genres, Film History, Multi-Media Events & Documenting Reality, Looking Critically and Creatively at Media",
+      "Portfolio: Synthesis of Theory & Practice": ""
+    }
+  },
+  "LanguageCulture": {
+    "Prerequisites": "general CEGEP entrance requirements",
+    "Program Grid": {
+      "Culture and History": "Cultural Identity in the Visual Age I, Cultural Identity in the Visual Age II, Urban Spaces as Cultural Spheres, La francophonie à travers le monde, Montreal: A Cultural Mosaic, Spanish Civilization, Italian Civilization",
+      "Language": "Spanish I, Spanish II, Spanish III, Italian I, Italian II, Italian III"
+    }
+  },
+  "LawandCivilization": {
+    "Prerequisites": "general CEGEP entrance requirements",
+    "Program Grid": {
+      "Justice and Law": "Morality, Justice and the State; Philosophy of Law; Liberty, Rights and the Individual; Ethics, Law and Civilization",
+      "Culture/History": "Kingdoms and Empires: A History of the Ancient and Medieval Worlds; World Religions; Rebirth and Revolution: The Making of an Early Modern World; Pictures & Recordings: Technologies of Art and Music; History of Law, Romanticism and Realism; Wars and Peace: The Origins of our Contemporary World",
+      "Compulsory": "Thinking Outside the Box, Then & Now; Research Methods, The Rise of Humanism; Logic, Math & Society; Development of Modern Science",
+      "2 Option courses": ""
+    }
+  },
+  "LawCivilizationandMathematics": {
+    "Prerequisites": "Secondary V Math TS/SN (506)",
+    "Program Grid": {
+      "Math": "Calculus I, Calculus II, Linear Algebra",
+      "Justice and Law": "Morality, Justice and the State; Philosophy of Law; Liberty, Rights and the Individual; Ethics, Law and Civilization",
+      "Literature": "Gods, Goddesses and Warriors: Creative Expression; Introduction to Literature, The Evolution of Literary Genres, Literature for Our Time",
+      "Culture/History": "Kingdoms and Empires: A History of the Ancient and Medieval Worlds; World Religions; Rebirth and Revolution: The Making of an Early Modern World; Pictures & Recordings: Technologies of Art and Music; Romanticism and Realism; Wars and Peace: The Origins of our Contemporary World",
+      "Compulsory": "Thinking Outside the Box, Then & Now; Research Methods, The Rise of Humanism; Logic, Math & Society; Development of Modern Science"
+    }
+  },
+  "ComputerScienceMathematics": {
+    "Prerequisites": "Secondary V Math TS/SN (506), Secondary V Physics (504), Secondary V Chemistry (504)",
+    "Program Grid": {
+      "Programming": "Introduction to Programming, Data Structures and Object-Oriented Programming, Program Development in a Graphical Environment",
+      "Math": "Calculus I, Calculus II, Linear Algebra, Discrete Mathematics",
+      "Physics": "Mechanics; Waves, Optics and Modern Physics; Electricity and Magnetism",
+      "Chemistry": "General Chemistry"
+    }
+  },
+  "HealthScience": {
+    "Prerequisites": "Secondary V Math TS/SN (506), Secondary V Physics (504), Secondary V Chemistry (504)",
+    "Program Grid": {
+      "Math": "Calculus I, Calculus II, Linear Algebra I",
+      "Physics": "Mechanics; Waves, Optics and Modern Physics; Electricity and Magnetism",
+      "Chemistry": "General Chemistry, General Chemistry II, Organic Chemistry I",
+      "Biology": "General Biology, General Biology II",
+      "1 Option course": ""
+    }
+  },
+  "PureandAppliedScience": {
+    "Prerequisites": "Secondary V Math TS/SN (506), Secondary V Physics (504), Secondary V Chemistry (504)",
+    "Program Grid": {
+      "Math": "Calculus I, Calculus II, Linear Algebra I",
+      "Physics": "Mechanics; Waves, Optics and Modern Physics; Electricity and Magnetism",
+      "Chemistry": "General Chemistry, General Chemistry II",
+      "Biology": "General Biology",
+      "3 Option courses": ""
+    }
+  },
+  "GeneralSocialScience": {
+    "Prerequisites": "general CEGEP entrance requirements",
+    "Program Grid": {
+      "Compulsory": "Western Civilization, Introduction to Psychology, Quantitative Methods, Macroeconomics, Introduction to Methodology",
+      "3 Level I Concentration courses": "",
+      "6 Level II Concentration courses": "",
+      "Concentration course disciplines": "Anthropology, Biology, Business, Economics, Geography, History, Sociology, Political Science, Psychology"
+    }
+  },
+  "Commerce": {
+    "Prerequisites": "Secondary V Math TS/SN (506)",
+    "Program Grid": {
+      "Math": "Calculus I, Calculus II, Linear Algebra",
+      "Compulsory": "Macroeconomics, Fundamentals of Business, Western Civilization, Introduction to Accounting, Quantitative Methods, Microeconomics, Introduction to Methodology, Introduction to Psychology",
+      "Business": "Marketing for Commercial Law",
+      "Complementary course": "Computer Applications for Commerce",
+      "1 Level I Concentration course from the following disciplines": "Anthropology, Biology, Business, Economics, Geography, History, Sociology, Political Science, Psychology"
+    }
+  },
+  "Criminology": {
+    "Prerequisites": "general CEGEP entrance requirements",
+    "Program Grid": {
+      "Psychology": "Introduction to Psychology, Psychological Development of Criminal Behaviour, Abnormal Psychology & Criminal Behaviour",
+      "Sociology": "Introduction to Sociology; Sociology of Deviance, Law & Society; Sociology of Gender, Race & Justice",
+      "Anthropology": "Introduction to Anthropology, Introduction to Forensic Anthropology: CSI",
+      "Compulsory": "Western Civilization, Quantitative Methods, Introduction to Methodology, Macroeconomics, History of Crime & Punishment",
+      "Complementary course": "Introduction to Forensic Science",
+      "1 Level I Concentration course from the following disciplines": "Biology, Business, Calculus, Geography, Political Science"
+    }
+  },
+  "Education": {
+    "Prerequisites": "general CEGEP entrance requirements",
+    "Program Grid": {
+      "Sociology": "Introduction to Sociology, Sociology of Education",
+      "Psychology": "Introduction to Psychology, Child & Adolescent Psychology",
+      "Compulsory": "Introduction to Anthropology, Western Civilization, Macroeconomics, Quantitative Methods, Introduction to Methodology, Myth of Race & Reality of Racism, World Geography",
+      "3 Level II Concentration courses from the following disciplines": "Anthropology, Economics, Geography, History, Psychology, Sociology"
+    }
+  },
+  "Psychology": {
+    "Prerequisites": "general CEGEP entrance requirements",
+    "Program Grid": {
+      "Compulsory": "Introduction to Psychology, Quantitative Methods, Western Civilization, Human Biology, Introduction to Methodology, Macroeconomics, Statistics",
+      "2 Level I Concentration courses": "",
+      "2 Level II Psychology courses": "",
+      "3 Level II Concentration courses": "",
+      "Concentration course disciplines": "Anthropology, Business, Calculus, Economics, Geography, History, Political Science, Sociology, Psychology"
+    }
+  },
+  "WorldStudies": {
+    "Prerequisites": "general CEGEP entrance requirements",
+    "Prerequisites for Math Option": "Secondary V Math TS/SN (506)",
+    "Program Grid": {
+      "This is the program grid for World Studies without math. To see the program grid for World Studies with math option, visit Champlain St-Lambert's website and/or see their viewbook.": "",
+      "Compulsory": "Introduction to Political Science, World Geography, Western Civilization, Introduction to Psychology, Introduction to Anthropology, Macroeconomics, Quantitative Methods, Introduction to Methodology, Twentieth Century History, International Economics, International Politics",
+      "3 Level II Concentration courses from the following disciplines": "Anthropology, Economics, Geography, History, Psychology"
+    }
+  }
+}
