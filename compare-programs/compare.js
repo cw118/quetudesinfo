@@ -95,7 +95,7 @@ cegep1.addEventListener('change', () => {
         // the JSON title (e.g. 'Health Science' is 'HealthScience' in the JSON)
         let program = programOne.replace(/ \(.+\)/, '').replace(/[ ,\-\&:]/g, '');
 
-        // pass 1 (CEGEP 1), the ID of the CEGEP (used to name each JSON file),
+        // pass num of 1 (CEGEP 1), the ID of the CEGEP (used to name each JSON file),
         // the program name as formatted in the JSON file
         fetchProgData(1, cegepOneId, program);
     });
