@@ -532,7 +532,6 @@ div#tool-welcome p {
 div.program-description {
     padding: 10px;
     background-color: rgba(255, 255, 255, 0.5);
-    user-select: all;
 }
 
 div.program-description h4 {

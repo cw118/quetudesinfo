@@ -21,5 +21,204 @@
       "22 credits from elective courses": "3 Explorations courses, 2 Techniques courses, 3 Critique courses, 3 Creation courses OR 2 Creation and 1 Language",
       "Elective disciplines include": "Art History, Cinema, Communications, Computer Science, English Literature, Fine Arts, French, German, Italian, Mathematics, Music (general), Philosophy, Religious Studies, Spanish, Theatre"
     }
+  },
+  "LiberalArts": {
+    "Prerequisites": "general CEGEP entrance requirements",
+    "Cutoffs": "80% overall average",
+    "Letter of intent": "",
+    "Choice of Main Grid or Mathematics Grid": "",
+    "Program Grid": {
+      "Classics/History": "Ancient World (332-115-MS), Post-Classical History I (330-101-MS), Post-Classical History II: The 19th and 20th Centuries (330-102-MS)",
+      "Philosophy": "Ancient Philosophy (340-910-MS), Modern Philosophy (340-912-MS)",
+      "Art history/Religious studies": "Thematic Studies in History of Art (520-903-MS); Judaism, Christianity and Islam (370-121-MS)",
+      "Methodology": "Methodology: Liberal Arts (300-302-MS); Math, Logic and Critical Thinking (360-124-MS), Science: History and Method (360-125-MS)",
+      "12 2/3 to 14 credits from elective courses": "2 Explorations courses OR Calculus I, 2 Application courses, 3 Issue courses",
+      "Elective disciplines": "Administration (Business), Anthropology, Art History, Biology, Cinema, Communications (filmmaking), Creative Writing, Economics, English Literature, Fine Arts, French Literature, Geography, German, History, Italian, Mathematics, Music (general), Philosophy, Political Science, Psychology, Religious Studies, Sociology, Spanish, Theatre"
+    }
+  },
+  "Music": {
+    "Prerequisites": "general CEGEP entrance requirements",
+    "Cutoffs": "70% overall average",
+    "Pre-auditions, auditions, entrance tests": "",
+    "Program Grid": {
+      "Music (instruments)": "Principal Instrument I (551-121-MS), Principal Instrument II (551-221-MS), Principal Instrument III (551-321-MS), Principal Instrument IV (551-421-MS), Large Ensemble and Complementary Instrument I (551-144-MS), Large Ensemble and Complementary Instrument II (551-244-MS), Small Ensemble and Complementary Instrument III (551-443-MS)",
+      "Music (theory)": "Music Literature I (551-131-MS), Music Literature II (551-231-MS), Music Literature III (551-331-MS), Music Literature IV (551-431-MS), Ear Training and Theory I (551-156-MS), Ear Training and Theory II (551-256-MS), Ear Training and Theory III (551-356-MS), Ear Training and Theory IV (551-456-MS), Music Technology (551-300-MS)"
+    }
+  },
+  "MusicandALC": {
+    "Prerequisites": "general CEGEP entrance requirements",
+    "Cutoffs": "75% overall average",
+    "Pre-auditions, auditions, entrance tests": "",
+    "3-year pre-university Double DEC": "",
+    "Program Grid": {
+      "Arts and Literature": "Perspectives in Arts and Literature I (502-APA-MS), Perspectives in Arts and Literature II (502-APB-MS), Perspectives in Contemporary Arts and Literature (502-APC-MS)",
+      "ALC electives": "2 Explorations courses, 2 Techniques courses, 2 Critique courses, 2 Creation courses, 1 Creative Thinking course",
+      "Music (instruments)": "Principal Instrument I (551-121-MS), Principal Instrument II (551-221-MS), Principal Instrument III (551-321-MS), Principal Instrument IV (551-421-MS), Large Ensemble and Complementary Instrument I (551-144-MS), Large Ensemble and Complementary Instrument II (551-244-MS), Small Ensemble and Complementary Instrument III (551-443-MS)",
+      "Music (theory)": "Music Literature I (551-131-MS), Music Literature II (551-231-MS), Music Literature III (551-331-MS), Music Literature IV (551-431-MS), Ear Training and Theory I (551-156-MS), Ear Training and Theory II (551-256-MS), Ear Training and Theory III (551-356-MS), Ear Training and Theory IV (551-456-MS), Music Technology (551-300-MS)",
+      "Two comprehensive assessments": ""
+    }
+  },
+  "MusicandScience": {
+    "Prerequisites": "Secondary V Math TS/SN (506), Secondary V Physics (504), Secondary V Chemistry (504)",
+    "Cutoffs": "83% overall average, 75% minimum in Secondary IV and V Math TS/SN, 84% science/math average",
+    "Pre-auditions, auditions, entrance tests": "",
+    "3-year pre-university Double DEC": "",
+    "Program Grid": {
+      "Math": "Calculus I (201-NYA-05), Calculus II (201-NYB-05), Linear Algebra I (201-NYC-05)",
+      "Physics": "Mechanics (203-NYA-05); Waves, Optics and Modern Physics (203-NYC-05); Electricity and Magnetism (203-NYB-05)",
+      "Chemistry": "General Chemistry (202-NYA-05), General Chemistry II (202-NYB-05)",
+      "Biology": "General Biology (101-NYA-05)",
+      "Health Science/Music": "Organic Chemistry I (202-LCU-05), General Biology II (101-LCU-05)",
+      "Music (instruments)": "Principal Instrument I (551-121-MS), Principal Instrument II (551-221-MS), Principal Instrument III (551-321-MS), Principal Instrument IV (551-421-MS), Large Ensemble and Complementary Instrument I (551-144-MS), Large Ensemble and Complementary Instrument II (551-244-MS), Small Ensemble and Complementary Instrument III (551-443-MS)",
+      "Music (theory)": "Music Literature I (551-131-MS), Music Literature II (551-231-MS), Music Literature III (551-331-MS), Music Literature IV (551-431-MS), Ear Training and Theory I (551-156-MS), Ear Training and Theory II (551-256-MS), Ear Training and Theory III (551-356-MS), Ear Training and Theory IV (551-456-MS), Music Technology (551-300-MS)",
+      "Two comprehensive assessments": ""
+    }
+  },
+  "MusicandSocialScience": {
+    "Prerequisites": "general CEGEP entrance requirements (Music/General Social Science), Music/Social Science Two-Math: Secondary V Math TS/SN (506)",
+    "Cutoffs": "75% overall average (Music/General Social Science); Music/Social Science Two-Math: 75% minimum in Secondary IV and V Math TS/SN, 75% overall average",
+    "Pre-auditions, auditions, entrance tests": "",
+    "3-year pre-university Double DEC": "",
+    "Program Grid": {
+      "Social Science": "Western Civilization (330-901-MS), Introduction to Psychology (350-102-MS), Macroeconomics (383-920-MS), Quantitative Methods(360-300-MS) , Research Methods (300-300-MS)",
+      "Music/General Social Science": "3 introductory level courses, 6 upper level courses",
+      "Music/Social Science Two-Math": "Calculus I, Linear Algebra, 2 introductory level courses, 4 upper level courses",
+      "Music (instruments)": "Principal Instrument I (551-121-MS), Principal Instrument II (551-221-MS), Principal Instrument III (551-321-MS), Principal Instrument IV (551-421-MS), Large Ensemble and Complementary Instrument I (551-144-MS), Large Ensemble and Complementary Instrument II (551-244-MS), Small Ensemble and Complementary Instrument III (551-443-MS)",
+      "Music (theory)": "Music Literature I (551-131-MS), Music Literature II (551-231-MS), Music Literature III (551-331-MS), Music Literature IV (551-431-MS), Ear Training and Theory I (551-156-MS), Ear Training and Theory II (551-256-MS), Ear Training and Theory III (551-356-MS), Ear Training and Theory IV (551-456-MS), Music Technology (551-300-MS)",
+      "Two comprehensive assessments": ""
+    }
+  },
+  "HealthScience": {
+    "Prerequisites": "Secondary V Math TS/SN (506), Secondary V Physics (504), Secondary V Chemistry (504)",
+    "Cutoffs": "83% overall average, 75% minimum in Secondary IV and V Math TS/SN, 84% science/math average",
+    "Program Grid": {
+      "Math": "Calculus I (201-NYA-05), Calculus II (201-NYB-05), Linear Algebra I (201-NYC-05)",
+      "Physics": "Mechanics (203-NYA-05); Waves, Optics and Modern Physics (203-NYC-05); Electricity and Magnetism (203-NYB-05)",
+      "Chemistry": "General Chemistry (202-NYA-05), General Chemistry II (202-NYB-05), Organic Chemistry I (202-LCU-05)",
+      "Biology": "General Biology (101-NYA-05), General Biology II (101-LCU-05)",
+      "1 elective course": "",
+      "Elective disciplines: Biology, Chemistry, Computer Science, Mathematics, Physics": ""
+    }
+  },
+  "PureandAppliedScience": {
+    "Prerequisites": "Secondary V Math TS/SN (506), Secondary V Physics (504), Secondary V Chemistry (504)",
+    "Cutoffs": "83% overall average, 75% minimum in Secondary IV and V Math TS/SN, 84% science/math average",
+    "Program Grid": {
+      "Math": "Calculus I (201-NYA-05), Calculus II (201-NYB-05), Linear Algebra I (201-NYC-05)",
+      "Physics": "Mechanics (203-NYA-05); Waves, Optics and Modern Physics (203-NYC-05); Electricity and Magnetism (203-NYB-05)",
+      "Chemistry": "General Chemistry (202-NYA-05), General Chemistry II (202-NYB-05)",
+      "Biology": "General Biology (101-NYA-05)",
+      "3 elective courses": "8 credits",
+      "Elective disciplines: Biology, Chemistry, Computer Science, Mathematics, Physics": ""
+    }
+  },
+  "HonoursScience": {
+    "Prerequisites": "Secondary V Math TS/SN (506), Secondary V Physics (504), Secondary V Chemistry (504)",
+    "Cutoffs": "75% minimum in Secondary IV and V Math TS/SN, 83% overall average, 90% science/math average",
+    "Letter of intent": "",
+    "Choice of Honours Health Science or Honours Pure and Applied Science": "",
+    "Program Grid": {
+      "Math": "Calculus I (201-NYA-05), Calculus II (201-NYB-05), Linear Algebra I (201-NYC-05)",
+      "Physics": "Mechanics (203-NYA-05); Waves, Optics and Modern Physics (203-NYC-05); Electricity and Magnetism (203-NYB-05)",
+      "Chemistry": "General Chemistry (202-NYA-05), General Chemistry II (202-NYB-05)",
+      "Biology": "General Biology (101-NYA-05)",
+      "Honours Health Science": "Organic Chemistry I (202-LCU-05), General Biology II (101-LCU-05)",
+      "1 elective (Health) OR 3 electives (Pure and Applied)": "",
+      "3 of 12 required science courses must be Enriched courses": ""
+    }
+  },
+  "GeneralSocialScience": {
+    "Prerequisites": "general CEGEP entrance requirements",
+    "Cutoffs": "75% overall average",
+    "Program Grid": {
+      "Compulsory": "Economics (383-920-MS), History (330-910-MS), Methodology (300-300-MS), Psychology (350-102-MS), Quantitative Methods (360-300-MS)",
+      "3 choices from": "Administration (401-913-MS), Anthropology (381-903-MS), Geography (320-103-MS), Mathematics (201-103-MS), Philosophy (340-914-MS), Political Science (385-950-MS), Religious Studies (370-111-MS), Sociology (387-960-MS)",
+      "6 Upper Level courses, choice of the following disciplines": "Administration, Anthropology, Applied Statistics (Profile B), Biology (Profile B), Economics, Geography, History, Mathematics, Philosophy, Political Science, Psychology, Religious Studies, Sociology",
+      "A maximum of 5 courses in any one discipline is permitted": ""
+    }
+  },
+  "HonoursSocialScience": {
+    "Prerequisites": "general CEGEP entrance requirements",
+    "Cutoffs": "85% overall average",
+    "Letter of intent": "",
+    "Program Grid": {
+      "Compulsory": "Economics (383-920-MS), History (330-910-MS), Methodology (300-300-MS), Psychology (350-102-MS), Quantitative Methods (360-300-MS)",
+      "3 choices from": "Administration (401-913-MS), Anthropology (381-903-MS), Geography (320-103-MS), Mathematics (201-103-MS), Philosophy (340-914-MS), Political Science (385-950-MS), Religious Studies (370-111-MS), Sociology (387-960-MS)",
+      "5 Upper Level courses, choice of the following disciplines": "Administration, Anthropology, Applied Statistics (Profile B), Biology (Profile B), Economics, Geography, History, Mathematics, Philosophy, Political Science, Psychology, Religious Studies, Sociology",
+      "A maximum of 5 courses in any one discipline is permitted": "",
+      "Honours Social Science Seminar": ""
+    }
+  },
+  "Commerce": {
+    "Prerequisites": "Secondary V Math TS/SN (506)",
+    "Cutoffs": "75% minimum in Secondary IV and V Math TS/SN, 75% overall average",
+    "Program Grid": {
+      "Compulsory": "Administration (401-913-MS), Economics (383-920-MS), History (330-910-MS), Calculus I for Social Science (201-103-MS), Methodology (300-300-MS), Psychology (350-102-MS), Quantitative Methods (360-300-MS)",
+      "1 choice from": "Anthropology, Geography, Philosophy, Political Science, Religious Studies, Sociology",
+      "Upper Level Math": "Calculus II for Commerce (201-203-MS), Linear Algebra for Commerce (201-105-MS)",
+      "3 Upper Level choices from": "Administration, Anthropology, Economics, Geography, History, Philosophy, Political Science, Psychology, Religious Studies, Sociology"
+    }
+  },
+  "HonoursCommerce": {
+    "Prerequisites": "Secondary V Math TS/SN (506)",
+    "Cutoffs": "75% minimum in Secondary IV and V Math TS/SN, 85% overall average",
+    "Letter of intent": "",
+    "Program Grid": {
+      "Compulsory": "Administration (401-913-MS), Economics (383-920-MS), History (330-910-MS), Calculus I for Social Science (201-103-MS), Methodology (300-300-MS), Psychology (350-102-MS), Quantitative Methods (360-300-MS)",
+      "1 choice from": "Anthropology, Geography, Philosophy, Political Science, Religious Studies, Sociology",
+      "Upper Level Math": "Calculus II for Commerce (201-203-MS), Linear Algebra for Commerce (201-105-MS)",
+      "2 Upper Level choices from": "Administration, Anthropology, Economics, Geography, History, Philosophy, Political Science, Psychology, Religious Studies, Sociology",
+      "Honours Commerce Social Science seminar": ""
+    }
+  },
+  "MathandFinance": {
+    "Prerequisites": "Secondary V Math TS/SN (506)",
+    "Cutoffs": "85% minimum in Secondary IV and V Math TS/SN, 80% overall average",
+    "Letter of intent": "",
+    "Program Grid": {
+      "Compulsory": "Administration (401-913-MS), Economics (383-920-MS), History (330-910-MS), Calculus I (201-NYA-05), Methodology (300-300-MS), Psychology (350-102-MS)",
+      "5 compulsory Upper Level courses": "Calculus II (201-NYB-05), Linear Algebra I (201-NYC-05), Probability and Statistics (201-LCW-MS), Multivariable Calculus and Probability (201-LCQ-MS), Introduction to Finance (383-922-MS)"
+    }
+  },
+  "SocialScienceTwoMath": {
+    "Prerequisites": "Secondary V Math TS/SN (506)",
+    "Cutoffs": "75% minimum in Secondary IV and V Math TS/SN, 75% overall average",
+    "Program Grid": {
+      "Compulsory": "Economics (383-920-MS), History (330-910-MS), Methodology (300-300-MS), Psychology (350-102-MS), Quantitative Methods (360-300-MS)",
+      "3 choices from": "Administration (401-913-MS), Anthropology (381-903-MS), Geography (320-103-MS), Mathematics (201-103-MS), Philosophy (340-914-MS), Political Science (385-950-MS), Religious Studies (370-111-MS), Sociology (387-960-MS)",
+      "Mathematics, Calculus I for Social Science (201-103-MS) is required for this profile": "",
+      "5 Upper Level courses, choice of the following disciplines": "Administration, Anthropology, Applied Statistics (Profile B), Biology (Profile B), Economics, Geography, History, Mathematics, Philosophy, Political Science, Psychology, Religious Studies, Sociology",
+      "A maximum of 5 courses in any one discipline is permitted": ""
+    }
+  },
+  "LawSocietyandJustice": {
+    "Prerequisites": "general CEGEP entrance requirements",
+    "Cutoffs": "73% overall average",
+    "Program Grid": {
+      "Compulsory": "Economics (383-920-MS), History (330-910-MS), Methodology (300-300-MS), Psychology (350-102-MS), Quantitative Methods (360-300-MS)",
+      "3 choices from": "Administration (401-913-MS), Anthropology (381-903-MS), Geography (320-103-MS), Mathematics (201-103-MS), Philosophy (340-914-MS), Political Science (385-950-MS), Religious Studies (370-111-MS), Sociology (387-960-MS)",
+      "6 Upper Level courses, choice of the following disciplines": "Administration, Anthropology, Applied Statistics (Profile B), Biology (Profile B), Economics, Geography, History, Mathematics, Philosophy, Political Science, Psychology, Religious Studies, Sociology",
+      "A maximum of 5 courses in any one discipline is permitted": ""
+    }
+  },
+  "GlobalStudiesandInternationalAffairs": {
+    "Prerequisites": "general CEGEP entrance requirements",
+    "Cutoffs": "73% overall average",
+    "Program Grid": {
+      "Compulsory": "Economics (383-920-MS), History (330-910-MS), Methodology (300-300-MS), Psychology (350-102-MS), Quantitative Methods (360-300-MS)",
+      "3 choices from": "Administration (401-913-MS), Anthropology (381-903-MS), Geography (320-103-MS), Mathematics (201-103-MS), Philosophy (340-914-MS), Political Science (385-950-MS), Religious Studies (370-111-MS), Sociology (387-960-MS)",
+      "6 Upper Level courses, choice of the following disciplines": "Administration, Anthropology, Applied Statistics (Profile B), Biology (Profile B), Economics, Geography, History, Mathematics, Philosophy, Political Science, Psychology, Religious Studies, Sociology",
+      "A maximum of 5 courses in any one discipline is permitted": ""
+    }
+  },
+  "Psychology": {
+    "Prerequisites": "general CEGEP entrance requirements",
+    "Cutoffs": "73% overall average",
+    "Program Grid": {
+      "Compulsory": "Economics (383-920-MS), History (330-910-MS), Methodology (300-300-MS), Psychology (350-102-MS), Quantitative Methods (360-300-MS)",
+      "3 choices from": "Administration (401-913-MS), Anthropology (381-903-MS), Geography (320-103-MS), Mathematics (201-103-MS), Philosophy (340-914-MS), Political Science (385-950-MS), Religious Studies (370-111-MS), Sociology (387-960-MS)",
+      "6 Upper Level courses, choice of the following disciplines": "Administration, Anthropology, Applied Statistics (Profile B), Biology (Profile B), Economics, Geography, History, Mathematics, Philosophy, Political Science, Psychology, Religious Studies, Sociology",
+      "A maximum of 5 courses in any one discipline is permitted": ""
+    }
   }
 }

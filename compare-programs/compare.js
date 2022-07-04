@@ -26,6 +26,7 @@ const generateInfoList = (num, infoKey, infoDesc) => {
 // data/information on the user's selected program(s)
 const fetchProgData = async (num, cegepId, program) => {
     const request = new Request(`programs/${cegepId}.json`);
+    console.log(request);
     const response = await fetch(request);
     const programs = await response.json();
     let progData = programs[program];
@@ -76,7 +77,7 @@ cegep1.addEventListener('change', () => {
         title.textContent = programOne;
         progOneList.appendChild(title);
         
-        let program = programOne.replace(/ \(.+\)/, '').replace(/[ ,-]/g, '');
+        let program = programOne.replace(/ \(.+\)/, '').replace(/[ ,\-\&]/g, '');
 
         fetchProgData(1, cegepOneId, program);
     });
@@ -104,7 +105,7 @@ cegep2.addEventListener('change', () => {
         title.textContent = programTwo;
         progTwoList.appendChild(title);
         
-        let program = programTwo.replace(/ \(.+\)/, '').replace(/[ ,-]/g, '');
+        let program = programTwo.replace(/ \(.+\)/, '').replace(/[ ,\-\&]/g, '');
 
         fetchProgData(2, cegepTwoId, program);
     });
