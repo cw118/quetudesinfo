@@ -29,7 +29,7 @@ const generateInfoList = (num, infoKey, infoDesc) => {
 // data/information on the user's selected program(s)
 const fetchProgData = async (num, cegepId, program) => {
     // fetch and wait for data from the JSON file of the selected CEGEP
-    const request = new Request(`programs/${cegepId}.json`);
+    const request = new Request(`https://cw118.github.io/quetudesinfo/compare-programs/programs/${cegepId}.json`);
     console.log(request);
     const response = await fetch(request);
     const programs = await response.json();
