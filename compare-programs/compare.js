@@ -5,6 +5,13 @@ const cegep1 = document.querySelector('#cegep1');
 const cegep2 = document.querySelector('#cegep2');
 const progOneList = document.querySelector('#program-grid1');
 const progTwoList = document.querySelector('#program-grid2');
+const cegepName1 = document.querySelector('#cegep-name1'); // title with CEGEP name
+const program1 = document.querySelector('#program1'); // input element for program 1
+const cegepName2 = document.querySelector('#cegep-name2');
+const program2 = document.querySelector('#program2');
+
+let cegepOneId = '';
+let cegepTwoId = '';
 
 // Small helper function to create/append elements
 const generateInfoList = (num, infoKey, infoDesc) => {
@@ -30,7 +37,6 @@ const generateInfoList = (num, infoKey, infoDesc) => {
 const fetchProgData = async (num, cegepId, program) => {
   // fetch and wait for data from the JSON file of the selected CEGEP
   const request = new Request(`https://cw118.github.io/quetudesinfo/compare-programs/programs/${cegepId}.json`);
-  console.log(request);
   const response = await fetch(request);
   const programs = await response.json();
 
@@ -66,13 +72,10 @@ const fetchProgData = async (num, cegepId, program) => {
   }
 }
 
-cegep1.addEventListener('change', () => {
-  let cegepOneId = '';
+cegep1.addEventListener('input', () => {
   progOneList.textContent = ''; // clear the program information lists
   const cegepOne = document.querySelector('#cegep1'); // <select> for cegep 1
   cegepOneId = cegepOne.value; // CEGEP 'id' used to name each CEGEP's JSON file
-  const cegepName1 = document.querySelector('#cegep-name1'); // title with CEGEP name
-  const program1 = document.querySelector('#program1'); // input element for program 1
 
   // set CEGEP name title to the text of the selected CEGEP
   cegepName1.textContent = cegepOne.options[cegepOne.selectedIndex].textContent;
@@ -82,57 +85,54 @@ cegep1.addEventListener('change', () => {
   program1.placeholder = "Type or select a program";
   program1.setAttribute('list', cegepOneId); // link the program <select> to the
                                              // datalist for the selected CEGEP
+});
 
-  program1.addEventListener('change', () => {
-    progOneList.textContent = ''; // clear the program information lists
-    let programOne = program1.value; // save the program name
+program1.addEventListener('input', () => {
+  progOneList.textContent = ''; // clear the program information lists
+  let programOne = program1.value; // save the program name
 
-    // create and append the program name as a title
-    const title = document.createElement('p');
-    title.style.fontSize = '21px';
-    title.style.fontWeight = 'bold';
-    title.style.textDecoration = 'underline';
-    title.textContent = programOne;
-    progOneList.appendChild(title);
-    
-    // remove spaces and characters from program name to be the same format as
-    // the JSON title (e.g. 'Health Science' is 'HealthScience' in the JSON)
-    let program = programOne.replace(/ \(.+\)/, '').replace(/[ ,\-\&:]/g, '');
+  // create and append the program name as a title
+  const title = document.createElement('p');
+  title.style.fontSize = '21px';
+  title.style.fontWeight = 'bold';
+  title.style.textDecoration = 'underline';
+  title.textContent = programOne;
+  progOneList.appendChild(title);
+  
+  // remove spaces and characters from program name to be the same format as
+  // the JSON title (e.g. 'Health Science' is 'HealthScience' in the JSON)
+  let program = programOne.replace(/ \(.+\)/, '').replace(/[ ,\-\&:]/g, '');
 
-    // pass num of 1 (CEGEP 1), the ID of the CEGEP (used to name each JSON file),
-    // the program name as formatted in the JSON file
-    fetchProgData(1, cegepOneId, program);
-  });
+  // pass num of 1 (CEGEP 1), the ID of the CEGEP (used to name each JSON file),
+  // the program name as formatted in the JSON file
+  fetchProgData(1, cegepOneId, program);
 });
 
 // see the cegep1 event listener for comments/explanations
-cegep2.addEventListener('change', () => {
-  let cegepTwoId = '';
+cegep2.addEventListener('input', () => {
   progTwoList.textContent = '';
   const cegepTwo = document.querySelector('#cegep2');
   cegepTwoId = cegepTwo.value;
-  const cegepName2 = document.querySelector('#cegep-name2');
-  const program2 = document.querySelector('#program2');
 
   cegepName2.textContent = cegepTwo.options[cegepTwo.selectedIndex].textContent;
   program2.value = '';
   program2.removeAttribute('readonly');
   program2.placeholder = "Type or select a program";
   program2.setAttribute('list', cegepTwoId);
+});
 
-  program2.addEventListener('change', () => {
-    progTwoList.textContent = '';
-    let programTwo = program2.value;
+program2.addEventListener('input', () => {
+  progTwoList.textContent = '';
+  let programTwo = program2.value;
 
-    const title = document.createElement('p');
-    title.style.fontSize = '21px';
-    title.style.fontWeight = 'bold';
-    title.style.textDecoration = 'underline';
-    title.textContent = programTwo;
-    progTwoList.appendChild(title);
-    
-    let program = programTwo.replace(/ \(.+\)/, '').replace(/[ ,\-\&:]/g, '');
+  const title = document.createElement('p');
+  title.style.fontSize = '21px';
+  title.style.fontWeight = 'bold';
+  title.style.textDecoration = 'underline';
+  title.textContent = programTwo;
+  progTwoList.appendChild(title);
+  
+  let program = programTwo.replace(/ \(.+\)/, '').replace(/[ ,\-\&:]/g, '');
 
-    fetchProgData(2, cegepTwoId, program);
-  });
+  fetchProgData(2, cegepTwoId, program);
 });
