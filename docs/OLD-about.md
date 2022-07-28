@@ -45,7 +45,8 @@ Speaking of CS50, I have professor Malan, Brian Yu, and all of the CS50 team to 
 - **September 26, 2021:** final checks complete, added to `quetudesinfo` repository. Site now available on GitHub Pages.
 - **September 27, 2021:** CS50x 2021 final project requirements completed and submitted. This was CS50!
 - **January 2, 2022** (happy new year!)**:** first reorganization of the `quetudesinfo` repository complete
-- **January 21, 2022:** more improvements (custom 404 page, slight reorganization) and starting on the road to open source (hopefully)
+- **January 21, 2022:** more improvements (custom 404 page, slight reorganization) and starting on the road to open source
+- **July 28, 2022:** the project is "officially" open to contributions
 ___
 
 ## 💻 The code

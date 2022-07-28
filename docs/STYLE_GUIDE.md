@@ -1,1 +1,0 @@
-# QUÉtudes-info style guide
