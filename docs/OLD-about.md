@@ -1,6 +1,6 @@
 # quetudesinfo
 
-## Note that this is the "old" version of the quetudesinfo README, created for and based on final project guidelines of the Harvard CS50 course.
+## Note that this is the "old"/archived version of the quetudesinfo README and will no longer be updated.
 
 As this doesn't quite meet the standards for `DOCS.md`, `ABOUT.md`, or any other Markdown documentation category, this document should be considered "out-of-date" (an old draft). **This file will *no longer* be modified or updated, and may simply be deleted in the future. Refer instead to the following documents:**
 
@@ -21,6 +21,7 @@ As this doesn't quite meet the standards for `DOCS.md`, `ABOUT.md`, or any other
 - [Design and content](#-design-and-content)
 - [Dissecting the site: the purpose of each section](#-dissecting-the-site-the-purpose-of-each-section)
 - [CSS and JavaScript](#%EF%B8%8F-css-and-javascript)
+
 </details>
 
 ___
