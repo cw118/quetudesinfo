@@ -255,6 +255,10 @@ img.figure {
     width: 25%;
 }
 
+ol.inner, ul.inner {
+    list-style-type: lower-alpha;
+}
+
 @media screen and (max-width: 768px) {
     img.figure {
         width: 100%;

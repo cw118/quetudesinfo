@@ -2,7 +2,9 @@
 
 QUÉtudes-info has a *lot* of information, which makes it quite difficult to maintain and keep up-to-date. Any help, from correcting typos and updating facts/information to improving code and stylesheets, would be greatly appreciated!
 
-As the maintainer, I now have a significantly smaller amount of time to work on this project, but I will do my best. If there are questions regarding contributions, you can ping me (@cw118) if needed.
+**IMPORTANT:** QUÉtudes-info's prose content is available under the [CC BY-SA 4.0 license](https://github.com/cw118/quetudesinfo/blob/main/LICENSE.md#license-for-all-prose-content), while the source code is available under the [MPL 2.0 license](https://github.com/cw118/quetudesinfo/blob/main/LICENSE.md#license-for-all-source-code). ***All contributions you make to this repository will be available under these licenses as well!***
+
+As the maintainer, I now have a significantly smaller amount of time to work on this project, but I do my best. If there are questions regarding contributions, you can ping me (@cw118) **if needed**.
 
 ## Contributions and bug reports
 
