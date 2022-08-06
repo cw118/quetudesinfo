@@ -1,0 +1,45 @@
+name: "Bug report"
+description: Report mistakes and/or bugs found on the QUÉtudes-info site.
+title: "Issue with <page-name>: <short-summary-of-issue>"
+labels: ["status: needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Please provide as many details as possible to help us correct the bug/mistake.** Don't forget to write a descriptive but concise title for the issue!
+        Thanks for taking the time to fill out this bug report :)
+  - type: input
+    id: page-url
+    attributes:
+      label: Page URL
+      description: The link to the page(s) with the bug/mistake or, if it's on multiple pages, provide at least an example or most important page.
+    validations:
+      required: true
+
+  - type: input
+    id: section
+    attributes:
+      label: What specific section has this bug/mistake?
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is the bug/mistake?
+    validations:
+      required: true
+  - type: textarea
+    id: device-browser
+    attributes:
+      label: Which device(s) and browser(s) have this issue?
+      description: Device type and model, and/or browser type and version may be the cause of a bug.
+    validations:
+      required: true
+  - type: textarea
+    id: references
+    attributes:
+      label: Supporting links, references, or citations
+      description: Link to information that helps to triage and confirm your issue.
+  - type: textarea
+    id: more-info
+    attributes:
+      label: Do you have other important details on the issue to share?
+      description: e.g. steps to reproduce a bug, screenshots, screen recordings, or sample code
