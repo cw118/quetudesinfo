@@ -1,8 +1,10 @@
 # 🎓 QUÉtudes-info: Guide to CEGEP
 
-Welcome to QUÉtudes-info, the student-created guide to CEGEP! This project is currently maintained by @cw118. *[Visit the QUÉtudes-info site](https://cw118.github.io/quetudesinfo).*
+Welcome to QUÉtudes-info, the student-created guide to CEGEP! This project is currently maintained by [@cw118](https://github.com/cw118). *[Visit the QUÉtudes-info site](https://cw118.github.io/quetudesinfo).*
 
 Please take the time to read the [participation guidelines (code of conduct)](#participation-guidelines), [licenses](LICENSE.md) and the [brief guide to contributions](docs/CONTRIBUTING.md) — all contribution is welcome :)
+
+***Coming soon: GitHub Discussions for QUÉtudes-info***
 
 ---
 
