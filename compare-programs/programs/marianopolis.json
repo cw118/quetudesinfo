@@ -132,8 +132,7 @@
     "Cutoffs": "75% overall average",
     "Program Grid": {
       "Compulsory": "Intellectual Methods in Social Science, History of the Modern World, Introduction to Psychology, Human Culture and Diversity, Qualitative Research in Social Science, Macroeconomics; People, Places and Environments; Individual and Society, Quantitative Analysis in Social Science, Introduction to Political Science, Multidisciplinary Thematic Course in Social Science, Integrative Project in Social Science",
-      "4 Upper-Level courses, choice of the following disciplines": "Administration, Anthropology, Applied Statistics (semester 4, pending result in Quantitative Analysis), Economics, Geography, History, Mathematics, Philosophy, Political Science, Psychology, Religious Studies, Sociology",
-      "A maximum of 5 courses in any one discipline is permitted": ""
+      "4 Upper-Level courses, choice of the following disciplines": "Administration, Anthropology, Applied Statistics (semester 4, pending result in Quantitative Analysis), Economics, Geography, History, Mathematics, Philosophy, Political Science, Psychology, Religious Studies, Sociology"
     }
   },
   "CoreSocialSciencewithmath": {
@@ -141,8 +140,7 @@
     "Cutoffs": "75% minimum in Secondary IV and V Math TS/SN, 75% overall average",
     "Program Grid": {
       "Compulsory": "Intellectual Methods in Social Science, History of the Modern World, Differential Calculus in Social Science, Human Culture and Diversity, Qualitative Research in Social Science, Macroeconomics; People, Places and Environments; Quantitative Analysis in Social Science, Introduction to Political Science, Multidisciplinary Thematic Course in Social Science, Linear Algebra in Social Science, Integrative Project in Social Science",
-      "2 Upper-Level courses, choice of the following disciplines": "Administration, Anthropology, Economics, Geography, History, Mathematics, Philosophy, Political Science, Psychology, Religious Studies, Sociology",
-      "A maximum of 5 courses in any one discipline is permitted": ""
+      "2 Upper-Level courses, choice of the following disciplines": "Administration, Anthropology, Economics, Geography, History, Mathematics, Philosophy, Political Science, Psychology, Religious Studies, Sociology"
     }
   },
   "Commerce": {
