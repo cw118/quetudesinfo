@@ -127,98 +127,59 @@
       "3 of 12 required science courses must be Enriched courses": ""
     }
   },
-  "GeneralSocialScience": {
+  "CoreSocialScience": {
     "Prerequisites": "general CEGEP entrance requirements",
     "Cutoffs": "75% overall average",
     "Program Grid": {
-      "Compulsory": "Economics (383-920-MS), History (330-910-MS), Methodology (300-300-MS), Psychology (350-102-MS), Quantitative Methods (360-300-MS)",
-      "3 choices from": "Administration (401-913-MS), Anthropology (381-903-MS), Geography (320-103-MS), Mathematics (201-103-MS), Philosophy (340-914-MS), Political Science (385-950-MS), Religious Studies (370-111-MS), Sociology (387-960-MS)",
-      "6 Upper Level courses, choice of the following disciplines": "Administration, Anthropology, Applied Statistics (Profile B), Biology (Profile B), Economics, Geography, History, Mathematics, Philosophy, Political Science, Psychology, Religious Studies, Sociology",
+      "Compulsory": "Intellectual Methods in Social Science, History of the Modern World, Introduction to Psychology, Human Culture and Diversity, Qualitative Research in Social Science, Macroeconomics; People, Places and Environments; Individual and Society, Quantitative Analysis in Social Science, Introduction to Political Science, Multidisciplinary Thematic Course in Social Science, Integrative Project in Social Science",
+      "4 Upper-Level courses, choice of the following disciplines": "Administration, Anthropology, Applied Statistics (semester 4, pending result in Quantitative Analysis), Economics, Geography, History, Mathematics, Philosophy, Political Science, Psychology, Religious Studies, Sociology",
       "A maximum of 5 courses in any one discipline is permitted": ""
     }
   },
-  "HonoursSocialScience": {
-    "Prerequisites": "general CEGEP entrance requirements",
-    "Cutoffs": "85% overall average",
-    "Letter of intent": "",
+  "CoreSocialSciencewithmath": {
+    "Prerequisites": "Secondary V Math TS/SN (506)",
+    "Cutoffs": "75% minimum in Secondary IV and V Math TS/SN, 75% overall average",
     "Program Grid": {
-      "Compulsory": "Economics (383-920-MS), History (330-910-MS), Methodology (300-300-MS), Psychology (350-102-MS), Quantitative Methods (360-300-MS)",
-      "3 choices from": "Administration (401-913-MS), Anthropology (381-903-MS), Geography (320-103-MS), Mathematics (201-103-MS), Philosophy (340-914-MS), Political Science (385-950-MS), Religious Studies (370-111-MS), Sociology (387-960-MS)",
-      "5 Upper Level courses, choice of the following disciplines": "Administration, Anthropology, Applied Statistics (Profile B), Biology (Profile B), Economics, Geography, History, Mathematics, Philosophy, Political Science, Psychology, Religious Studies, Sociology",
-      "A maximum of 5 courses in any one discipline is permitted": "",
-      "Honours Social Science Seminar": ""
+      "Compulsory": "Intellectual Methods in Social Science, History of the Modern World, Differential Calculus in Social Science, Human Culture and Diversity, Qualitative Research in Social Science, Macroeconomics; People, Places and Environments; Quantitative Analysis in Social Science, Introduction to Political Science, Multidisciplinary Thematic Course in Social Science, Linear Algebra in Social Science, Integrative Project in Social Science",
+      "2 Upper-Level courses, choice of the following disciplines": "Administration, Anthropology, Economics, Geography, History, Mathematics, Philosophy, Political Science, Psychology, Religious Studies, Sociology",
+      "A maximum of 5 courses in any one discipline is permitted": ""
     }
   },
   "Commerce": {
     "Prerequisites": "Secondary V Math TS/SN (506)",
     "Cutoffs": "75% minimum in Secondary IV and V Math TS/SN, 75% overall average",
     "Program Grid": {
-      "Compulsory": "Administration (401-913-MS), Economics (383-920-MS), History (330-910-MS), Calculus I for Social Science (201-103-MS), Methodology (300-300-MS), Psychology (350-102-MS), Quantitative Methods (360-300-MS)",
-      "1 choice from": "Anthropology, Geography, Philosophy, Political Science, Religious Studies, Sociology",
-      "Upper Level Math": "Calculus II for Commerce (201-203-MS), Linear Algebra for Commerce (201-105-MS)",
-      "3 Upper Level choices from": "Administration, Anthropology, Economics, Geography, History, Philosophy, Political Science, Psychology, Religious Studies, Sociology"
-    }
-  },
-  "HonoursCommerce": {
-    "Prerequisites": "Secondary V Math TS/SN (506)",
-    "Cutoffs": "75% minimum in Secondary IV and V Math TS/SN, 85% overall average",
-    "Letter of intent": "",
-    "Program Grid": {
-      "Compulsory": "Administration (401-913-MS), Economics (383-920-MS), History (330-910-MS), Calculus I for Social Science (201-103-MS), Methodology (300-300-MS), Psychology (350-102-MS), Quantitative Methods (360-300-MS)",
-      "1 choice from": "Anthropology, Geography, Philosophy, Political Science, Religious Studies, Sociology",
-      "Upper Level Math": "Calculus II for Commerce (201-203-MS), Linear Algebra for Commerce (201-105-MS)",
-      "2 Upper Level choices from": "Administration, Anthropology, Economics, Geography, History, Philosophy, Political Science, Psychology, Religious Studies, Sociology",
-      "Honours Commerce Social Science seminar": ""
-    }
-  },
-  "MathandFinance": {
-    "Prerequisites": "Secondary V Math TS/SN (506)",
-    "Cutoffs": "85% minimum in Secondary IV and V Math TS/SN, 80% overall average",
-    "Letter of intent": "",
-    "Program Grid": {
-      "Compulsory": "Administration (401-913-MS), Economics (383-920-MS), History (330-910-MS), Calculus I (201-NYA-05), Methodology (300-300-MS), Psychology (350-102-MS)",
-      "5 compulsory Upper Level courses": "Calculus II (201-NYB-05), Linear Algebra I (201-NYC-05), Probability and Statistics (201-LCW-MS), Multivariable Calculus and Probability (201-LCQ-MS), Introduction to Finance (383-922-MS)"
-    }
-  },
-  "SocialScienceTwoMath": {
-    "Prerequisites": "Secondary V Math TS/SN (506)",
-    "Cutoffs": "75% minimum in Secondary IV and V Math TS/SN, 75% overall average",
-    "Program Grid": {
-      "Compulsory": "Economics (383-920-MS), History (330-910-MS), Methodology (300-300-MS), Psychology (350-102-MS), Quantitative Methods (360-300-MS)",
-      "3 choices from": "Administration (401-913-MS), Anthropology (381-903-MS), Geography (320-103-MS), Mathematics (201-103-MS), Philosophy (340-914-MS), Political Science (385-950-MS), Religious Studies (370-111-MS), Sociology (387-960-MS)",
-      "Mathematics, Calculus I for Social Science (201-103-MS) is required for this profile": "",
-      "5 Upper Level courses, choice of the following disciplines": "Administration, Anthropology, Applied Statistics (Profile B), Biology (Profile B), Economics, Geography, History, Mathematics, Philosophy, Political Science, Psychology, Religious Studies, Sociology",
-      "A maximum of 5 courses in any one discipline is permitted": ""
+      "Compulsory": "Intellectual Methods in Social Science, Macroeconomics, Fundamentals of Business, Differential Calculus in Social Science (Calculus 1), Quantitative Analysis in Social Science, History of the Modern World, Introduction to Psychology, Integral Calculus in Social Science (Calculus 2), Quantitative Research in Social Science, Multidisciplinary Thematic Course in Social Science, Linear Algebra in Social Science, Integrative Project in Social Science",
+      "1 Intro-Level course, choice from": "Human Culture and Diversity (Anthropology); People, Places and Environment (Geography); Introduction to Political Science, Individual and Society (Sociology)",
+      "2 Upper-Level courses, choice of discipline, for example": "Accounting, Administration, Anthropology, Business, Economics, Finance, Geography, History, Law, Marketing, Philosophy, Political Science, Psychology, Religious Studies, Sociology"
     }
   },
   "LawSocietyandJustice": {
     "Prerequisites": "general CEGEP entrance requirements",
-    "Cutoffs": "73% overall average",
+    "Cutoffs": "75% overall average",
     "Program Grid": {
-      "Compulsory": "Economics (383-920-MS), History (330-910-MS), Methodology (300-300-MS), Psychology (350-102-MS), Quantitative Methods (360-300-MS)",
-      "3 choices from": "Administration (401-913-MS), Anthropology (381-903-MS), Geography (320-103-MS), Mathematics (201-103-MS), Philosophy (340-914-MS), Political Science (385-950-MS), Religious Studies (370-111-MS), Sociology (387-960-MS)",
-      "6 Upper Level courses, choice of the following disciplines": "Administration, Anthropology, Applied Statistics (Profile B), Biology (Profile B), Economics, Geography, History, Mathematics, Philosophy, Political Science, Psychology, Religious Studies, Sociology",
-      "A maximum of 5 courses in any one discipline is permitted": ""
+      "Compulsory": "Intellectual Methods in Social Science, History of the Modern World, Introduction to Political Science, Qualitative Research in Social Science, Macroeconomics, Quantitative Analysis in Social Science, Introduction to Psychology, Multidisciplinary Thematic Course in Social Science, Integrative Project in Social Science",
+      "2 Intro-Level courses, choices from": "Fundamentals of Business, Human Culture and Diversity (Anthropology); People, Places and Environment (Geography); Individual and Society (Sociology), Introduction to Religious Studies, The Just Society (Philosophy)",
+      "5 Upper-Level courses, choice of discipline, for example": "Administration, Anthropology, Applied Statistics (semester 4, pending result in Quantitative Analysis), Business, Economics, Geography, History, Philosophy, Political Science, Psychology, Religious Studies, Sociology"
     }
   },
-  "GlobalStudiesandInternationalAffairs": {
-    "Prerequisites": "general CEGEP entrance requirements",
-    "Cutoffs": "73% overall average",
+  "LawSocietyandJusticewithmath": {
+    "Prerequisites": "Secondary V Math TS/SN (506)",
+    "Cutoffs": "75% minimum in Secondary IV and V Math TS/SN, 75% overall average",
     "Program Grid": {
-      "Compulsory": "Economics (383-920-MS), History (330-910-MS), Methodology (300-300-MS), Psychology (350-102-MS), Quantitative Methods (360-300-MS)",
-      "3 choices from": "Administration (401-913-MS), Anthropology (381-903-MS), Geography (320-103-MS), Mathematics (201-103-MS), Philosophy (340-914-MS), Political Science (385-950-MS), Religious Studies (370-111-MS), Sociology (387-960-MS)",
-      "6 Upper Level courses, choice of the following disciplines": "Administration, Anthropology, Applied Statistics (Profile B), Biology (Profile B), Economics, Geography, History, Mathematics, Philosophy, Political Science, Psychology, Religious Studies, Sociology",
-      "A maximum of 5 courses in any one discipline is permitted": ""
+      "Compulsory": "Intellectual Methods in Social Science, History of the Modern World, Introduction to Political Science, Differential Calculus in Social Science, Qualitative Research in Social Science, Macroeconomics, Introduction to Psychology, Quantitative Analysis in Social Science, Multidisciplinary Thematic Course in Social Science, Linear Algebra in Social Science, Integrative Project in Social Science",
+      "1 Intro-Level course, choice from": "Fundamentals of Business, Human Culture and Diversity (Anthropology); People, Places and Environment (Geography); Individual and Society (Sociology), Introduction to Religious Studies, The Just Society (Philosophy)",
+      "4 Upper-Level courses, choice of discipline, for example": "Administration, Anthropology, Business, Economics, Geography, History, Philosophy, Political Science, Psychology, Religious Studies, Sociology"
     }
   },
-  "Psychology": {
+  "HumanBehaviour": {
     "Prerequisites": "general CEGEP entrance requirements",
-    "Cutoffs": "73% overall average",
+    "Cutoffs": "75% overall average",
     "Program Grid": {
-      "Compulsory": "Economics (383-920-MS), History (330-910-MS), Methodology (300-300-MS), Psychology (350-102-MS), Quantitative Methods (360-300-MS)",
-      "3 choices from": "Administration (401-913-MS), Anthropology (381-903-MS), Geography (320-103-MS), Mathematics (201-103-MS), Philosophy (340-914-MS), Political Science (385-950-MS), Religious Studies (370-111-MS), Sociology (387-960-MS)",
-      "6 Upper Level courses, choice of the following disciplines": "Administration, Anthropology, Applied Statistics (Profile B), Biology (Profile B), Economics, Geography, History, Mathematics, Philosophy, Political Science, Psychology, Religious Studies, Sociology",
-      "A maximum of 5 courses in any one discipline is permitted": ""
+      "Compulsory": "Intellectual Methods in Social Science, Introduction to Psychology, Individual and Society, Quantitative Research in Social Science, Macroeconomics, Quantitative Analysis in Social Science, History of the Modern World, Multidisciplinary Thematic Course in Social Science, Human Biology (recommended) OR Upper-Level course, Integrative Project in Social Science, Applied Statistics (recommended) OR Upper-Level course",
+      "2 Intro-Level courses, choices from": "Human Culture and Diversity (Anthropology); People, Places and Environments (Geography); Introduction to Political Science, Individual and Society (Sociology), Introduction to Religious Studies, The Just Society (Philosophy)",
+      "1 Upper-Level course in Psychology, choice of the following": "Psychological Disorders; Developmental Psychology; Social Psychology; Business Psychology; Forensic Psychology; Psychology of Sexuality",
+      "2 Upper-Level courses in Psychology and Social Science, choice of disciplines, for example": "Anthropology, Economics, Geography, History, Law, Political Science, Psychology, Sociology"
     }
   }
 }
