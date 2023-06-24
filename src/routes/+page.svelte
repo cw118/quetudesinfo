@@ -14,9 +14,9 @@
 {#if showAlert}
 <div class="custom-alert" out:fade>
   <span class="msg"><i class="fas fa-info-circle"></i> <strong>Disclaimer:</strong> QUÉtudes-info is <u>not</u> affiliated with any mentioned schools, organizations or institutions. This is <u><strong>not</strong> an official website</u>. For more information, please see <a href="/about/disclaimers-terms#disclaimers" class="alert-link">Disclaimers</a> and <a href="/about/disclaimers-terms#terms" class="alert-link">Terms of Use</a>.</span>
-  <span class="close-btn" on:click={closeAlert} role="button">
+  <button class="close-btn" on:click={closeAlert}>
     <i class="fas fa-times"></i>
-  </span>
+  </button>
 </div>
 {/if}
 
@@ -27,7 +27,7 @@
 
 <div id="start-cards">
   <div class="card-item text-center">                        
-    <img class="p-0" src="https://images.unsplash.com/photo-1540746409045-0bd66d2f898b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzF8fHF1ZWJlY3xlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60" alt="Quebec scenery, photo by Rich Martello">
+    <img class="p-0" src="https://images.unsplash.com/photo-1540746409045-0bd66d2f898b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzF8fHF1ZWJlY3xlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60" alt="Quebec scenery, by Rich Martello">
     <div class="overlay">
         <div class="citation">Photo by Rich Martello on Unsplash, 60% opacity</div>
         <div class="custom-card-title">Not sure what CEGEP is, or what CEGEPs are out there?</div>
@@ -35,7 +35,7 @@
     </div>                        
   </div>
   <div class="card-item text-center">
-    <img class="p-0" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Dawson_College_01.jpg/1200px-Dawson_College_01.jpg" alt="Dawson College, photo by Jean Gagnon">
+    <img class="p-0" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Dawson_College_01.jpg/1200px-Dawson_College_01.jpg" alt="Dawson College, by Jean Gagnon">
     <div class="overlay">
         <div class="citation">Photo by Jean Gagnon, CC 3.0 licence, 60% opacity</div>
         <div class="custom-card-title">Want to know more about CEGEP admissions and applications?</div>
@@ -45,7 +45,7 @@
   </div>
   <div class="card-item text-center">
     <img class="p-0" src="https://images.unsplash.com/photo-1604313890727-5542ff314405?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8c2NpZW5jZSUyMGxhYnxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60"
-        alt="Scientist in lab, photo by Talha Hassan">
+        alt="Scientist in lab, by Talha Hassan">
     <div class="overlay">
         <div class="citation">Photo by Talha Hassan on Unsplash, 60% opacity</div>
         <div class="custom-card-title">Unsure about the differences between some CEGEP programs?</div>
@@ -56,7 +56,7 @@
   </div>
   <div class="card-item text-center">
     <img class="p-0" src="https://live.staticflickr.com/6172/6238548941_359e0a90cf_b.jpg"
-        alt="Students in computer lab, photo by J. Paxon Reyes">
+        alt="Students in computer lab, by J. Paxon Reyes">
     <div class="overlay">
         <div class="citation">Photo by J. Paxon Reyes, CC BY-NC 2.0 licence, 60% opacity</div>
         <div class="custom-card-title">Already know about CEGEP and looking for the official sites?</div>
@@ -173,6 +173,8 @@
   padding-left: 3px;
   font-size: 20px;
   transition: color 0.25s;
+  background: none;
+  border: none;
 }
 .close-btn:hover {
   color: #986300;

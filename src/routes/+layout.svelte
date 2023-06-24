@@ -5,9 +5,9 @@
   import Footer from '../components/Footer.svelte';
 
   import { page } from '$app/stores';
-  let path;
 
   $: path = $page.url.pathname;
+
 </script>
 
 <TopNav {path} />

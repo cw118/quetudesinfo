@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 
 * {
   box-sizing: border-box;
@@ -8,7 +8,6 @@
 
 body {
   font-family: Poppins, serif;
-  overflow-y: auto;
 }
 
 html, body {
@@ -69,57 +68,12 @@ section p {
 }
 
 h2 {
-  font-weight: bold;
+  font-weight: 600;
   margin-bottom: 15px;
 }
 
 h3 {
   padding: 10px 15px 0px;
-}
-
-/* Pagination for easier navigation */
-div.pagination {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  text-align: center;
-  background: aliceblue;
-}
-
-div.pagination a {
-  margin: 10px;
-}
-
-@media screen and (max-width: 500px) {
-  div.pagination {
-    display: block;
-  }
-
-  div.pagination a {
-    display: block;
-  }
-}
-
-.show-always,
-.center-backtotop {
-  display: block !important;
-  margin: auto !important;
-}
-
-div.pagination a {
-  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-}
-
-a .previous {
-  float: left;
-}
-
-a .back-to-top {
-  margin: auto;
-}
-
-a .next {
-  float: right;
 }
 
 /* Coming soon page styles */

@@ -1,6 +1,5 @@
 <script>
   import { page } from '$app/stores';
-  let path;
 
   $: path = $page.url.pathname;
 
@@ -72,7 +71,7 @@
   #sidenav {
     position: sticky;
     top: 0;
-    height: 85vh;
+    height: 100vh;
     width: 30%;
     float: left;
     overflow-y: auto;

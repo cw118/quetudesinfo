@@ -30,10 +30,12 @@
     position: fixed;
     width: 50px;
     height: 50px;
-    background: #ff4d4d;
-    border: solid 1px gray;
-    bottom: 115px;
-    right: 20px;
+    background-color: #ff4d4d;
+    border: solid 1.5px #333;
+    border-radius: 2px;
+    box-shadow: 0px 0px 12px 1px rgba(0, 0, 0, 0.2);
+    bottom: 70px;
+    right: 30px;
     text-align: center;
     z-index: 1001;
     color: white;
@@ -42,8 +44,12 @@
 
     opacity: 1;
     visibility: visible;
-    transition: opacity 0.4s, visibility 0.4s;
+    transition: opacity 0.4s, visibility 0.4s, background-color 0.25s;
     user-select: none;
+  }
+
+  .gotopbtn:hover {
+    background-color: #e34545;
   }
 
   .gotopbtn.hidden {
