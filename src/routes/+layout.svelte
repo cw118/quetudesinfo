@@ -7,10 +7,10 @@
   $: path = $page.url.pathname;
 </script>
 
-<nav class="navbar navbar-expand-lg p-0">
+<nav class="navbar navbar-expand-lg p-0 border-bottom border-white border-2" id="top">
   <div class="container-fluid topnav">
     <a class="navbar-brand" href="/">
-      <img src="/favicon.svg" alt="QUÉtudes-info" width="60">
+      <img id="logo" src="/favicon.svg" alt="QUÉtudes-info" width="60">
     </a>
     <button class="navbar-toggler bg-white fs-white" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
