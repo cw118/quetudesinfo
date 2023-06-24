@@ -8,8 +8,12 @@ export const WhatIsCegep = [
     link: '/whatiscegep/programs',
   },
   {
-    name: 'English-language CEGEPs',
+    name: 'English CEGEPs',
     link: '/whatiscegep/english-cegeps',
+  },
+  {
+    name: 'The R-Score',
+    link: '/whatiscegep/r-score',
   },
   {
     name: 'Alternatives to CEGEP',

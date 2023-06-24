@@ -3,7 +3,7 @@
   import Pagination from '../../components/Pagination.svelte';
   import { WhatIsCegep } from '../../sectionPages';
 
-  const section = 'What is CEGEP', next = WhatIsCegep[1].link;
+  const pages = WhatIsCegep, section = 'What is CEGEP', next = WhatIsCegep[1].link;
 
   const chapters = [
     {
@@ -11,8 +11,8 @@
       link: 'what-is-cegep',
     },
     {
-      name: 'Quebec\'s School System',
-      link: 'quebec-school-system',
+      name: 'Quebec\'s Education System',
+      link: 'quebec-education-system',
     },
     {
       name: 'Diploma of Collegial Studies',
@@ -26,11 +26,11 @@
 </script>
 
 <svelte:head>
-  <meta name="description" content="QUÉtudes-info's guide to what CEGEP is" />
+  <meta name="description" content="Learn about CEGEP and the Quebec education system." />
   <title>What is CEGEP? | QUÉtudes-info</title>
 </svelte:head>
 
-<SideNav {chapters} pages={WhatIsCegep} />
+<SideNav {chapters} {pages} />
 
 <section>
   <Pagination {section} {next} />
@@ -41,7 +41,7 @@
     type of post-secondary institution exclusive to Québec's education system. CEGEP is also often referred to
     as <strong>college</strong>. There are roughly 100 CEGEPs in the province, though only a select
     few offer English instruction.</p>
-    <p>The first year of CEGEP is equivalent to Grade 12 in other Canadian provinces (also equivalent to <i lang="fr">terminale</i> in France). The second year of a <a href="/quetudesinfo/whatiscegep/programs#pre-u-programs">pre-university program in CEGEP</a> is often considered equivalent to year 1 of university, while the second and third year of a <a href="/quetudesinfo/whatiscegep/programs#technical-programs">career/technical program in CEGEP</a> is equivalent to a college program in other provinces like Ontario.</p>
+    <p>The first year of CEGEP is equivalent to Grade 12 in other Canadian provinces (also equivalent to <i lang="fr">terminale</i> in France). The second year of a <a href="/whatiscegep/programs#pre-u-programs">pre-university program in CEGEP</a> is often considered equivalent to year 1 of university, while the second and third year of a <a href="/whatiscegep/programs#technical-programs">career/technical program in CEGEP</a> is equivalent to a college program in other provinces like Ontario.</p>
     <p class="label">Cégep de Saint-Laurent</p>
     <img class="small-img" src="https://live.staticflickr.com/3304/3659476364_cbb1427731_b.jpg" alt="Cégep de Saint-Laurent, by Denis-Carl Robidoux">
     <p class="citation">Photo by Denis-Carl Robidoux, <a href="https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&atype=rich">CC BY-NC 2.0 licence</a>.</p>
@@ -65,7 +65,7 @@
         <li>Secondary V Ethics and Religious Culture or Physical Education and Health, 2 credits</li>
     </ul>
     <p>Notice that only credits and grades from Secondary IV and Secondary V are considered for your diploma, as is the case
-    with CEGEP applications. <em>*Please note that many CEGEP programs have prerequisites beyond a secondary school diploma. For more details, see <a href="/quetudesinfo/whatiscegep/programs">Programs</a>.</em></p>
+    with CEGEP applications. <em>*Please note that many CEGEP programs have prerequisites beyond a secondary school diploma. For more details, see <a href="/whatiscegep/programs">Programs</a>.</em></p>
     
     <p class="label">Quebec youth sector Achievement Record</p>
     <img class="xsmall-img" src="../assets/achievement-record.png" alt="Quebec achievement record sample">
@@ -101,7 +101,7 @@
     years) for CEGEP. Here's a diagram overview of the Quebec school system from <a href="https://www.cegepsquebec.ca/en/" target="_blank">Cégeps du Québec</a>:</p>
     <img loading="lazy" class="small-img" src="https://www.cegepsquebec.ca/wp-content/uploads/2019/03/SCHEMA_EN.svg" alt="Diagram of Quebec School System">
     <p class="citation">From "Quebec School System" by Cégeps du Québec. Copyright by Cégeps du Québec, 2019.</p>
-    <p>The type of college program you apply to will depend on several factors. CEGEP programs are explained in more depth later in <a href="/quetudesinfo/whatiscegep/programs">Programs</a>.</p>
+    <p>The type of college program you apply to will depend on several factors. CEGEP programs are explained in more depth later in <a href="/whatiscegep/programs">Programs</a>.</p>
 
     <p class="sources">Sources: <a href="http://www.education.gouv.qc.ca/en/students/report-cards-transcripts-diplomas/achievement-record/">Quebec Ministry of Education</a>, various course outlines and student schedules</p>
   </div>
@@ -127,7 +127,7 @@
     evaluation is specified by the individual programs; depending on the college and program, the Comprehensive Assessment could be a project or portfolio of some sort. College students should receive specifications for this assessment when it is time for them to begin and complete it.</p>
     <p>Students will also follow a specific education pattern, completing various concentration courses as per their program
     requirements. For example, Science students must take certain Physics, Chemistry and Biology courses that may not be
-    required of Arts students—more on this in the <a href="/quetudesinfo/whatiscegep/programs">Programs section of the site</a>.</p>
+    required of Arts students—more on this in the <a href="/whatiscegep/programs">Programs section of the site</a>.</p>
     <p>Furthermore, meeting these DCS requirements does not necessarily mean that a student will have satisfied conditions for
     university admission. Students should verify university admission criteria with an academic advisor and/or online to
     ensure they obtain all university prerequisites.</p><br>

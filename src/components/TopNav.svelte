@@ -7,11 +7,12 @@
     <a class="navbar-brand" href="/">
       <img id="logo" src="/favicon.svg" alt="QUÉtudes-info" width="60">
     </a>
+    
     <button class="navbar-toggler bg-white fs-white" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0 text-center">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0 text-center align-items-center">
         <li class="nav-item">
           <a class={'nav-link' + (path === '/' ? ' active' : '')} aria-current="page" href="/">Home</a>
         </li>
@@ -90,7 +91,7 @@
 }
 
 .sect-active {
-  font-weight: bold;
+  font-weight: 600;
 }
 
 .active {

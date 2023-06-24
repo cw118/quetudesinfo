@@ -1,25 +1,22 @@
 <script>
-  export let before = null;
-  export let next = null;
+  export let previous, next, prevSection, nextSection = null;
   export let section;
-  export let otherSection = null;
 
-  let prevText = 'Previous' + (otherSection ? `: ${otherSection}` : ' \u2190');
-  let nextText = 'Next' + (otherSection ? `: ${otherSection}` : ' \u2192');
-  let btnStyle = "btn" + (otherSection ? ` btn-info` : ' btn-warning');
+  let prevText = (prevSection ? '' : '\u2190 ') + 'Previous' + (prevSection ? `: ${prevSection}` : '');
+  let nextText = 'Next' + (nextSection ? `: ${nextSection}` : ' \u2192');
 </script>
 
 <div class="pagination mb-2" role="navigation">
-  {#if before}
-  <a href={before} class={btnStyle}>{prevText}</a>
+  {#if previous || prevSection}
+  <a href={previous} class={"btn" + (prevSection ? ` btn-info text-white` : ' btn-warning')}>{prevText}</a>
   {:else}
   <button class="btn placeholder">{prevText}</button>
   {/if}
 
   <span><strong>Current section:</strong> {section}</span>
   
-  {#if next}
-  <a href={next} class={btnStyle}>{nextText}</a>
+  {#if next || nextSection}
+  <a href={next} class={"btn" + (nextSection ? ` btn-info text-white` : ' btn-warning')}>{nextText}</a>
   {:else}
   <button class="btn placeholder">{nextText}</button>
   {/if}

@@ -13,7 +13,7 @@
 
 {#if showAlert}
 <div class="custom-alert" out:fade>
-  <span class="msg"><i class="fas fa-info-circle"></i> <strong>Disclaimer:</strong> QUÉtudes-info is <u>not</u> affiliated with any mentioned schools, organizations or institutions. This is <u><strong>not</strong> an official website</u>. For more information, please see <a href="/about/disclaimers-terms#disclaimers" class="alert-link">Disclaimers</a> and <a href="/about/disclaimers-terms#terms" class="alert-link">Terms of Use</a>.</span>
+  <span class="msg"><i class="fas fa-info-circle"></i> <strong>Disclaimer:</strong> QUÉtudes-info is<em>not</em> affiliated with any mentioned schools, organizations or institutions. <em>This is <strong>not</strong> an official website</em>. For more information, please see <a href="/about/disclaimers-terms#disclaimers" class="alert-link">Disclaimers</a> and <a href="/about/disclaimers-terms#terms" class="alert-link">Terms of Use</a>.</span>
   <button class="close-btn" on:click={closeAlert}>
     <i class="fas fa-times"></i>
   </button>

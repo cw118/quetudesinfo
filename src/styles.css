@@ -204,16 +204,11 @@ img.figure {
 }
 
 .xsmall-img {
-  width: 40%;
+  width: 30%;
 }
 
 .xxsmall-img {
   width: 25%;
-}
-
-ol.inner,
-ul.inner {
-  list-style-type: lower-alpha;
 }
 
 @media screen and (max-width: 768px) {
@@ -263,13 +258,6 @@ ul.inner {
   background-color: #ffeb99;
 }
 
-.p-disclaimer {
-  font-weight: bold;
-  padding-top: 3px;
-  padding-bottom: 3px;
-  border-radius: 5px;
-}
-
 @media screen and (min-width: 1200px) {
   .about-grid {
     display: grid;
@@ -316,6 +304,7 @@ ul.inner {
 
 .image-label {
   position: relative;
+  margin-top: 8px;
   margin-bottom: 8px;
 }
 
