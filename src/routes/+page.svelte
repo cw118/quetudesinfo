@@ -1,3 +1,3 @@
 <svelte:head>
-  <title>QUÉtudes-info</title>
+  <title>QUÉtudes-info: Guide to CEGEP</title>
 </svelte:head>
