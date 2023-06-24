@@ -60,7 +60,7 @@
     <div class="overlay">
         <div class="citation">Photo by J. Paxon Reyes, CC BY-NC 2.0 licence, 60% opacity</div>
         <div class="custom-card-title">Already know about CEGEP and looking for the official sites?</div>
-        <div class="card-button"><a class="btn btn-light" href="/links">Important Links</a>
+        <div class="card-button"><a class="btn btn-light" href="/cegep-links">CEGEP links</a>
         </div>
     </div>
   </div>
