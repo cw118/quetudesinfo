@@ -25,13 +25,13 @@
     },
     {
       name: 'Special Programs, Partnerships, and Opportunities',
-      link: 'special-programs',
+      link: 'special-programs-partnerships-and-opportunities',
     }
   ]
 </script>
 
 <svelte:head>
-  <meta name="description" content="Learn about CEGEP programs and special opportunities." />
+  <meta name="description" content="Learn about CEGEP programs and special opportunities" />
   <title>Programs | QUÉtudes-info</title>
 </svelte:head>
 
@@ -58,7 +58,7 @@
   <div id={chapters[1].link}>
     <h2 class="yellow-bg">{chapters[1].name}</h2>
     <Disclaimer>For full lists of a college's programs and other opportunities, please visit their official site and/or check their
-    viewbook. For a directory of all CEGEP programs, try the site <a href="https://pygma.ca/" target="_blank">Pygma</a>. Links to college websites and documents can be found in <a href="/links">Important Links</a>.</Disclaimer>
+    viewbook. For a directory of all CEGEP programs, try the site <a href="https://pygma.ca/" target="_blank">Pygma</a>. Links to college websites and documents can be found in <a href="/cegep-links">CEGEP Links</a>.</Disclaimer>
     <p><strong>Pre-university programs</strong> lead to a Diploma of College Studies (DCS) in the program that you study and prepare you for university undergraduate
     studies. Most of these are four semesters (two years) long. <em>Some pre-university programs are three years in duration because they combine two areas of study (more on this in
     Special programs).</em></p>
@@ -79,7 +79,7 @@
       <li>34 to 35 1/3 credits in Liberal Arts</li>
     </ul>
     <p>What does this mean? If you take the Science, Computer Science and Mathematics, Music, or Visual Arts program, you must
-    obtain 32 credits specific to your program (<em>not sure what the program-specific component is? See <a href="/whatiscegep#dcs">Diploma of Collegial Studies</a></em>). If you take a Social Science program/profile (see below), you must obtain 30 to 31 ⅓ program-specific credits; if you
+    obtain 32 credits specific to your program (<em>not sure what the program-specific component is? See <a href="/whatiscegep#diploma-of-collegial-studies">Diploma of Collegial Studies</a></em>). If you take a Social Science program/profile (see below), you must obtain 30 to 31 ⅓ program-specific credits; if you
     take the Arts, Literature and Communication program, it's 30 credits, and so on.</p>
     <br><p><strong>Career and technical programs</strong> are usually three years in duration and also lead to a DCS. They provide technical training and are designed to
     integrate students into the workforce. Sometimes these are simply referred to as career programs, technical programs, or
@@ -108,19 +108,19 @@
     prerequisite is a <em>letter of intent</em>—a brief, focused essay (around 1 page) covering various topics such as why you're
     interested in the program, why the college should consider you, your interests and passions, and your school and
     community involvement.</p>
-    <p>The <a href="/whatiscegep#quebec-school-system">general CEGEP entrance requirement</a> is a Quebec Secondary School Diploma (SSD), but most programs have additional prerequisites and <strong>cutoff grades</strong> listed as well.</p>
+    <p>The <a href="/whatiscegep#quebecs-education-system">general CEGEP entrance requirement</a> is a Quebec Secondary School Diploma (SSD), but most programs have additional prerequisites and <strong>cutoff grades</strong> listed as well.</p>
     <p>A cutoff grade is the lowest grade acceptable for applicants of a particular program. Cutoffs are often listed for math
     courses (secondary IV and V math TS or SN). Common cutoff averages are overall average (average of grades in all
     subjects), math average (average of all math grades), and science average (average of all math and science grades, also
     called science/math average).</p>
     <p>For example, the Science program at a CEGEP may set an overall average cutoff at 80%, meaning students who wish to apply to
     the Science program at that college must have a minimum overall average of 80%.</p>
-    <p class="sources">Sources: <a href="http://www.education.gouv.qc.ca/en/contenus-communs/enseignement-superieur/college-education/">Quebec Ministry of Education</a>, <a href="https://www.cegepsquebec.ca/en/our-study-programs/study-program-types/technical-programs/">Cégeps du Québec</a>, <a href="/links">various CEGEP sites</a></p>
+    <p class="sources">Sources: <a href="http://www.education.gouv.qc.ca/en/contenus-communs/enseignement-superieur/college-education/">Quebec Ministry of Education</a>, <a href="https://www.cegepsquebec.ca/en/our-study-programs/study-program-types/technical-programs/">Cégeps du Québec</a>, <a href="/cegep-links">various CEGEP sites</a></p>
   </div>
 
   <div id={chapters[2].link}>
     <h2 class="lightblue-bg">{chapters[2].name}</h2>
-    <Disclaimer>Program and/or profile names and prerequisites may vary with different colleges. For cutoff grades, which are not listed here, <a href="/links">see the college website and/or viewbook</a>. This is <strong>not</strong> a full list of programs.</Disclaimer>
+    <Disclaimer>Program and/or profile names and prerequisites may vary with different colleges. For cutoff grades, which are not listed here, <a href="/cegep-links">see the college website and/or viewbook</a>. This is <strong>not</strong> a full list of programs.</Disclaimer>
     
     <h3 id="alc">Arts, Literature, and Communication (ALC) (300.M0)</h3>
     <p class="description-top">Creativity, self-expression, and passion for the arts is what this program's all about. ALC gives you the chance to
@@ -183,7 +183,7 @@
       <ul class="ul-blue">
         <li>DCS in Music</li>
         <li>Prerequisites: general CEGEP entrance requirements, auditions, placement tests/entrance exams</li>
-        <li>Often combined with another program for a Double DEC program, such as Music and ALC or Music and Science (<em>see <a href="#special-programs">Special Programs</a> for more on Double DECs</em>)</li>
+        <li>Often combined with another program for a Double DEC program, such as Music and ALC or Music and Science (<em>see <a href="#special-programs-partnerships-and-opportunities">Special Programs</a> for more on Double DECs</em>)</li>
       </ul>
     </div>
 
@@ -229,7 +229,7 @@
         <li>Prerequisites: general CEGEP entrance requirements, Secondary V Math TS/SN, Secondary V Physics, Secondary V Chemistry</li>
         <li>Common profiles: Health Science, Pure and Applied Science, Honours/Enriched profiles
           <ul class="inner">
-            <li><em>Note that the new Computer Science and Mathematics program (200.C0) is <strong>not</strong> a Science profile (see <a href="#special-programs">Special Programs</a>).</em></li>
+            <li><em>Note that the new Computer Science and Mathematics program (200.C0) is <strong>not</strong> a Science profile (see <a href="#special-programs-partnerships-and-opportunities">Special Programs</a>).</em></li>
           </ul>
         </li>
       </ul>
@@ -260,8 +260,8 @@
       <li>Benefits: a more enriched curriculum, more learning opportunities outside the classroom (such as seminars and field trips)</li>
     </ul>
     <p><em>*Please see official websites and/or contact the colleges for specific details.</em></p>
-    <p>This is a very general and incomplete list meant to give you an idea of what kinds of programs CEGEPs may offer. For a bit more information on this site, try <a href="/apply/choose-a-cegep-program">Choosing a CEGEP and Program</a>. <strong>For full details on a CEGEP and their prorams, <a href="links.html">visit their official site and/or see their viewbook.</a></strong></p>
-    <p class="sources">Sources: <a href="/links">official CEGEP sites and viewbooks</a></p>
+    <p>This is a very general and incomplete list meant to give you an idea of what kinds of programs CEGEPs may offer. For a bit more information on this site, try <a href="/applyingtocegep/choosingacegepandprogram">Choosing a CEGEP and Program</a>. <strong>For full details on a CEGEP and their prorams, <a href="links.html">visit their official site and/or see their viewbook.</a></strong></p>
+    <p class="sources">Sources: <a href="/cegep-links">official CEGEP sites and viewbooks</a></p>
   </div>
 
   <div id={chapters[3].link}>
@@ -278,7 +278,7 @@
       <li><strong>Graphic Communications:</strong> prepress computer graphics and printing</li>
     </ul>
     <Disclaimer>Technical programs tend to be slightly different at every college, especially if a profile/option of the program is
-    specified in its name. Some are also only offered in either the Fall or Winter semester. <a href="/links">Viewbooks</a> are a great resource
+    specified in its name. Some are also only offered in either the Fall or Winter semester. <a href="/cegep-links">Viewbooks</a> are a great resource
     to see technical program specifications.</Disclaimer>
     <p>Since there are far too many technical programs for this page to include them all, <strong>here are some common career and technical programs:</strong></p>
     
@@ -411,8 +411,8 @@
       </div>                    
     </div><hr>
 
-    <p>This is a very general and incomplete list meant to give you an idea of what kinds of programs CEGEPs may offer. For a bit more information on this site, try <a href="/apply/choose-a-cegep-program">Choosing a CEGEP and Program</a>. <strong>For full details on a CEGEP and their prorams, <a href="/cegep-links">visit their official site and/or see their viewbook.</a></strong></p>
-    <p class="sources">Sources: <a href="https://www.sram.qc.ca/international-student/curricula-and-levels">SRAM</a>, <a href="https://www.cegepsquebec.ca/">Cégeps du Québec</a>, <a href="/links">official CEGEP sites and viewbooks</a></p>
+    <p>This is a very general and incomplete list meant to give you an idea of what kinds of programs CEGEPs may offer. For a bit more information on this site, try <a href="/applyingtocegep/choosingacegepandprogram">Choosing a CEGEP and Program</a>. <strong>For full details on a CEGEP and their prorams, <a href="/cegeplinks">visit their official site and/or see their viewbook.</a></strong></p>
+    <p class="sources">Sources: <a href="https://www.sram.qc.ca/international-student/curricula-and-levels">SRAM</a>, <a href="https://www.cegepsquebec.ca/">Cégeps du Québec</a>, <a href="/cegep-links">official CEGEP sites and viewbooks</a></p>
   </div>
 
   <div id={chapters[4].link}>
@@ -443,7 +443,7 @@
     a French CEGEP. Research your colleges and programs of interest carefully for more information.</p>
     <p><strong>Exchange programs</strong> — some CEGEPs have international exchange programs that allow you to visit and study in another country. Research your
     colleges and programs of interest carefully for more information.</p>
-    <p class="sources">Sources: <a href="https://alliancesportetudes.ca/en/alliance-sport-etudes/about/">Alliance Sport-Études</a>, <a href="/quetudesinfo/links">various CEGEP sites</a></p>
+    <p class="sources">Sources: <a href="https://alliancesportetudes.ca/en/alliance-sport-etudes/about/">Alliance Sport-Études</a>, <a href="/cegep-links">various CEGEP sites</a></p>
   </div>
 
   <Pagination {section} {previous} {next} />

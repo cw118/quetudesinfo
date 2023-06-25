@@ -35,7 +35,7 @@
 </script>
 
 <svelte:head>
-  <meta name="description" content="Learn about the R-Score and how it works." />
+  <meta name="description" content="Learn about the R-Score and how it works" />
   <title>The R-Score | QUÉtudes-info</title>
 </svelte:head>
 
@@ -380,12 +380,12 @@
     <p>To learn more about the R-Score (all documents) from BCI, the body responsible for its calculation, visit their site: <a href="https://www.bci-qc.ca/en/r-score/" target="_blank">https://www.bci-qc.ca/en/r-score/</a></p>
     <hr>
     <p><strong>Want to find out how to apply to CEGEP, or get some tips on choosing a college and program?</strong></p>
-    <p><a href="/quetudesinfo/apply" class="btn btn-primary">Applying to CEGEP</a></p>
+    <p><a href="/applyingtocegep" class="btn btn-primary">Applying to CEGEP</a></p>
     <p><strong>Looking to visit the official CEGEP sites, or looking for viewbooks, handbooks, and more?</strong></p>
-    <p><a href="/quetudesinfo/links" class="btn btn-dark">Important Links</a></p>
+    <p><a href="/cegep-links" class="btn btn-dark">CEGEP Links</a></p>
     <p><strong>Not sure where to go next?</strong></p>
-    <p><a href="/quetudesinfo/help" class="btn btn-info">Help</a> <em>or</em> <a href="/quetudesinfo/" class="btn btn-outline-info">QUÉtudes-info Home</a></p>
-    <p><strong>Think CEGEP might not be for you?</strong> Continue to <strong><a href="/quetudesinfo/whatiscegep/cegep-alternatives">Alternatives to CEGEP</a></strong>.</p>
+    <p><a href="/faq" class="btn btn-info">Help</a> <em>or</em> <a href="/" class="btn btn-outline-info">QUÉtudes-info Home</a></p>
+    <p><strong>Think CEGEP might not be for you?</strong> Continue to <strong><a href="/whatiscegep/alternativestocegep">Alternatives to CEGEP</a></strong>.</p>
   </div>
 
   <Pagination {section} {previous} {next} />

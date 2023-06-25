@@ -27,7 +27,7 @@
 </script>
 
 <svelte:head>
-  <meta name="description" content="Learn about English and bilingual CEGEPs in Quebec." />
+  <meta name="description" content="Learn about English and bilingual CEGEPs in Quebec" />
   <title>English CEGEPs | QUÉtudes-info</title>
 </svelte:head>
 
@@ -54,7 +54,7 @@
       </ul>
       <p>CEGEP/college diplomas refer to DCS/DEC; vocational/trade school diplomas tend to refer to DEP/DVS. When researching and applying to CEGEPs, make sure you choose programs that lead to a DCS/DEC!</p>
       <p><em>When referring to a program by its diploma type, the French acronyms are typically used.</em></p>
-      <Disclaimer>To learn more about special programs and opportunities like Springboard to a DCS, field trips and exchanges, see <a href="/whatiscegep/programs#special-programs">Special Programs</a>, and <strong>visit <a href="/links">official college sites</a> for details</strong>.</Disclaimer>
+      <Disclaimer>To learn more about special programs and opportunities like Springboard to a DCS, field trips and exchanges, see <a href="/whatiscegep/programs#special-programs-partnerships-and-opportunities">Special Programs</a>, and <strong>visit <a href="/cegep-links">official college sites</a> for details</strong>.</Disclaimer>
   </div>
 
   <div id={chapters[1].link}>
@@ -84,7 +84,7 @@
     <p class="description-bottom">Marianopolis College, often affectionately referred to as "Mari", is located between the Vendôme and Villa-Maria (STM
     orange line) metro stations. It has a close-knit student body of roughly 2000 students, over 100 student clubs, and
     classes are 25% smaller than public colleges on average. Marianopolis offers 6 academic programs in Science, Social
-    Science, Arts and Sciences, ALC (Arts, Literature and Communication), Liberal Arts, and Music; the college is also a partner of <a href="/whatiscegep/programs#special-programs">Alliance Sport-Études</a>.</p>                        
+    Science, Arts and Sciences, ALC (Arts, Literature and Communication), Liberal Arts, and Music; the college is also a partner of <a href="/whatiscegep/programs#special-programs-partnerships-and-opportunities">Alliance Sport-Études</a>.</p>                        
     
     <h3 id="dawson-about">Dawson College</h3>
     <div class="about-grid">
@@ -127,7 +127,7 @@
     </div>
     <p class="description-bottom">Vanier College is named in honour of Canadian soldier, diplomat and former Governor General, Georges P. Vanier. The
     college has a student body of over 6700 students and offers 6 pre-university programs in ALC, Liberal Arts, Music,
-    Science, Social Science, and Computer Science and Mathematics; here are 14 technical programs available as well. Vanier is also a partner of <a href="/whatiscegep/programs#special-programs">Alliance Sport-Études</a>.</p>
+    Science, Social Science, and Computer Science and Mathematics; here are 14 technical programs available as well. Vanier is also a partner of <a href="/whatiscegep/programs#special-programs-partnerships-and-opportunities">Alliance Sport-Études</a>.</p>
 
     <h3 id="champlain-about">Champlain Regional College</h3>
     <div class="about-grid">
@@ -181,7 +181,7 @@
     Abbott College's day division, which offers 6 pre-university programs in Arts and Sciences, ALC, Liberal Arts, Science,
     Social Science, and Visual Arts (510.A0), as well as 12 technical programs.</p>
 
-    <p class="sources">Sources: <a href="https://fedecegeps.ca/federation/a-propos/membres/">Fédération des cégeps</a>, <a href="/links">official CEGEP sites, viewbooks and more</a></p>
+    <p class="sources">Sources: <a href="https://fedecegeps.ca/federation/a-propos/membres/">Fédération des cégeps</a>, <a href="/cegep-links">official CEGEP sites, viewbooks and more</a></p>
   </div>
 
   <div id={chapters[2].link}>
@@ -205,13 +205,13 @@
     <p><strong>Website:</strong> <a href="https://college.centennial.qc.ca/" target="_blank">https://college.centennial.qc.ca/</a></p>
     <p class="description-bottom">Centennial College is an independent private English CEGEP that offers a pre-university Social Science program with the
     option of two profiles, General Social Science and Commerce.</p>
-    <p class="sources">Sources: <a href="/links">official CEGEP sites</a></p>
+    <p class="sources">Sources: <a href="/cegep-links">official CEGEP sites</a></p>
   </div>
 
   <div id={chapters[3].link}>
     <h2 class="yellow-bg">{chapters[3].name}</h2>
     <p>Instead of a focus on DEC programs, some of the colleges below offer more DEP and/or AEC programs. (Not sure what DEC,
-    DEP, and AEC mean? See <a href="#eng-cegeps">English-language CEGEPs</a> at the top of this page.)</p>
+    DEP, and AEC mean? See <a href="#english-cegeps">English-language CEGEPs</a> at the top of this page.)</p>
     <Disclaimer>A reminder: if you're looking at CEGEP/college programs, look at the <strong>DEC programs</strong> (the ones that lead to a <strong>DCS/DEC</strong>)!</Disclaimer><hr>
 
     <h3>Cégep de Sept-Îles</h3>
@@ -242,7 +242,7 @@
       <li>Location: Montreal, Quebec</li>
       <li>4 pre-university programs in ALC, Science, Social Science, Computer Science and Mathematics</li>
       <li>2 technical programs: Early Childhood Education, Special Care Counselling</li>
-      <li>Offers a Grade 12 Study Option program (see <a href="/whatiscegep/cegep-alternatives">Alternatives to CEGEP</a>)</li>
+      <li>Offers a Grade 12 Study Option program (see <a href="/whatiscegep/alternativestocegep">Alternatives to CEGEP</a>)</li>
     </ul>
 
     <h3>LaSalle College</h3>
@@ -274,11 +274,11 @@
     <p>There are still some colleges out there that offer a few DCS programs, but it's hard to give a full list. You can find a
     list of all Quebec colleges (includes English, French, public and private) on the Quebec government website here: <a href="https://www.quebec.ca/en/education/cegep/studying/list-colleges" target="_blank">List of CEGEPs and Private Colleges in Quebec</a></p>
 
-    <p class="sources">Sources: <a href="https://fedecegeps.ca/federation/a-propos/membres/">Fédération des cégeps</a>, <a href="/links">official college sites</a></p>
+    <p class="sources">Sources: <a href="https://fedecegeps.ca/federation/a-propos/membres/">Fédération des cégeps</a>, <a href="/cegep-links">official college sites</a></p>
     <hr>
-    <p><strong>Want to learn more about applying to CEGEP?</strong> Take a look at the next section, <strong><a href="/apply">Applying to CEGEP</a></strong>.</p>
-    <p><strong>Curious about the R-Score, what it is and how it works?</strong> Continue to <strong><a href="/whatiscegep/r-score">The R-Score</a></strong>.</p>
-    <p><strong>Think CEGEP might not be for you?</strong> Try <strong><a href="/whatiscegep/cegep-alternatives">Alternatives to CEGEP</a></strong>.</p>
+    <p><strong>Want to learn more about applying to CEGEP?</strong> Take a look at the next section, <strong><a href="/applyingtocegep">Applying to CEGEP</a></strong>.</p>
+    <p><strong>Curious about the R-Score, what it is and how it works?</strong> Continue to <strong><a href="/whatiscegep/therscore">The R-Score</a></strong>.</p>
+    <p><strong>Think CEGEP might not be for you?</strong> Try <strong><a href="/whatiscegep/alternativestocegep">Alternatives to CEGEP</a></strong>.</p>
   </div>
 
   <Pagination {section} {previous} {next} />

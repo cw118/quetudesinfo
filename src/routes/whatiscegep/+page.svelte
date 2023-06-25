@@ -12,7 +12,7 @@
     },
     {
       name: 'Quebec\'s Education System',
-      link: 'quebec-education-system',
+      link: 'quebecs-education-system',
     },
     {
       name: 'Diploma of Collegial Studies',
@@ -26,7 +26,7 @@
 </script>
 
 <svelte:head>
-  <meta name="description" content="Learn about CEGEP and the Quebec education system." />
+  <meta name="description" content="Learn about CEGEP and the Quebec education system" />
   <title>What is CEGEP? | QUÉtudes-info</title>
 </svelte:head>
 
@@ -41,7 +41,7 @@
     type of post-secondary institution exclusive to Québec's education system. CEGEP is also often referred to
     as <strong>college</strong>. There are roughly 100 CEGEPs in the province, though only a select
     few offer English instruction.</p>
-    <p>The first year of CEGEP is equivalent to Grade 12 in other Canadian provinces (also equivalent to <i lang="fr">terminale</i> in France). The second year of a <a href="/whatiscegep/programs#pre-u-programs">pre-university program in CEGEP</a> is often considered equivalent to year 1 of university, while the second and third year of a <a href="/whatiscegep/programs#technical-programs">career/technical program in CEGEP</a> is equivalent to a college program in other provinces like Ontario.</p>
+    <p>The first year of CEGEP is equivalent to Grade 12 in other Canadian provinces (also equivalent to <i lang="fr">terminale</i> in France). The second year of a <a href="/whatiscegep/programs#pre-university-programs">pre-university program in CEGEP</a> is often considered equivalent to year 1 of university, while the second and third year of a <a href="/whatiscegep/programs#career-and-technical-programs">career/technical program in CEGEP</a> is equivalent to a college program in other provinces like Ontario.</p>
     <p class="label">Cégep de Saint-Laurent</p>
     <img class="small-img" src="https://live.staticflickr.com/3304/3659476364_cbb1427731_b.jpg" alt="Cégep de Saint-Laurent, by Denis-Carl Robidoux">
     <p class="citation">Photo by Denis-Carl Robidoux, <a href="https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&atype=rich">CC BY-NC 2.0 licence</a>.</p>
@@ -68,7 +68,7 @@
     with CEGEP applications. <em>*Please note that many CEGEP programs have prerequisites beyond a secondary school diploma. For more details, see <a href="/whatiscegep/programs">Programs</a>.</em></p>
     
     <p class="label">Quebec youth sector Achievement Record</p>
-    <img class="xsmall-img" src="../assets/achievement-record.png" alt="Quebec achievement record sample">
+    <img class="xsmall-img" src="/assets/achievement-record.png" alt="Quebec achievement record sample">
     <p class="citation">From "Achievement Record" by Ministère de l'Éducation et Ministère de l'Enseignement supérieur. Copyright by Gouvernement du Québec, 2021.</p>
     
     <p>Read the UN column on your Achievement Record, or the Credits row on your high school report card (final term), to check the number of credits you obtain from a particular course. You can also look at the course code's last digit. This works for
@@ -147,7 +147,7 @@
     ends in December (including final exam period), while the winter semester starts around mid-January and ends in May. Each college's academic calendar is slightly different and specifies the various blocks of the school year.</p>
     <p>Each semester, students will follow a weekly class schedule resembling university schedules, for which they can select
     courses and/or class times. A schedule might look something like this:</p>
-    <img class="figure" src="../assets/sample-commerce-schedule.png" alt="Sample college schedule of a Commerce student">
+    <img class="figure" src="/assets/sample-commerce-schedule.png" alt="Sample college schedule of a Commerce student">
     <p>For each term, there are midterm exams (October, March) and final exams (December, May). There may also be a shorter
     summer term available (around June to August) for students wishing to retake a failed course, complete DCS (college
     diploma) requirements, or to meet university prerequisites. The passing grade remains 60% for college courses.</p>

@@ -28,6 +28,7 @@ section {
 
 section h2 {
   padding: 10px 15px 5px;
+  color: #000;
 }
 
 section p {
@@ -323,6 +324,7 @@ section h3 {
   font-family: Ubuntu, Arial;
   margin: 0;
   padding: 10px 15px;
+  color: #000;
 }
 
 section h4 {
@@ -667,7 +669,7 @@ ul.card-text {
   background: salmon;
 }
 
-.cadetblue-bg {
+.cadetblue-bg, #champlain-regional-college-omnivox {
   background: cadetblue;
 }
 
@@ -679,19 +681,17 @@ ul.card-text {
   font-family: Roboto Condensed, Arial;
 }
 
-#sram-admissions,
-#sram-title {
+#sram {
   background: darkgray;
 }
 
-#dawson-admissions,
-#dawson-title {
+#dawson-application-centre {
   background: #3377ff;
 }
 
-#mari-admissions,
-#mari-title {
+#marianopolis-college-omnivox {
   background: #004de6;
+  color: #fff;
 }
 
 .green-bg {

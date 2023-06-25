@@ -13,7 +13,7 @@
 
 {#if showAlert}
 <div class="custom-alert" out:fade>
-  <span class="msg"><i class="fas fa-info-circle"></i> <strong>Disclaimer:</strong> QUÉtudes-info is<em>not</em> affiliated with any mentioned schools, organizations or institutions. <em>This is <strong>not</strong> an official website</em>. For more information, please see <a href="/about/disclaimers-terms#disclaimers" class="alert-link">Disclaimers</a> and <a href="/about/disclaimers-terms#terms" class="alert-link">Terms of Use</a>.</span>
+  <span class="msg"><i class="fas fa-info-circle"></i> <strong>Disclaimer:</strong> QUÉtudes-info is<em>not</em> affiliated with any mentioned schools, organizations or institutions. <em>This is <strong>not</strong> an official website</em>. For more information, please see <a href="/about/disclaimersandterms#disclaimers" class="alert-link">Disclaimers</a> and <a href="/about/disclaimersandterms#terms" class="alert-link">Terms of Use</a>.</span>
   <button class="close-btn" on:click={closeAlert}>
     <i class="fas fa-times"></i>
   </button>
@@ -39,7 +39,7 @@
     <div class="overlay">
         <div class="citation">Photo by Jean Gagnon, CC 3.0 licence, 60% opacity</div>
         <div class="custom-card-title">Want to know more about CEGEP admissions and applications?</div>
-        <div class="card-button"><a class="btn btn-light" href="/apply">Applying to CEGEP</a>
+        <div class="card-button"><a class="btn btn-light" href="/applyingtocegep">Applying to CEGEP</a>
       </div>
     </div>
   </div>
@@ -49,7 +49,7 @@
     <div class="overlay">
         <div class="citation">Photo by Talha Hassan on Unsplash, 60% opacity</div>
         <div class="custom-card-title">Unsure about the differences between some CEGEP programs?</div>
-        <div class="card-button"><a class="btn btn-light" href="/compare-programs">Program Comparison Tool</a>
+        <div class="card-button"><a class="btn btn-light" href="/programcomparisontool">Program Comparison Tool</a>
         </div>
         <small>*Only pre-university programs can be compared</small>
     </div>
@@ -60,7 +60,7 @@
     <div class="overlay">
         <div class="citation">Photo by J. Paxon Reyes, CC BY-NC 2.0 licence, 60% opacity</div>
         <div class="custom-card-title">Already know about CEGEP and looking for the official sites?</div>
-        <div class="card-button"><a class="btn btn-light" href="/cegep-links">CEGEP links</a>
+        <div class="card-button"><a class="btn btn-light" href="/cegeplinks">CEGEP links</a>
         </div>
     </div>
   </div>
@@ -88,7 +88,7 @@
 </div>
 
 <div id="dates-important">
-  <h1><a href="/apply/important-dates"><i class="fas fa-calendar-week"></i> DATES TO REMEMBER</a></h1>
+  <h1><a href="/applyingtocegep/importantdates"><i class="fas fa-calendar-week"></i> DATES TO REMEMBER</a></h1>
   <div class="events">
     <div class="event clearfix">
         <div class="time">

@@ -2,23 +2,23 @@
   <div class="footer-row">
     <div class="footer-column">
       <ul>
-        <li><a href="/whatiscegep/english-cegeps">English-language CEGEPs</a></li>
+        <li><a href="/whatiscegep/englishcegeps">English CEGEPs</a></li>
         <li><a href="/whatiscegep/programs">CEGEP Programs</a></li>
-        <li><a href="/compare-programs">Program Comparison Tool</a></li>
+        <li><a href="/programcomparisontool">Program Comparison Tool</a></li>
       </ul>
     </div>
     <div class="footer-column">
       <ul>
-        <li><a href="/apply/choose-a-cegep-program">Choosing a CEGEP and Program</a></li>
-        <li><a href="/apply/application-modules">Application modules</a></li>
-        <li><a href="/cegep-links">CEGEP Links</a></li>
+        <li><a href="/applyingtocegep/choosingacegepandprogram">Choosing a CEGEP and Program</a></li>
+        <li><a href="/applyingtocegep/applicationmodules">Application Modules</a></li>
+        <li><a href="/cegeplinks">CEGEP Links</a></li>
       </ul>
     </div>
     <div class="footer-column">
       <ul>
         <li><a href="/faq">FAQ</a></li>
-        <li><a href="/about/disclaimers-terms">Disclaimers and Terms</a></li>
-        <li><a href="/about/project">About the project</a></li>
+        <li><a href="/about/disclaimersandterms">Disclaimers and Terms</a></li>
+        <li><a href="/about/project">About QUÉtudes-info</a></li>
       </ul>
     </div>
   </div>

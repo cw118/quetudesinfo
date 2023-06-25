@@ -26,33 +26,33 @@
           <ul class="dropdown-menu border border-black border-2">
             <li><a class={'nav-link' + (path === '/whatiscegep' ? ' active' : '')} href="/whatiscegep">What is CEGEP</a></li>
             <li><a class={'nav-link' + (path === '/whatiscegep/programs' ? ' active' : '')} href="/whatiscegep/programs">Programs</a></li>
-            <li><a class={'nav-link' + (path === '/whatiscegep/english-cegeps' ? ' active' : '')} href="/whatiscegep/english-cegeps">English-language CEGEPs</a></li>
-            <li><a class={'nav-link' + (path === '/whatiscegep/r-score' ? ' active' : '')} href="/whatiscegep/r-score">The R-Score</a></li>
-            <li><a class={'nav-link' + (path === '/whatiscegep/cegep-alternatives' ? ' active' : '')} href="/whatiscegep/cegep-alternatives">Alternatives to CEGEP</a></li>
+            <li><a class={'nav-link' + (path === '/whatiscegep/englishcegeps' ? ' active' : '')} href="/whatiscegep/englishcegeps">English CEGEPs</a></li>
+            <li><a class={'nav-link' + (path === '/whatiscegep/therscore' ? ' active' : '')} href="/whatiscegep/therscore">The R-Score</a></li>
+            <li><a class={'nav-link' + (path === '/whatiscegep/alternativestocegep' ? ' active' : '')} href="/whatiscegep/alternativestocegep">Alternatives to CEGEP</a></li>
           </ul>
         </li>
         <li class="nav-item dropdown">
-          <a class={"nav-link dropdown-toggle" + (path.includes('/apply') ? ' sect-active' : '')} href="/apply" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <a class={"nav-link dropdown-toggle" + (path.includes('/applyingtocegep') ? ' sect-active' : '')} href="/applyingtocegep/" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Applying to CEGEP
           </a>
           <ul class="dropdown-menu border border-black border-2">
-            <li><a class={'nav-link' + (path === '/apply' ? ' active' : '')} href="/apply">Applying to CEGEP</a></li>
-            <li><a class={'nav-link' + (path === '/apply/choose-a-cegep-program' ? ' active' : '')} href="/apply/choose-a-cegep-program">Choosing a CEGEP and program</a></li>
-            <li><a class={'nav-link' + (path === '/apply/making-smart-choices' ? ' active' : '')} href="/apply/making-smart-choices">Making smart choices</a></li>
-            <li><a class={'nav-link' + (path === '/apply/important-dates' ? ' active' : '')} href="/apply/important-dates">Important Dates</a></li>
-            <li><a class={'nav-link' + (path === '/apply/application-modules' ? ' active' : '')} href="/apply/application-modules">Application systems</a></li>
-            <li><a class={'nav-link' + (path === '/apply/after-applying' ? ' active' : '')} href="/apply/after-applying">After applying</a></li>
+            <li><a class={'nav-link' + (path === '/applyingtocegep' ? ' active' : '')} href="/applyingtocegep/">Applying to CEGEP</a></li>
+            <li><a class={'nav-link' + (path === '/applyingtocegep/choosingacegepandprogram' ? ' active' : '')} href="/applyingtocegep/choosingacegepandprogram">Choosing a CEGEP and Program</a></li>
+            <li><a class={'nav-link' + (path === '/applyingtocegep/makingsmartchoices' ? ' active' : '')} href="/applyingtocegep/makingsmartchoices">Making Smart Choices</a></li>
+            <li><a class={'nav-link' + (path === '/applyingtocegep/importantdates' ? ' active' : '')} href="/applyingtocegep/importantdates">Important Dates</a></li>
+            <li><a class={'nav-link' + (path === '/applyingtocegep/applicationmodules' ? ' active' : '')} href="/applyingtocegep/applicationmodules">Application Modules</a></li>
+            <li><a class={'nav-link' + (path === '/applyingtocegep/afterapplying' ? ' active' : '')} href="/applyingtocegep/afterapplying">After Applying</a></li>
           </ul>
         </li>
         <li class="nav-item">
-          <a class={'nav-link' + (path === '/compare-programs' ? ' nav-active' : '')} href="/compare-programs">Program Comparison Tool</a>
+          <a class={'nav-link' + (path === '/programcomparisontool' ? ' nav-active' : '')} href="/programcomparisontool">Program Comparison Tool</a>
         </li>
         <li class="nav-item dropdown">
-          <a class={"nav-link dropdown-toggle" + (['/cegep-links', '/resources'].includes(path) ? ' sect-active' : '')} href="/" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <a class={"nav-link dropdown-toggle" + (['/cegeplinks', '/resources'].includes(path) ? ' sect-active' : '')} href="/" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Useful Links
           </a>
           <ul class="dropdown-menu border border-black border-2">
-            <li><a class={'nav-link' + (path === '/cegep-links' ? ' active' : '')} href="/cegep-links">CEGEP links</a></li>
+            <li><a class={'nav-link' + (path === '/cegeplinks' ? ' active' : '')} href="/cegeplinks">CEGEP Links</a></li>
             <li><a class={'nav-link' + (path === '/resources' ? ' active' : '')} href="/resources">Resources</a></li>
           </ul>
         </li>
@@ -61,9 +61,9 @@
             About QUÉtudes-info
           </a>
           <ul class="dropdown-menu border border-black border-2">
-            <li><a class={'nav-link' + (path === '/about/disclaimers-terms' ? ' active' : '')} href="/about/disclaimers-terms">Disclaimers and Terms</a></li>
-            <li><a class={'nav-link' + (path === '/about/project' ? ' active' : '')} href="/about/project">The QUÉtudes-info project</a></li>
-            <li><a class={'nav-link' + (path === '/about/me' ? ' active' : '')} href="/about/me">About me</a></li>
+            <li><a class={'nav-link' + (path === '/about/disclaimersandterms' ? ' active' : '')} href="/about/disclaimersandterms">Disclaimers and Terms</a></li>
+            <li><a class={'nav-link' + (path === '/about/project' ? ' active' : '')} href="/about/project">The QUÉtudes-info Project</a></li>
+            <li><a class={'nav-link' + (path === '/about/me' ? ' active' : '')} href="/about/me">About Me</a></li>
             <li><a class={'nav-link' + (path === '/about/contact' ? ' active' : '')} href="/about/contact">Contact</a></li>
           </ul>
         </li>
@@ -96,5 +96,9 @@
 
 .active {
   text-decoration: underline;
+}
+
+.nav-item.dropdown {
+  z-index: 2000;
 }
 </style>

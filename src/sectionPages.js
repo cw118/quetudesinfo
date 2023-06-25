@@ -9,49 +9,49 @@ export const WhatIsCegep = [
   },
   {
     name: 'English CEGEPs',
-    link: '/whatiscegep/english-cegeps',
+    link: '/whatiscegep/englishcegeps',
   },
   {
     name: 'The R-Score',
-    link: '/whatiscegep/r-score',
+    link: '/whatiscegep/therscore',
   },
   {
     name: 'Alternatives to CEGEP',
-    link: '/whatiscegep/cegep-alternatives',
+    link: '/whatiscegep/alternativestocegep',
   }
 ]
 
 export const ApplyingToCegep = [
   {
     name: 'Applying to CEGEP',
-    link: '/apply'
+    link: '/applyingtocegep'
   },
   {
-    name: 'Choosing a CEGEP and program',
-    link: '/apply/choose-a-cegep-program',
+    name: 'Choosing a CEGEP and Program',
+    link: '/applyingtocegep/choosingacegepandprogram',
   },
   {
-    name: 'Making smart choices',
-    link: '/apply/make-smart-choices',
+    name: 'Making Smart Choices',
+    link: '/applyingtocegep/makingsmartchoices',
   },
   {
-    name: 'Important dates',
-    link: '/apply/important-dates',
+    name: 'Important Dates',
+    link: '/applyingtocegep/importantdates',
   },
   {
-    name: 'Application modules',
-    link: '/apply/application-modules',
+    name: 'Application Modules',
+    link: '/applyingtocegep/applicationmodules',
   },
   {
-    name: 'After applying',
-    link: '/apply/after-applying',
+    name: 'After Applying',
+    link: '/applyingtocegep/afterapplying',
   }
 ]
 
 export const UsefulLinks = [
   {
-    name: 'CEGEP links',
-    link: '/cegep-links'
+    name: 'CEGEP Links',
+    link: '/cegeplinks'
   },
   {
     name: 'Resources',
@@ -62,14 +62,14 @@ export const UsefulLinks = [
 export const AboutQuetudesInfo = [
   {
     name: 'Disclaimers and Terms',
-    link: '/about/disclaimers-terms',
+    link: '/about/disclaimersterms',
   },
   {
-    name: 'The QUÉtudes-info project',
+    name: 'The QUÉtudes-info Project',
     link: '/about/project',
   },
   {
-    name: 'About me',
+    name: 'About Me',
     link: '/about/me',
   },
   {

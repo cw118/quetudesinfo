@@ -3,7 +3,7 @@
   import Pagination from '../../../components/Pagination.svelte';
   import { WhatIsCegep } from '../../../sectionPages';
 
-  const pages = WhatIsCegep, section = 'What is CEGEP', previous = WhatIsCegep[3].link, nextSection = 'Applying to CEGEP', next = '/apply';
+  const pages = WhatIsCegep, section = 'What is CEGEP', previous = WhatIsCegep[3].link, nextSection = 'Applying to CEGEP', next = '/applyingtocegep';
 
   const chapters = [
     {
@@ -26,7 +26,7 @@
 </script>
 
 <svelte:head>
-  <meta name="description" content="Learn about alternatives to CEGEP education." />
+  <meta name="description" content="Learn about alternatives to CEGEP education" />
   <title>Alternatives to CEGEP | QUÉtudes-info</title>
 </svelte:head>
 
