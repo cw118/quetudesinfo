@@ -451,7 +451,7 @@
     <p>Have you submitted all of your CEGEP applications? Well, first of all, <strong>congratulations</strong>—though you're not quite done yet. CEGEPs tend to start responding around mid-March/beginning of April, though this
     varies with each college, and you'll want to <strong>check your application status</strong> (check for updates). We'll go over this and more on the next page, <a href="/applyingtocegep/afterapplying">After applying</a>.</p>
     <p class="text-blue"><em>This page was created in September 2021 (updated February 2022).</em></p>
-    <p class="sources">Sources: <a href="https://www.bemarianopolis.ca/admissions/">bemarianopolis Admissions</a>, <a href="/cegeplinks#application-links">application module simulations, sites and guides</a></p>
+    <p class="sources">Sources: <a href="https://www.bemarianopolis.ca/admissions/">bemarianopolis Admissions</a>, <a href="/usefullinks/cegeplinks#application-links">application module simulations, sites and guides</a></p>
   </div>
 
   <Pagination {section} {previous} {next} />

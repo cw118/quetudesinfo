@@ -24,8 +24,8 @@
 
 <style>
 .pagination {
-  display: flex;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
   align-items: center;
   text-align: center;
   background: aliceblue;
@@ -33,15 +33,25 @@
 
 .pagination a {
   margin: 10px;
+  width: fit-content;
+}
+
+.pagination a:nth-child(3) {
+  justify-self: last baseline;
 }
 
 @media screen and (max-width: 500px) {
   .pagination {
-    display: block;
+    display: flex;
+    flex-direction: column;
   }
 
   .pagination a {
     display: block;
+  }
+
+  .pagination span {
+    margin: 7.5px 15px 5px;
   }
 }
 

@@ -459,55 +459,16 @@ section hr {
   font-weight: bold;
 }
 
-.yellow-link {
-  color: #ffdb4d;
-}
-
-.yellow-link:hover {
-  color: #e6b800;
-}
-
-/* Resources page styles */
-#resource-section {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://images.unsplash.com/photo-1518976024611-28bf4b48222e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=332&q=80');
-  background-size: 100%;
-  background-repeat: no-repeat;
-  padding: 15px;
-}
-
-.resource-row {
-  display: grid;
-  grid-template-columns: repeat(1, 1fr);
-}
-
-.resource-row .card {
-  margin: 30px;
-  box-shadow: 0px 0px 10px 0px #e2d86a;
-}
-
 .card-header,
 .card-footer {
   font-size: 18px;
-}
-
-@media screen and (max-width: 768px) {
-  .resource-row .card {
-    margin: 5px;
-  }
-}
-
-@media screen and (min-width: 767px) {
-  .resource-row {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-  }
 }
 
 ul.card-text {
   padding-left: 30px;
 }
 
-.resource-row .text-white hr {
+.text-white hr {
   background: black;
 }
 

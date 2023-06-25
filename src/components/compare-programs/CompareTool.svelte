@@ -1,8 +1,11 @@
 <script>
+  export let title = '';
+  export let anchor = '';
+
   import Form from "./Form.svelte";
 </script>
 
-<h2 class="py-3 ps-3 mt-4 mb-0" id="tool">Compare CEGEP Programs</h2>
+<h2 class="py-3 ps-3 mt-4 mb-0" id={anchor}>{title}</h2>
 <div class="bg-primary-subtle" id="tool-grid">
   <Form formId="one" />
   <Form formId="two" />
@@ -20,7 +23,7 @@
   color: black;
 }
 
-#tool {
+#compare-cegep-programs {
   text-align: center;
   padding: 10px 5px;
   margin-bottom: 0;

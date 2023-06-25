@@ -60,7 +60,7 @@
     <div class="overlay">
         <div class="citation">Photo by J. Paxon Reyes, CC BY-NC 2.0 licence, 60% opacity</div>
         <div class="custom-card-title">Already know about CEGEP and looking for the official sites?</div>
-        <div class="card-button"><a class="btn btn-light" href="/cegeplinks">CEGEP links</a>
+        <div class="card-button"><a class="btn btn-light" href="/usefullinks/cegeplinks">CEGEP links</a>
         </div>
     </div>
   </div>
@@ -136,7 +136,7 @@
   <div class="hero-text">
     <h3>Looking for homework help, tutorials, or want to learn something new?</h3>
     <p>Check out these</p>
-    <a class="btn btn-outline-light" href="/resources">Web Resources</a>
+    <a class="btn btn-outline-light" href="/usefullinks/resources">Web Resources</a>
   </div>
 </div>
 

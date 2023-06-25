@@ -45,15 +45,15 @@
           </ul>
         </li>
         <li class="nav-item">
-          <a class={'nav-link' + (path === '/programcomparisontool' ? ' nav-active' : '')} href="/programcomparisontool">Program Comparison Tool</a>
+          <a class={'nav-link' + (path === '/programcomparisontool' ? ' active' : '')} href="/programcomparisontool">Program Comparison Tool</a>
         </li>
         <li class="nav-item dropdown">
-          <a class={"nav-link dropdown-toggle" + (['/cegeplinks', '/resources'].includes(path) ? ' sect-active' : '')} href="/" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <a class={"nav-link dropdown-toggle" + (['/usefullinks/cegeplinks', '/usefullinks/resources'].includes(path) ? ' sect-active' : '')} href="/" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Useful Links
           </a>
           <ul class="dropdown-menu border border-black border-2">
-            <li><a class={'nav-link' + (path === '/cegeplinks' ? ' active' : '')} href="/cegeplinks">CEGEP Links</a></li>
-            <li><a class={'nav-link' + (path === '/resources' ? ' active' : '')} href="/resources">Resources</a></li>
+            <li><a class={'nav-link' + (path === '/usefullinks/cegeplinks' ? ' active' : '')} href="/usefullinks/cegeplinks">CEGEP Links</a></li>
+            <li><a class={'nav-link' + (path === '/usefullinks/resources' ? ' active' : '')} href="/usefullinks/resources">Resources</a></li>
           </ul>
         </li>
         <li class="nav-item dropdown">

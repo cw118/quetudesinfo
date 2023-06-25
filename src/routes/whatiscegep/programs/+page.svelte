@@ -411,7 +411,7 @@
       </div>                    
     </div><hr>
 
-    <p>This is a very general and incomplete list meant to give you an idea of what kinds of programs CEGEPs may offer. For a bit more information on this site, try <a href="/applyingtocegep/choosingacegepandprogram">Choosing a CEGEP and Program</a>. <strong>For full details on a CEGEP and their prorams, <a href="/cegeplinks">visit their official site and/or see their viewbook.</a></strong></p>
+    <p>This is a very general and incomplete list meant to give you an idea of what kinds of programs CEGEPs may offer. For a bit more information on this site, try <a href="/applyingtocegep/choosingacegepandprogram">Choosing a CEGEP and Program</a>. <strong>For full details on a CEGEP and their prorams, <a href="/usefullinks/cegeplinks">visit their official site and/or see their viewbook.</a></strong></p>
     <p class="sources">Sources: <a href="https://www.sram.qc.ca/international-student/curricula-and-levels">SRAM</a>, <a href="https://www.cegepsquebec.ca/">Cégeps du Québec</a>, <a href="/cegep-links">official CEGEP sites and viewbooks</a></p>
   </div>
 

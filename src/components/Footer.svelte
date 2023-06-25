@@ -11,14 +11,14 @@
       <ul>
         <li><a href="/applyingtocegep/choosingacegepandprogram">Choosing a CEGEP and Program</a></li>
         <li><a href="/applyingtocegep/applicationmodules">Application Modules</a></li>
-        <li><a href="/cegeplinks">CEGEP Links</a></li>
+        <li><a href="/usefullinks/cegeplinks">CEGEP Links</a></li>
       </ul>
     </div>
     <div class="footer-column">
       <ul>
         <li><a href="/faq">FAQ</a></li>
         <li><a href="/about/disclaimersandterms">Disclaimers and Terms</a></li>
-        <li><a href="/about/project">About QUÉtudes-info</a></li>
+        <li><a href="/about/project">The QUÉtudes-info Project</a></li>
       </ul>
     </div>
   </div>

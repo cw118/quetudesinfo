@@ -230,7 +230,7 @@
   <div id="official-sites" class="collapse mt-2">
       <p>Generally, looking up the CEGEP or organization name in a search engine and selecting one of the first results will do.
       QUÉtudes-info has also compiled a list of important CEGEP links and documents at <em>CEGEP links</em> that you may find helpful.</p>
-      <p><em>Find official college and organization sites and more at <a href="/cegeplinks" target="_blank">CEGEP links</a>.</em></p>
+      <p><em>Find official college and organization sites and more at <a href="/usefullinks/cegeplinks" target="_blank">CEGEP links</a>.</em></p>
   </div>
   <button class="btn lightgray-bg text-left w-100 mb-2" data-bs-target="#can-int-students" data-bs-toggle="collapse" aria-expanded="false" aria-controls="can-int-students">Does the information on QUÉtudes-info apply to all students, ie. out-of-province and international students?</button>
   <div id="can-int-students" class="collapse mt-2">
@@ -238,14 +238,14 @@
       equivalency charts to determine whether they are admissible to a program, since provinces have different education
       systems. Moreover, certain CEGEP programs aren't available to international students, who must obtain an attestation of
       academic equivalency in order to be admissible to CEGEP.</p>
-      <p><em>For more information, consult official websites: <a href="/cegeplinks" target="_blank">CEGEP links</a>.</em></p>
+      <p><em>For more information, consult official websites: <a href="/usefullinks/cegeplinks" target="_blank">CEGEP links</a>.</em></p>
   </div>
   <button class="btn lightgray-bg text-left w-100 mb-2" data-bs-target="#finances" data-bs-toggle="collapse" aria-expanded="false" aria-controls="finances">Where can I find information on finances (tuition, financial aid, etc.)?</button>
   <div id="finances" class="collapse mt-2">
       <p>As QUÉtudes-info does not have any information on CEGEP finances, you'll need to visit the official college sites. If
       you hold a temporary visa and are unsure whether you're required to pay a non-Quebec resident fee for CEGEP, see the
       question directly below and/or consult the <em><a href="https://www.dawsoncollege.qc.ca/public/services/finance_department/quebecresidenceformenglish.pdf" target="_blank">Attestation of Québec Resident Status form</a></em>.</p>
-      <p><em>Find important CEGEP links such as official sites and documents at <a href="/cegeplinks" target="_blank">CEGEP links</a>.</em></p>
+      <p><em>Find important CEGEP links such as official sites and documents at <a href="/usefullinks/cegeplinks" target="_blank">CEGEP links</a>.</em></p>
   </div>
   <button class="btn lightgray-bg text-left w-100 mb-2" data-bs-target="#quebec-resident" data-bs-toggle="collapse" aria-expanded="false" aria-controls="quebec-resident">For immigrants/temporary residents: am I considered a Quebec resident by colleges?</button>
   <div id="quebec-resident" class="collapse mt-2">
@@ -255,7 +255,7 @@
       <p>Secondly, there are 14 situations in which you may qualify as a Quebec resident. If you claim Quebec resident status and
       have it recognized by your CEGEP, you will be exempt from any non-Quebec resident fees. See Part B of the <em>Attestation of Québec Resident Status form</em> here to verify your status: <a href="https://www.dawsoncollege.qc.ca/public/services/finance_department/quebecresidenceformenglish.pdf"
           target="_blank">https://www.dawsoncollege.qc.ca/public/services/finance_department/quebecresidenceformenglish.pdf</a>.</p>
-      <p><em>Also see official college websites for more information on student fees: <a href="/cegeplinks" target="_blank">CEGEP links</a>.</em></p>
+      <p><em>Also see official college websites for more information on student fees: <a href="/usefullinks/cegeplinks" target="_blank">CEGEP links</a>.</em></p>
   </div>
   <button class="btn lightgray-bg text-left w-100 mb-2" data-bs-target="#site-secure" data-bs-toggle="collapse" aria-expanded="false" aria-controls="site-secure">Is the QUÉtudes-info site safe?</button>
   <div id="site-secure" class="collapse mt-2">
@@ -303,8 +303,8 @@
         </ul>
       </li>
       <li><a href="/programcomparisontool" target="_blank">Program Comparison Tool</a> <em>(Compare pre-university programs side-by-side with ease.)</em></li>
-      <li><a href="/cegeplinks" target="_blank">CEGEP links</a> <em>(URLs for official websites and helpful resources on CEGEP.)</em></li>
-      <li><a href="/resources" target="_blank">Resources</a> <em>(Free web resources for a variety of subjects.)</em></li>
+      <li><a href="/usefullinks/cegeplinks" target="_blank">CEGEP links</a> <em>(URLs for official websites and helpful resources on CEGEP.)</em></li>
+      <li><a href="/usefullinks/resources" target="_blank">Resources</a> <em>(Free web resources for a variety of subjects.)</em></li>
       <li><a href="/about/disclaimersandterms" target="_blank">About &#8594; Disclaimers and Terms</a> <em>(Important information including disclaimers, licenses and terms of use.)</em>
         <ul class="inner">
           <li><a href="/about/project" target="_blank">QUÉtudes-info: The Project</a> <em>(About the project, brief explanation of why and how this site was created.)</em></li>

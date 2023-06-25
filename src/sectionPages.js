@@ -48,14 +48,21 @@ export const ApplyingToCegep = [
   }
 ]
 
+export const ProgramComparisonTool = [
+  {
+    name: 'Program Comparison Tool',
+    link: '/programcomparisontool',
+  }
+]
+
 export const UsefulLinks = [
   {
     name: 'CEGEP Links',
-    link: '/cegeplinks'
+    link: '/usefullinks/cegeplinks'
   },
   {
     name: 'Resources',
-    link: '/resources',
+    link: '/usefullinks/resources',
   }
 ]
 

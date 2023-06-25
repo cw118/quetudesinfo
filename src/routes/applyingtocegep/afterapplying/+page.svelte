@@ -4,7 +4,7 @@
   import Disclaimer from "../../../components/Disclaimer.svelte";
   import { ApplyingToCegep } from "../../../sectionPages";
 
-  const pages = ApplyingToCegep, section = 'Applying to CEGEP', previous = ApplyingToCegep[4].link;
+  const pages = ApplyingToCegep, section = 'Applying to CEGEP', previous = ApplyingToCegep[4].link, nextSection = 'Program Comparison Tool', next = '/programcomparisontool';
 
   const chapters = [
     {
@@ -34,7 +34,7 @@
 <SideNav {chapters} {pages} />
 
 <section>
-  <Pagination {section} {previous} />
+  <Pagination {section} {previous} {nextSection} {next} />
 
   <div id={chapters[0].link}>
     <h2 class="skyblue-bg">{chapters[0].name}</h2>
@@ -336,11 +336,11 @@
     <p><i class="fas fa-star"></i> <strong><u>Friendly reminder to frequently check your CEGEP student portal!</u></strong></p>
     <h4 style="line-height: 1.5; margin-bottom: 0;">And that's it for QUÉtudes-info's guide to CEGEP programs, admissions, and applications! <strong>We hope you've found our site helpful—if you did, share it with your friends and classmates so that everyone can
     understand CEGEP better!</strong></h4>
-    <p class="py-1 rounded skyblue-bg"><i class="fas fa-share"></i> <em>Share this link with your classmates:</em> <span id="site-link">https://quetudesinfo.vercel.app/</span> </p>
+    <p class="py-1 rounded skyblue-bg"><i class="fas fa-share"></i> <strong>Share this link with your classmates:</strong> <span id="site-link">https://quetudesinfo.vercel.app/</span> </p>
     <hr><p class="mb-1">Curious about the student behind the QUÉtudes-info site? <a href="/about/me" class="btn btn-success">About Me</a></p>
     <p class="mb-1">Want to learn more about the QUÉtudes-info project and how it was created? <a href="/about/project" class="btn btn-dark">The QUÉtudes-info Project</a></p>
     <br>
   </div>
 
-  <Pagination {section} {previous} />
+  <Pagination {section} {previous} {nextSection} {next} />
 </section>
