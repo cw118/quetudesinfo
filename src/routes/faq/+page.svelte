@@ -1,3 +1,7 @@
+<script>
+    import Sitemap from "../../components/Sitemap.svelte";
+</script>
+
 <svelte:head>
   <meta name="description" content="Frequently asked questions about CEGEP and QUÉtudes-info">
   <title>FAQ | QUÉtudes-info</title>
@@ -274,38 +278,8 @@
   <h2 class="lightorange-bg mt-4" id="sitemap">Sitemap <i class="fas fa-sitemap"></i></h2>
 
   <button class="btn btn-outline-dark mb-2" data-bs-target="#sitemap-full" data-bs-toggle="collapse" aria-expanded="false" aria-controls="sitemap-full">Click here to show or hide the sitemap</button>
-  <div id="sitemap-full" class="collapse mt-2">
-    <ul>
-      <li><a href="/">Home</a> <em>(Welcome! If you're not sure where to begin, the homepage suggests some starting points.)</em></li>
-      <li><a href="/whatiscegep">What is CEGEP</a> <em>(Overview of Quebec's education system and what CEGEP is.)</em>
-        <ul class="inner">
-          <li><a href="/whatiscegep/programs">Programs</a> <em>(In-depth explanations of important vocabulary and introduction to the basics of CEGEP programs.)</em></li>
-          <li><a href="/whatiscegep/englishcegeps">English CEGEPs</a> <em>(Concise list and descriptions of CEGEPs offering English instruction.)</em></li>
-          <li><a href="/whatiscegep/therscore">The R-Score</a> <em>(Detailed dissection of CEGEP R-Scores, their purpose, and the R-Score formula.)</em></li>
-          <li><a href="/whatiscegep/alternativestocegep">Alternatives to CEGEP</a> <em>(Brief rundown of post-secondary alternatives.)</em></li>
-        </ul>
-      </li>
-      <li><a href="/applyingtocegep">Applying to CEGEP</a> <em>(Explanation of CEGEP admissions and introduction to CEGEP applications.)</em>
-        <ul class="inner">
-          <li><a href="/applyingtocegep/choosingacegepandprogram">Choosing a CEGEP and Program</a> <em>(Tips on choosing a CEGEP and program.)</em></li>
-          <li><a href="/applyingtocegep/makingsmartchoices">Making Smart Choices</a> <em>(Strategies and things to keep in mind for CEGEP applications.)</em></li>
-          <li><a href="/applyingtocegep/importantdates">Important Dates</a> <em>(Event calendar with dates to remember for CEGEP applicants.)</em></li>
-          <li><a href="/applyingtocegep/applicationmodules">Application Modules</a> <em>(Comprehensive guide to applying to CEGEP, with instructions specific to each application module.)</em></li>
-          <li><a href="/applyingtocegep/afterapplying">After Applying</a> <em>(What comes after submitting applications and clarification of CEGEP General Education requirements.)</em></li>
-        </ul>
-      </li>
-      <li><a href="/programcomparisontool">Program Comparison Tool</a> <em>(Compare pre-university programs side-by-side with ease.)</em></li>
-      <li><a href="/usefullinks/cegeplinks">CEGEP Links</a> <em>(URLs for official websites and helpful resources on CEGEP.)</em></li>
-      <li><a href="/usefullinks/resources">Resources</a> <em>(Free web resources for a variety of subjects.)</em></li>
-      <li><a href="/about/disclaimersandterms">About &#8594; Disclaimers and Terms</a> <em>(Important information including disclaimers, licenses and terms of use.)</em>
-        <ul class="inner">
-          <li><a href="/about/project">The QUÉtudes-info Project</a> <em>(About the project, brief explanation of why and how this site was created.)</em></li>
-          <li><a href="/about/me">About Me</a> <em>(About the student behind QUÉtudes-info.)</em></li>
-          <li><a href="/about/contact">Contact</a></li>                        
-        </ul>
-      </li>
-      <li><strong>FAQ</strong> <em>(You are here: FAQ and sitemap)</em></li>
-    </ul>
+  <div id="sitemap-full" class="fs-6 collapse mt-2">
+    <Sitemap />
   </div>
 </section>
 

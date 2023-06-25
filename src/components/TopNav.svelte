@@ -1,4 +1,5 @@
 <script>
+  import { WhatIsCegep, ApplyingToCegep, UsefulLinks, AboutQuetudesInfo } from "../sectionPages";
   export let path = '';
 </script>
 
@@ -24,11 +25,9 @@
             What is CEGEP
           </a>
           <ul class="dropdown-menu border border-black border-2">
-            <li><a class={'nav-link' + (path === '/whatiscegep' ? ' active' : '')} href="/whatiscegep">What is CEGEP</a></li>
-            <li><a class={'nav-link' + (path === '/whatiscegep/programs' ? ' active' : '')} href="/whatiscegep/programs">Programs</a></li>
-            <li><a class={'nav-link' + (path === '/whatiscegep/englishcegeps' ? ' active' : '')} href="/whatiscegep/englishcegeps">English CEGEPs</a></li>
-            <li><a class={'nav-link' + (path === '/whatiscegep/therscore' ? ' active' : '')} href="/whatiscegep/therscore">The R-Score</a></li>
-            <li><a class={'nav-link' + (path === '/whatiscegep/alternativestocegep' ? ' active' : '')} href="/whatiscegep/alternativestocegep">Alternatives to CEGEP</a></li>
+            {#each WhatIsCegep as wicLink (WhatIsCegep.indexOf(wicLink))}
+            <li><a class={'nav-link' + (path === wicLink.link ? ' active' : '')} href={wicLink.link}>{wicLink.name}</a></li>
+            {/each}
           </ul>
         </li>
         <li class="nav-item dropdown">
@@ -36,24 +35,22 @@
             Applying to CEGEP
           </a>
           <ul class="dropdown-menu border border-black border-2">
-            <li><a class={'nav-link' + (path === '/applyingtocegep' ? ' active' : '')} href="/applyingtocegep/">Applying to CEGEP</a></li>
-            <li><a class={'nav-link' + (path === '/applyingtocegep/choosingacegepandprogram' ? ' active' : '')} href="/applyingtocegep/choosingacegepandprogram">Choosing a CEGEP and Program</a></li>
-            <li><a class={'nav-link' + (path === '/applyingtocegep/makingsmartchoices' ? ' active' : '')} href="/applyingtocegep/makingsmartchoices">Making Smart Choices</a></li>
-            <li><a class={'nav-link' + (path === '/applyingtocegep/importantdates' ? ' active' : '')} href="/applyingtocegep/importantdates">Important Dates</a></li>
-            <li><a class={'nav-link' + (path === '/applyingtocegep/applicationmodules' ? ' active' : '')} href="/applyingtocegep/applicationmodules">Application Modules</a></li>
-            <li><a class={'nav-link' + (path === '/applyingtocegep/afterapplying' ? ' active' : '')} href="/applyingtocegep/afterapplying">After Applying</a></li>
+            {#each ApplyingToCegep as atcLink (ApplyingToCegep.indexOf(atcLink))}
+            <li><a class={'nav-link' + (path === atcLink.link ? ' active' : '')} href={atcLink.link}>{atcLink.name}</a></li>
+            {/each}
           </ul>
         </li>
         <li class="nav-item">
           <a class={'nav-link' + (path === '/programcomparisontool' ? ' active' : '')} href="/programcomparisontool">Program Comparison Tool</a>
         </li>
         <li class="nav-item dropdown">
-          <a class={"nav-link dropdown-toggle" + (['/usefullinks/cegeplinks', '/usefullinks/resources'].includes(path) ? ' sect-active' : '')} href="/" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <a class={"nav-link dropdown-toggle" + (path.includes('/usefullinks') ? ' sect-active' : '')} href="/usefullinks" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Useful Links
           </a>
           <ul class="dropdown-menu border border-black border-2">
-            <li><a class={'nav-link' + (path === '/usefullinks/cegeplinks' ? ' active' : '')} href="/usefullinks/cegeplinks">CEGEP Links</a></li>
-            <li><a class={'nav-link' + (path === '/usefullinks/resources' ? ' active' : '')} href="/usefullinks/resources">Resources</a></li>
+            {#each UsefulLinks as ulLink (UsefulLinks.indexOf(ulLink))}
+              <li><a class={'nav-link' + (path === ulLink.link ? ' active' : '')} href={ulLink.link}>{ulLink.name}</a></li>
+            {/each}
           </ul>
         </li>
         <li class="nav-item dropdown">
@@ -61,10 +58,9 @@
             About QUÉtudes-info
           </a>
           <ul class="dropdown-menu border border-black border-2">
-            <li><a class={'nav-link' + (path === '/about/disclaimersandterms' ? ' active' : '')} href="/about/disclaimersandterms">Disclaimers and Terms</a></li>
-            <li><a class={'nav-link' + (path === '/about/project' ? ' active' : '')} href="/about/project">The QUÉtudes-info Project</a></li>
-            <li><a class={'nav-link' + (path === '/about/me' ? ' active' : '')} href="/about/me">About Me</a></li>
-            <li><a class={'nav-link' + (path === '/about/contact' ? ' active' : '')} href="/about/contact">Contact</a></li>
+            {#each AboutQuetudesInfo as aqiLink (AboutQuetudesInfo.indexOf(aqiLink))}
+            <li><a class={'nav-link' + (path === aqiLink.link ? ' active' : '')} href={aqiLink.link}>{aqiLink.name}</a></li>
+            {/each}
           </ul>
         </li>
     </div>
