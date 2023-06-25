@@ -21,8 +21,8 @@
           <a class={'nav-link' + (path === '/faq' ? ' active' : '')} aria-current="page" href="/faq">FAQ</a>
         </li>
         <li class="nav-item dropdown">
-          <a class={"nav-link dropdown-toggle" + (path.includes('/whatiscegep') ? ' sect-active' : '')} href="/whatiscegep" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            What is CEGEP
+          <a class={"nav-link dropdown-toggle" + (path.includes(WhatIsCegep[0].link) ? ' sect-active' : '')} href={WhatIsCegep[0].link} role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            {WhatIsCegep[0].name}
           </a>
           <ul class="dropdown-menu border border-black border-2">
             {#each WhatIsCegep as wicLink (WhatIsCegep.indexOf(wicLink))}
@@ -31,8 +31,8 @@
           </ul>
         </li>
         <li class="nav-item dropdown">
-          <a class={"nav-link dropdown-toggle" + (path.includes('/applyingtocegep') ? ' sect-active' : '')} href="/applyingtocegep/" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Applying to CEGEP
+          <a class={"nav-link dropdown-toggle" + (path.includes(ApplyingToCegep[0].link) ? ' sect-active' : '')} href={ApplyingToCegep[0].link} role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            {ApplyingToCegep[0].name}
           </a>
           <ul class="dropdown-menu border border-black border-2">
             {#each ApplyingToCegep as atcLink (ApplyingToCegep.indexOf(atcLink))}
@@ -54,7 +54,7 @@
           </ul>
         </li>
         <li class="nav-item dropdown">
-          <a class={"nav-link dropdown-toggle" + (path.includes('/about') ? ' sect-active' : '')} href="/about" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <a class={"nav-link dropdown-toggle" + (path.includes('/about') ? ' sect-active' : '')} href={AboutQuetudesInfo[0].link} role="button" data-bs-toggle="dropdown" aria-expanded="false">
             About QUÉtudes-info
           </a>
           <ul class="dropdown-menu border border-black border-2">

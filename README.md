@@ -51,4 +51,4 @@ Guide others to be respectful and inclusive. Inspire them to make good decisions
 - [Create an issue](https://github.com/cw118/quetudesinfo/issues/new/choose) to report a mistake or bug
 - [Create a pull request](https://github.com/cw118/quetudesinfo/compare) to bring a contribution to this project
 
-Please see [this document (`CONTRIBUTING.md`)](docs/CONTRIBUTING.md) for more details.
+Please see [`CONTRIBUTING.md`](docs/CONTRIBUTING.md) for more details.
