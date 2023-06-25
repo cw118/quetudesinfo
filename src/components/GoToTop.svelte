@@ -34,7 +34,7 @@
     border: solid 1.5px #333;
     border-radius: 2px;
     box-shadow: 0px 0px 12px 1px rgba(0, 0, 0, 0.2);
-    bottom: 70px;
+    bottom: 40px;
     right: 30px;
     text-align: center;
     z-index: 1001;

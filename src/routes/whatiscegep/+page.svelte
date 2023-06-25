@@ -108,7 +108,7 @@
 
   <div id={chapters[2].link}>
     <h2 class="lightblue-bg">{chapters[2].name}</h2>
-    <p>In order to graduate and receive a diploma of Collegial Studies (DCS) from an English-language college, students must
+    <p>In order to graduate and receive a diploma of Collegial Studies (DCS) from an English CEGEP, students must
     minimally meet the following General Education and complementary course requirements:</p>
     <ul class="ul-blue">
         <li>Four English courses</li>

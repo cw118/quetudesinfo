@@ -47,7 +47,7 @@
   <div id={chapters[0].link}>
     <h2 class="skyblue-bg">{chapters[0].name}</h2>
     <Disclaimer> <strong>Note: We strongly recommend reading this page on a tablet, laptop, or desktop (any device with a wider screen).</strong></Disclaimer>
-    <p>Here is where we'll go over the different application systems and modules used by each English-language CEGEP, as well
+    <p>Here is where we'll go over the different application modules used by each English CEGEP, as well
     as walk through the <strong>Fall Session</strong> application process for <strong>regular Quebec students</strong> in high school <u>(simply put: adolescents in secondary 5 in a Quebec high school)</u>.</p>
     <p>When you start an application, you'll see that you can apply as either a Quebec student, a Canadian (out-of-province)
     student, or an international student. The three categories are defined by <strong>where you're studying when you apply to CEGEP</strong>,
@@ -85,7 +85,7 @@
       <li><u>Information on topics such as checking your application status and confirming your acceptance will be covered in <a href="/applyingtocegep/afterapplying">After
       applying</a>.</u></li>
     </ul>
-    <p><strong>Ready for application walkthroughs? To begin, scroll to an application system and click on the title banner to display the instructions.</strong></p>
+    <p><strong>Ready for application walkthroughs? To begin, scroll to an application module and click on the title banner to display the instructions.</strong></p>
     <hr>
     <p>Want to learn more about CEGEP and CEGEP programs before learning how to apply? Go to the <a href="/whatiscegep">What is CEGEP</a> section.</p>
     <p>Want to find out more on CEGEP admissions and how applications are evaluated? See <a href="/applyingtocegep">Applying to CEGEP</a>.</p>
@@ -95,8 +95,8 @@
   <button class="btn w-100" data-bs-target="#sram-sect" data-bs-toggle="collapse" aria-expanded="false" aria-controls="sram-sect"><h2 class="mb-0" id={chapters[1].link}>{chapters[1].name}</h2></button>
   <div id="sram-sect" class="collapse">
     <Disclaimer> This walkthrough is specifically intended for Quebec high school students applying to the Day Division fall session.</Disclaimer>
-    <p>The SRAM (Service régional d'admission du Montréal métropolitain) application system is used to apply to SRAM-affiliated
-    CEGEPs. For English-language CEGEPs, this includes <strong>Vanier College, John Abbott College, Champlain College Lennoxville,</strong> and <strong>Heritage College</strong>.</p>
+    <p>The SRAM (Service régional d'admission du Montréal métropolitain) application module is used to apply to SRAM-affiliated
+    CEGEPs. For English CEGEPs, this includes <strong>Vanier College, John Abbott College, Champlain College Lennoxville,</strong> and <strong>Heritage College</strong>.</p>
     <p>When applying through SRAM, there are <strong>3 rounds</strong> of applications. You get the choice of <strong>one CEGEP</strong> and <strong>one program</strong> at that chosen CEGEP <strong>per round</strong>.</p>
     <p><u>If you are accepted into the program in the first round, you do <strong>not</strong> get to apply for round 2 or 3.</u> Once you're admitted into a program, you <strong>cannot</strong> apply for future rounds.</p>
     <ul class="ul-blue">
@@ -191,8 +191,8 @@
       admission answers will be available. You may also add certain dates to an online calendar (Outlook, Google Calendar,
       etc.).</li>
     </ul>
-    <h4><i class="fas fa-glass-cheers"></i> <strong>And that's it! You've applied through SRAM's application system!</strong></h4>
-    <p>Next, you can go to <a href="#dawson-application-centre">Dawson Application Centre</a>, <a href="#marianopolis-college-omnivox">Marianopolis College (Omnivox)</a>, or <a href="#champlain-regional-college-omnivox">Champlain Application System (Omnivox)</a> to see how to apply to more CEGEPs. <em>Or if you're unsure about something, see below.</em></p>
+    <h4><i class="fas fa-glass-cheers"></i> <strong>And that's it! You've applied through SRAM's application module!</strong></h4>
+    <p>Next, you can go to <a href="#dawson-application-centre">Dawson Application Centre</a>, <a href="#marianopolis-college-omnivox">Marianopolis College (Omnivox)</a>, or <a href="#champlain-regional-college-omnivox">Champlain Regional College (Omnivox)</a> to see how to apply to more CEGEPs. <em>Or if you're unsure about something, see below.</em></p>
     <p><button class="btn btn-secondary" data-bs-target="#sram-sect" data-bs-toggle="collapse" aria-expanded="true" aria-controls="sram-sect">Click me to collapse this section</button></p>
     <hr>
     <p>If you have additional concerns, SRAM's Admission FAQ may have the answer for you: <a href="https://sram.qc.ca/frequently-asked-questions/admission" target="_blank">https://sram.qc.ca/frequently-asked-questions/admission</a></p>
@@ -329,7 +329,7 @@
     <p><strong><u>The message "Your file was uploaded successfully" should appear once a document has been successfully uploaded.</u></strong></p>
 
     <h4><i class="fas fa-laugh-squint"></i> <strong>Congratulations, you've applied to Dawson College!</strong></h4>
-    <p>Next, you can go to <a href="#sram">SRAM</a>, <a href="#marianopolis-college-omnivox">Marianopolis College (Omnivox)</a>, or <a href="#champlain-regional-college-omnivox">Champlain Application System (Omnivox)</a> to see how to apply to more CEGEPs.</p>
+    <p>Next, you can go to <a href="#sram">SRAM</a>, <a href="#marianopolis-college-omnivox">Marianopolis College (Omnivox)</a>, or <a href="#champlain-regional-college-omnivox">Champlain Regional College (Omnivox)</a> to see how to apply to more CEGEPs.</p>
     <p><em>Or if you're unsure, see the documents under "Applications Instructions" on Dawson College's <a href="https://www.dawsoncollege.qc.ca/admissions/how-to-apply/fall/" target="_blank">How to Apply (Fall) page</a>.</em></p>
     <p><button class="btn btn-primary" data-bs-target="#dawson-sect" data-bs-toggle="collapse" aria-expanded="true" aria-controls="dawson-sect">Click me to collapse this section</button></p>
   </div>
@@ -350,11 +350,11 @@
       </li>
       <li>Deadline: March 1, 11:59 pm</li>
       <li>You can check the college's admissions updates here: <a href="https://www.bemarianopolis.ca/admissions/admissions-updates/" target="_blank">https://www.bemarianopolis.ca/admissions/admissions-updates/</a></li>
-      <li>Consult the "Application Handbook" section in the <a href="/cegep-links#viewbooks" target="_blank">college's viewbook</a> for information on applications</li>
+      <li>Consult the "Application Handbook" section in the <a href="/usefullinks/cegeplinks#viewbooks-course-calendars-and-handbooks" target="_blank">college's viewbook</a> for information on applications</li>
     </ul>
     <p><i class="fas fa-star"></i> <strong>You can apply to Marianopolis College at this link:</strong> <a href="https://www.bemarianopolis.ca/admissions/apply-now/" target="_blank">https://www.bemarianopolis.ca/admissions/apply-now/</a></p>
     <hr>
-    <p><i class="fas fa-arrow-alt-circle-right"></i> <strong>1. To start an application, click "Submit an Application for Admission" at the bottom of the application system page.</strong></p>
+    <p><i class="fas fa-arrow-alt-circle-right"></i> <strong>1. To start an application, click "Submit an Application for Admission" at the bottom of the application module page.</strong></p>
     <img class="xsmall-img" src="/assets/applications/cas-mari-start.png" alt="Marianopolis Omnivox submit an application or consult file">
     <br><br><p><i class="fas fa-arrow-alt-circle-right"></i> <strong>2. <u>Reminder that this walkthrough is intended for high school students in the day/youth sector who are applying to the Fall semester!</u> The first part of the application is where you'll select your first and second choice programs. On page 1, under "Program of Studies", select the correct Fall semester for "Semester". The option should be "Fall <em>[the
     year you're graduating]</em>".</strong></p>
@@ -380,14 +380,14 @@
     </ul>
     
     <h4><i class="fas fa-hand-peace"></i> <strong>You did it—you applied to Marianopolis College!</strong></h4>
-    <p>Go to <a href="#sram">SRAM</a>, <a href="#dawson-application-centre">Dawson Application Centre</a>, or <a href="#champlain-regional-college-omnivox">Champlain Application System (Omnivox)</a> to see how to apply to more CEGEPs.</p>
+    <p>Go to <a href="#sram">SRAM</a>, <a href="#dawson-application-centre">Dawson Application Centre</a>, or <a href="#champlain-regional-college-omnivox">Champlain Regional College (Omnivox)</a> to see how to apply to more CEGEPs.</p>
     <p><button class="btn btn-primary" data-bs-target="#marianopolis-sect" data-bs-toggle="collapse" aria-expanded="true" aria-controls="marianopolis-sect">Click me to collapse this section</button></p>
   </div>
 
   <button class="btn w-100" data-bs-target="#champlain-sect" data-bs-toggle="collapse" aria-expanded="false" aria-controls="champlain-sect"><h2 class="mb-0" id={chapters[4].link}>{chapters[4].name}</h2></button>
   <div class="collapse" id="champlain-sect">
     <Disclaimer> This walkthrough is specifically intended for Quebec high school students applying to the Day Division fall session.</Disclaimer>
-    <p>Champlain Regional College's <strong>St-Lambert</strong> and <strong>St-Lawrence</strong> campuses use the <u>Champlain Application System</u> (now on Omnivox). Since the process and layout for both campuses are nearly identical (certain choices are simply presented at different
+    <p>Champlain Regional College's <strong>St-Lambert</strong> and <strong>St-Lawrence</strong> campuses use Omnivox. Since the process and layout for both campuses are nearly identical (certain choices are simply presented at different
     times using different labels), we'll walk you through the <strong>Champlain St-Lambert</strong> application process. <strong><em>To apply to Champlain Lennoxville, see <a href="#sram">SRAM</a>.</em></strong></p>
     <p><strong>Champlain's system recommends checking browser compatibility with TLS 1.2 technology before applying:</strong> <a href="https://caniuse.com/tls1-2">https://caniuse.com/tls1-2</a></p>
     <p>When applying to Champlain St-Lambert and/or St-Lawrence, you get <strong>one round</strong> and <strong>1 program choice</strong> <em>(as of the 2021-22 school year, Champlain St-Lambert and St-Lawrence only allow applicants to provide one choice when applying)</em>.</p>
@@ -395,12 +395,12 @@
       <li>$30 application fee</li>
       <li>Deadline: March 1, 11:59 pm</li>
       <li>You can access Champlain St-Lambert's guides to applying and Table of Programs of Study here: <a href="https://www.champlainonline.com/champlainweb/future-students/apply-to-champlain/" target="_blank">https://www.champlainonline.com/champlainweb/future-students/apply-to-champlain/</a></li>
-      <li>Consult the "How To Apply?" section in <a href="/cegep-links#viewbooks" target="_blank">Champlain St-Lambert's admissions handbook</a> as needed</li>
+      <li>Consult the "How To Apply?" section in <a href="/usefullinks/cegeplinks#viewbooks-course-calendars-and-handbooks" target="_blank">Champlain St-Lambert's admissions handbook</a> as needed</li>
     </ul>
     <p><i class="fas fa-star"></i> <strong>You can apply to Champlain St-Lambert at this link:</strong> <a href="https://champlaincollege-st-lambert-admission-en.omnivox.ca/" target="_blank">https://champlaincollege-st-lambert-admission-en.omnivox.ca/</a></p>
     <p><i class="fas fa-star"></i> <strong>Or apply to Champlain St-Lawrence at this link:</strong> <a href="https://slc-admission-en.omnivox.ca/" target="_blank">https://slc-admission-en.omnivox.ca/</a></p>
     <hr>
-    <p><i class="fas fa-arrow-alt-circle-right"></i> <strong>1. To start an application, click "Submit an Application for Admission" at the bottom of the application system page.</strong></p>
+    <p><i class="fas fa-arrow-alt-circle-right"></i> <strong>1. To start an application, click "Submit an Application for Admission" at the bottom of the application module page.</strong></p>
     <img class="xsmall-img" src="/assets/applications/cas-mari-start.png" alt="Champlain St-Lambert Omnivox submit an application or consult file">
     <br><br><p><i class="fas fa-arrow-alt-circle-right"></i> <strong>2. <u>Reminder that this application guide is for day division Quebec high school students (adolescents studying full-time in
     a Quebec high school).</u> On page 1, under "Program of Studies", select the correct Fall semester for "Semester". The option should be "Fall <em>[the year you're
@@ -441,7 +441,7 @@
       <li><strong>Additional documents <u>(check program requirements)</u>: letter of intent, portfolio, etc.</strong></li>
     </ul>
     
-    <h4><i class="fas fa-thumbs-up"></i> <strong>Give yourself a pat on the back—you've applied through the Champlain Application System!</strong></h4>
+    <h4><i class="fas fa-thumbs-up"></i> <strong>Give yourself a pat on the back—you've applied through to Champlain Regional College (St-Lambert/St-Lawrence)!</strong></h4>
     <p>If you haven't already, go see <a href="#sram">SRAM</a>, <a href="#dawson-application-centre">Dawson Application Centre</a>, or <a href="#marianopolis-college-omnivox">Marianopolis College (Omnivox)</a> to see how to apply to more CEGEPs!</p>
     <p><button class="btn btn-info text-white" href="#champlain-sect" data-bs-toggle="collapse" aria-expanded="true" aria-controls="champlain-sect">Click me to collapse this section</button></p>
   </div>
@@ -449,9 +449,9 @@
   <div id={chapters[5].link}>
     <hr><h2 class="yellow-bg">{chapters[5].name}</h2>
     <p>Have you submitted all of your CEGEP applications? Well, first of all, <strong>congratulations</strong>—though you're not quite done yet. CEGEPs tend to start responding around mid-March/beginning of April, though this
-    varies with each college, and you'll want to <strong>check your application status</strong> (check for updates). We'll go over this and more on the next page, <a href="/applyingtocegep/afterapplying">After applying</a>.</p>
+    varies with each college, and you'll want to <strong>check your application status</strong> (check for updates). We'll go over this and more on the next page, <a href="/applyingtocegep/afterapplying">After Applying</a>.</p>
     <p class="text-blue"><em>This page was created in September 2021 (updated February 2022).</em></p>
-    <p class="sources">Sources: <a href="https://www.bemarianopolis.ca/admissions/">bemarianopolis Admissions</a>, <a href="/usefullinks/cegeplinks#application-links">application module simulations, sites and guides</a></p>
+    <p class="sources">Sources: <a href="https://www.bemarianopolis.ca/admissions/">bemarianopolis Admissions</a>, <a href="/usefullinks/cegeplinks#application-modules-and-guides">application module simulations, sites and guides</a></p>
   </div>
 
   <Pagination {section} {previous} {next} />

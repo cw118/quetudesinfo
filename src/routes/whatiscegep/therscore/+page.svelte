@@ -9,7 +9,7 @@
   const chapters = [
     {
       name: 'The R-Score',
-      link: 'r-score',
+      link: 'the-r-score',
     },
     {
       name: 'Standard Deviation',
@@ -17,7 +17,7 @@
     },
     {
       name: 'The Z-Score',
-      link: 'z-score',
+      link: 'the-z-score',
     },
     {
       name: 'Understanding the R-Score Formula',
@@ -49,7 +49,7 @@
     <p><strong>The R-Score</strong>, officially the <em>cote de rendement au collégial (CRC)</em>, is <strong>a number or score you receive for each course you take in CEGEP</strong>. It's used for <strong>university admissions in
     Quebec</strong> to <strong>assess your academic performance</strong>. An <strong>overall R-Score</strong> is also calculated, which is the weighted average of all
     individual R-Scores from each of your courses—the number of credits a course is worth determines the weight of each
-    course when calculating the overall R-Score. The <em><a href="https://www.bci-qc.ca/en/r-score/" target="_blank">Bureau de coopération interuniversitaire (BCI)</a></em> is responsible for
+    course when calculating the overall R-Score. The <em><a href="https://www.bci-qc.ca/en/therscore/" target="_blank">Bureau de coopération interuniversitaire (BCI)</a></em> is responsible for
     calculating R-Scores.</p>
     <p><strong>Why does the R-Score exist?</strong> According to the BCI, two correction factors are used in the R-Score formula so that not only the student's own academic
     performance in a course is taken into account, but also the group strength and dispersion (academic strength and performance of your classmates). This adjustment is
@@ -377,7 +377,7 @@
     <p>BCI (<em>Bureau de coopération interuniversitaire</em>), an FAQ on the R-Score from September 2020: <a href="https://www.bci-qc.ca/wp-content/uploads/2020/10/R_Score_Questions-Answers_BCI-September-2020.pdf" target="_blank">R-Score Questions and Answers</a></p>
     <p>In section 2 of the following document, you can find some tables demonstrating how students may be ranked differently
     using percentage grades, z-scores, and R-Scores: <a href="https://www.bci-qc.ca/wp-content/uploads/2020/10/R_Score_what-it-is_what-it-does_BCI-September-2020.pdf" target="_blank">The R-Score: What it is and What it Does</a></p>
-    <p>To learn more about the R-Score (all documents) from BCI, the body responsible for its calculation, visit their site: <a href="https://www.bci-qc.ca/en/r-score/" target="_blank">https://www.bci-qc.ca/en/r-score/</a></p>
+    <p>To learn more about the R-Score (all documents) from BCI, the body responsible for its calculation, visit their site: <a href="https://www.bci-qc.ca/en/therscore/" target="_blank">https://www.bci-qc.ca/en/therscore/</a></p>
     <hr>
     <p><strong>Want to find out how to apply to CEGEP, or get some tips on choosing a college and program?</strong></p>
     <p><a href="/applyingtocegep" class="btn btn-primary">Applying to CEGEP</a></p>

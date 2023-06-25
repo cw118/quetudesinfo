@@ -16,7 +16,7 @@
 
 <svelte:head>
   <meta name="description" content="Important legal statements on QUÉtudes-info's copyright, liability, affiliations and more" />
-  <title>Disclaimers and Terms of Use | QUÉtudes-info</title>
+  <title>Disclaimers and Terms | QUÉtudes-info</title>
 </svelte:head>
 
 <SideNav {chapters} {pages} />
@@ -26,7 +26,7 @@
 
   <div id={chapters[0].link}>
     <h2 class="salmon-bg">{chapters[0].name}</h2>
-    <Disclaimer><strong>By using the QUÉtudes-info website, you agree that you have read, understood, and accepted the rules outlined below. Please note that the rules described here may change at any given time.</strong></Disclaimer>
+    <Disclaimer>By using the QUÉtudes-info website, you agree that you have read, understood, and accepted the rules outlined below. Please note that the rules described here may change at any given time.</Disclaimer>
 
     <ol>
       <li>The QUÉtudes-info site's <strong>prose content</strong> (all texts and assets) is licensed under the <strong><a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0 license</a></strong>; the <strong>source

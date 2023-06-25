@@ -68,7 +68,7 @@
       <li><a href="https://www.cegep-heritage.qc.ca/" target="_blank">Heritage College</a></li>
       <li><a href="https://college.centennial.qc.ca/" target="_blank">Centennial College</a></li>
     </ul>
-    <h4 class="mb-0">Bilingual Colleges</h4>
+    <h4 class="mb-0">Bilingual CEGEPs</h4>
     <ul>
       <li><a href="https://cegepsi.ca/" target="_blank">Cégep de Sept-Îles</a></li>
       <li><a href="https://www.tav.ca/" target="_blank">TAV College</a></li>
@@ -111,9 +111,9 @@
       <li><a href="https://www.johnabbott.qc.ca/registrars-office/how-to-apply/" target="_blank">John Abbott College, How to Apply</a></li>
       <li><a href="https://www.crc-lennox.qc.ca/future-students/admissions-loans-and-bursaries/" target="_blank">Champlain Lennoxville Admissions (information)</a></li>
       <li><a href="https://www.cegep-heritage.qc.ca/future-students/admissions/how-to-apply" target="_blank">Heritage College, How to Apply</a></li>
-      <li><a href="https://champlaincollege-st-lambert-admission-en.omnivox.ca/" target="_blank">Champlain St-Lambert Application System (Omnivox)</a></li>
+      <li><a href="https://champlaincollege-st-lambert-admission-en.omnivox.ca/" target="_blank">Champlain St-Lambert Application Module (Omnivox)</a></li>
       <li><a href="https://www.champlainonline.com/champlainweb/future-students/apply-to-champlain/" target="_blank">Apply to Champlain St-Lambert (information and guides)</a></li>
-      <li><a href="https://slc-admission-en.omnivox.ca/" target="_blank">Champlain St-Lawrence Application System</a></li>
+      <li><a href="https://slc-admission-en.omnivox.ca/" target="_blank">Champlain St-Lawrence Application Module</a></li>
       <li><a href="https://slc.qc.ca/future-students/admissions-for-regular-day-programs" target="_blank">Champlain St-Lawrence Day Division Admissions (information)</a></li>
       <li><a href="https://college.centennial.qc.ca/howtoapply/" target="_blank">Apply to Centennial College</a></li>
     </ul>

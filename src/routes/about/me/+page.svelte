@@ -54,7 +54,7 @@
   <div id={chapters[1].link}>
     <h2 class="skyblue-bg">{chapters[1].name}</h2>
     <p>I began CS50x's Introduction to Computer Science, a free Harvard course available on edX and their OpenCourseWare (both
-    linked <a href="#links">below</a> and in the <a href="/quetudesinfo/resources" target="_blank">Resources section</a>), in early July. I highly recommend CS50x for anyone interested in coding and
+    linked <a href="#links">below</a> and in the <a href="/usefullinks/resources" target="_blank">Resources section</a>), in early July. I highly recommend CS50x for anyone interested in coding and
     computer science—it's nicely structured and provides you with a strong skill set that you'll find indispensable even
     beyond the course.</p>
     <div class="image-label">
@@ -69,15 +69,13 @@
     <p>Once I'd watched all the lectures and completed every lab and problem set, the last step was the final project. I really
     liked the idea of helping others better understand CEGEP, as well as sharing my knowledge on the subject with others,
     since I'd been doing research on the topic for such a long time. So I chose to create the QUÉtudes-info website as my
-    final project <em>(read more about how I made the site <a href="/quetudesinfo/about/about-project">here</a>)</em>. I'd also been thinking about a tool that allowed people to
-    compare CEGEP programs side-by-side, and thanks to CS50x, I was actually able to make this tool myself <em>(see the <a href="/quetudesinfo/compare-programs" target="_blank">Program
+    final project <em>(read more about how I made the site <a href="/about/project">here</a>)</em>. I'd also been thinking about a tool that allowed people to
+    compare CEGEP programs side-by-side, and thanks to CS50x, I was actually able to make this tool myself <em>(see the <a href="/programcomparisontool" target="_blank">Program
     Comparison Tool</a>)</em>.</p>
     <p>I learned so much as I developed QUÉtudes-info, both about CEGEP and web development. Web programming, for me, combines
     creativity, logic and technology into one discipline—I love how it allows you to be artistic and mathematical/scientific
-    at once, so I'm thinking it's a possible career path (but obviously nothing's set in stone). I'm also continuing my CS
-    journey by learning more programming languages like Java and C++, learning Git and GitHub, and I hope to learn about
-    UI/UX design, operating systems (Linux, command line, etc.) and cloud computing in the near future.</p>
-    <p><em>Also, if any programmers out there look at my current code, I know it's a bit of a mess. I went into this project with
+    at once. I'm also continuing my CS journey by learning more programming languages and tools.</p>
+    <p><em>Also, if any programmers out there look at my current code, I know it's a mess. I went into this project with
     just the very basics of HTML, CSS and JavaScript, so I was learning about new and more effective features along the way.
     I do hope to clean things up in the future.</em></p><hr>
     <p>And that's all I have to say about myself—if you're looking for the CS50x course, I've provided the links below in the

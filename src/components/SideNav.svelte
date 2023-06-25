@@ -31,6 +31,7 @@
   display: grid;
   grid-template-columns: repeat(1, 1fr);
   grid-auto-rows: minmax(min-content, max-content);
+  padding-right: 1rem;
 }
 
 #sidenav p {

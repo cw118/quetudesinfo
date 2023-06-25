@@ -2,7 +2,7 @@
   export let path = '';
 </script>
 
-<nav class="navbar navbar-expand-lg p-0 border-bottom border-white border-2" id="top">
+<nav class="navbar navbar-expand-xl p-0 border-bottom border-white border-2" id="top">
   <div class="container-fluid topnav">
     <a class="navbar-brand" href="/">
       <img id="logo" src="/favicon.svg" alt="QUÉtudes-info" width="60">
@@ -76,7 +76,7 @@
   background-color: #003399;
 }
 
-.topnav a {
+.topnav a.nav-link {
   transition: color, background-color 0.3s;
   border-radius: 5px;
   font-size: 1.1rem;
@@ -100,5 +100,12 @@
 
 .nav-item.dropdown {
   z-index: 2000;
+}
+
+@media screen and (max-width: 1200px) {
+  .topnav a.nav-link {
+    padding-left: 0.65rem;
+    padding-right: 0.65rem;
+  }
 }
 </style>

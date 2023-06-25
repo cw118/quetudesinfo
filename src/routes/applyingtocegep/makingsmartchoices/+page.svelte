@@ -71,15 +71,15 @@
   
   <div id={chapters[2].link}>
     <h2 class="skyblue-bg">{chapters[2].name}</h2>
-    <p>There are a few different application systems, most of which, if not all, give you the option of completing an
-    <strong>application simulation</strong>. (We'll go over the application systems in more detail on the next page, <a href="/applyingtocegep/applicationmodules">Application Modules</a>.) If
+    <p>There are a few different application modules, most of which, if not all, give you the option of completing an
+    <strong>application simulation</strong>. (We'll go over the application modules in more detail on the next page, <a href="/applyingtocegep/applicationmodules">Application Modules</a>.) If
     a simulation option is available, it is highly recommended that you <strong>do a practice run</strong>—familiarize yourself with the
     module, know what you'll need to apply (documents and more), and reduce the stress experienced during the real
     applications by going through the actual process risk-free. Just <strong>remember to submit a real application afterwards!</strong></p>
     <div class="image-label">
       <p class="label">Dawson College's Application Centre: Simulate or Start an Application</p>
       <img src="/assets/applications/dawson-applicationsystem.png"
-          class="small-img" alt="Dawson College application system with buttons to apply and to simulate an application">
+          class="small-img" alt="Dawson College application module with buttons to apply and to simulate an application">
       <p class="caption">Photo by Dawson College. Copyright by Dawson College, 2021.</p>
     </div>
   </div>
@@ -187,7 +187,7 @@
       </li>
       <li>Simulate applications:
         <ul class="inner ul-blue">
-          <li>Do practice runs if an application system provides the option</li>
+          <li>Do practice runs if an application module provides the option</li>
           <li><strong>Note that <u>you must then submit a real application</u>, even after completing a simulated application!</strong></li>
         </ul>
       </li>
@@ -204,7 +204,7 @@
     <p class="sources">Sources: <a href="https://loyola.ca/images/articlemedia/students/2019-2020/2020_-_CEGEP_Applications__Parent.pdf">Loyola High School — 2020 CEGEP Applications</a>, documents from various high schools, notes from previous CEGEP information sessions</p>
     <hr>
     <p><strong>Want to see some important dates, including deadlines and open houses?</strong> Continue to <strong><a href="/applyingtocegep/importantdates">Important Dates</a></strong>.</p>
-    <p><strong>Ready to learn about each CEGEP's application system/how to actually apply?</strong> Go to <strong><a href="/applyingtocegep/applicationmodules">Application Modules</a></strong>.</p>
+    <p><strong>Ready to learn about each CEGEP's application module/how to actually apply?</strong> Go to <strong><a href="/applyingtocegep/applicationmodules">Application Modules</a></strong>.</p>
   </div>
 
   <Pagination {section} {previous} {next} />

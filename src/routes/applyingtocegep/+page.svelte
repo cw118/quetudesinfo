@@ -103,7 +103,7 @@
     acceptance means that <u>there are still requirements, or conditions, that you must fulfill by the end of the school year
     for your acceptance to be finalized</u>. In other words, your final high school grades must also meet the requirements and
     you must complete all of your college program prerequisites in order to keep your spot at a CEGEP.</p>
-    <p><em>(You can learn more about this in <a href="/applyingtocegep/afterapplying">After applying</a>.)</em></p>
+    <p><em>(You can learn more about this in <a href="/applyingtocegep/afterapplying">After Applying</a>.)</em></p>
     <p class="sources">Sources: <a href="https://sram.qc.ca/frequently-asked-questions">SRAM FAQ</a>, documents from various high schools, notes from previous CEGEP information sessions</p>
   </div>
 

@@ -40,12 +40,12 @@
     <h2 class="skyblue-bg">{chapters[0].name}</h2>
     <p>Now that you've submitted your applications, paid your application fees, and sent and/or uploaded all required
     documents, there's not much left to do besides waiting for results. And then once <i>that's</i> over, what comes next?</p>
-    <p>As you've likely noticed while completing your CEGEP applications, application systems give you the option of viewing
+    <p>As you've likely noticed while completing your CEGEP applications, application modules give you the option of viewing
     your application or file status. This is what allows you to verify that you completed all components of your application
     (<u>before</u> the deadline), access the notice of decision and more!</p>
     <p>In addition, once you accept an offer of admission from a college, you may be asked to take placement tests/exams. You
     will also, at some point, be choosing your first semester courses—as you may already know, all CEGEP students (enrolled
-    in English-language CEGEPs) are required to pass 4 English, 2 French, 3 Humanities and 3 Physical Education courses.</p>
+    in English CEGEPs) are required to pass 4 English, 2 French, 3 Humanities and 3 Physical Education courses.</p>
     <p>The <strong>After applying</strong> page covers all of these topics thoroughly, and aims to help you feel prepared even after completing your CEGEP
     applications. Now, let's get started with how to check application status!</p>
   </div>
@@ -140,16 +140,16 @@
     your studies at CEGEP.</p>
     <p>Most colleges require that new students take an <strong>English placement test</strong>. Those who may need more support in English are
     placed in a preparatory course; otherwise, students will take Introduction to College English <em>(types and level of
-    English courses are explained in depth in <a href="#overview-of-cegep-courses">Overview of College Courses</a>)</em>.</p>
+    English courses are explained in depth in <a href="#overview-of-cegep-courses">Overview of CEGEP Courses</a>)</em>.</p>
     <p>Some CEGEPs also require a <strong>French placement test</strong>, though most use high school French grades to measure aptitudes. There
-    are four levels of French in English-language colleges, as well as preparatory courses for those who may need more
-    support in French. <em>(Types and levels of French courses are explained in depth in <a href="#overview-of-cegep-courses">Overview of College Courses</a>.)</em></p>
+    are four levels of French in English CEGEPs, as well as preparatory courses for those who may need more
+    support in French. <em>(Types and levels of French courses are explained in depth in <a href="#overview-of-cegep-courses">Overview of CEGEP Courses</a>.)</em></p>
     <p><strong>Check your student portal and official CEGEP sites to see which placement tests you'll need to write</strong>, as they vary with CEGEP and the student's situation. It's important that you write the tests required of you in order
     to register for courses.</p>
   </div>
 
   <div id={chapters[3].link}>
-    <h2 class="yellow-bg" id="college-course-overview">Overview of College Courses</h2>
+    <h2 class="yellow-bg" id="college-course-overview">Overview of CEGEP Courses</h2>
     <Disclaimer>Note: Course names vary by college. Examples were taken from several colleges and are not offered at every CEGEP.</Disclaimer>
     <p><strong>CEGEP course codes</strong> are 8 characters long, formatted as such: XXX-YYY-ZZ. The first three characters, XXX, are always numbers and indicate
     the discipline or subject that the course belongs to (603 = English, 201 = Math, 203 = Physics, 350 = Psychology, 607 =
@@ -254,7 +254,7 @@
         <p class="caption">Flag and symbols in Canadian public domain</p>
       </div>
     </div>
-    <p><u>Quebec's Bill 96 (May 2021) now requires students of English-language colleges to pass a French Exit Exam, the
+    <p><u>Quebec's Bill 96 (May 2021) now requires students of English CEGEPs to pass a French Exit Exam, the
     application of which has not yet been announced.</u></p>
     <p>There are <strong>four levels</strong> of cours A (Block A) French courses. Ordered from beginner to advanced, they typically are:
     <strong>602-100 (Langue et expression I), 602-101 (Langue et communication), 602-102 (Langue et culture), 602-103 (Culture et

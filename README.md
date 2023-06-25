@@ -12,7 +12,7 @@ Please take the time to read the [participation guidelines (code of conduct)](#p
 
 > **Note:** QUÉtudes-info is in no way affiliated with any of the institutions mentioned in its web pages.
 
-QUÉtudes-info is a website all about CEGEP, an educational stage unique to the province of Québec. Created by a high school student for high school students and parents, the site is a comprehensive guide on everything CEGEP from programs, English-language CEGEPs, admissions, applications and more!
+QUÉtudes-info is a website all about CEGEP, an educational stage unique to the province of Québec. Created by a high school student for high school students and parents, the site is a comprehensive guide on everything CEGEP from programs, English CEGEPs, admissions, applications and more!
 
 ---
 

@@ -4,7 +4,7 @@
 </svelte:head>
 
 <div class="p-5 peach-bg">
-  <h2><i class="fas fa-question-circle"></i> Help and FAQ</h2>
+  <h2><i class="fas fa-question-circle"></i> FAQ</h2>
   <p>Having trouble finding what you're looking for? Don't quite know where to start? Look for your question here or see the <a href="#sitemap">sitemap</a>.</p>
 </div>
 
@@ -20,7 +20,7 @@
   <div id="des-dss" class="collapse mt-2">
       <p>A DES = <em>Diplôme d'études secondaires</em>. It's the French abbreviation for the Quebec high school diploma and is identical to the DSS.</p>
       <p>A DES = Diploma of Secondary Studies. It's the English abbreviation for the Quebec high school diploma and is identical to the DES.</p>
-      <p class="text-roboto-condensed"><em>Read more about Quebec's high school diploma at <a href="/whatiscegep#quebecs-education-system" target="_blank">What is CEGEP — Quebec's School System</a>.</em></p>
+      <p class="text-roboto-condensed"><em>Read more about Quebec's high school diploma at <a href="/whatiscegep#quebecs-education-system" target="_blank">What is CEGEP — Quebec's Education System</a>.</em></p>
   </div>
   <button class="btn lightgray-bg text-left w-100 mb-2" data-bs-target="#dec-dcs" data-bs-toggle="collapse" aria-expanded="false" aria-controls="dec-dcs">What is a DEC/DCS?</button>
   <div id="dec-dcs" class="collapse mt-2">
@@ -94,10 +94,10 @@
   <button class="btn lightgray-bg text-left w-100 mb-2" data-bs-target="#how-to-apply" data-bs-toggle="collapse" aria-expanded="false" aria-controls="how-to-apply">How do I apply?</button>
   <div id="how-to-apply" class="collapse mt-2">
       <p>Depending on the CEGEP you're applying to, the application process will vary slightly. Start by accessing the
-      corresponding official application system—each CEGEP uses their own, except SRAM-affiliated CEGEPs, which use the SRAM
-      application system. Once you've logged in and begun an application, follow the instructions displayed to complete and
+      corresponding official application module—each CEGEP uses their own, except SRAM-affiliated CEGEPs, which use the SRAM
+      application module. Once you've logged in and begun an application, follow the instructions displayed to complete and
       submit it.</p>
-      <p class="text-roboto-condensed"><em>Learn more about application systems and how to apply at <a href="/applyingtocegep/applicationmodules" target="_blank">Application modules</a>.</em></p>
+      <p class="text-roboto-condensed"><em>Learn more about application modules and how to apply at <a href="/applyingtocegep/applicationmodules" target="_blank">Application modules</a>.</em></p>
   </div>
   <button class="btn lightgray-bg text-left w-100 mb-2" data-bs-target="#when-to-apply" data-bs-toggle="collapse" aria-expanded="false" aria-controls="when-to-apply">When do I apply?</button>
   <div id="when-to-apply" class="collapse mt-2">
@@ -129,17 +129,17 @@
   </div>
   <button class="btn lightgray-bg text-left w-100 mb-2" data-bs-target="#sram-affiliated" data-bs-toggle="collapse" aria-expanded="false" aria-controls="sram-affiliated">What are SRAM-affiliated CEGEPs?</button>
   <div id="sram-affiliated" class="collapse mt-2">
-      <p>As stated in the name, SRAM-affiliated CEGEPs are colleges that are part of SRAM and that use their application system.
-      The following English-language CEGEPs are affiliated with SRAM: Vanier College, John Abbott College, Champlain College
+      <p>As stated in the name, SRAM-affiliated CEGEPs are colleges that are part of SRAM and that use their application module.
+      The following English CEGEPs are affiliated with SRAM: Vanier College, John Abbott College, Champlain College
       Lennoxville, Heritage College.</p>
-      <p class="text-roboto-condensed"><em>Read more about how SRAM evaluates applicants at <a href="/applyingtocegep#admissions-evaluating-applicants" target="_blank">Applying to CEGEP — Admissions: Evaluating Applicants</a>, or find out more about SRAM's application system at <a href="/applyingtocegep/applicationmodules" target="_blank">Application modules</a>.</em></p>
+      <p class="text-roboto-condensed"><em>Read more about how SRAM evaluates applicants at <a href="/applyingtocegep#admissions-evaluating-applicants" target="_blank">Applying to CEGEP — Admissions: Evaluating Applicants</a>, or find out more about SRAM's application module at <a href="/applyingtocegep/applicationmodules" target="_blank">Application modules</a>.</em></p>
   </div>
   <button class="btn lightgray-bg text-left w-100 mb-2" data-bs-target="#after-applying" data-bs-toggle="collapse" aria-expanded="false" aria-controls="after-applying">What do I do after applying?</button>
   <div id="after-applying" class="collapse mt-2">
       <p>Congrats on submitting your applications! The main thing to do now is to wait for your results—check your application
       status periodically once CEGEPs start sending out responses. Once you've been admitted to the CEGEP you want to attend,
       confirm your acceptance at that, and ONLY that particular CEGEP (don't hoard spots!).</p>
-      <p class="text-roboto-condensed"><em>Learn more at <a href="/applyingtocegep/afterapplying" target="_blank">After applying</a>.</em></p>
+      <p class="text-roboto-condensed"><em>Learn more at <a href="/applyingtocegep/afterapplying" target="_blank">After Applying</a>.</em></p>
   </div>
 
   <h3 class="yellow-bg mt-3 mb-3">CEGEP Programs</h3>
@@ -259,16 +259,16 @@
   </div>
   <button class="btn lightgray-bg text-left w-100 mb-2" data-bs-target="#site-issues" data-bs-toggle="collapse" aria-expanded="false" aria-controls="site-issues">Having issues with the site?</button>
   <div id="site-issues" class="collapse mt-2">
-      <p><strong>The Program Comparison Tool isn't working?</strong> Your device and/or browser might not support something called <a href="https://caniuse.com/datalist" target="_blank">the <em>datalist</em> element</a>, which
+      <p><strong>The Program Comparison Tool isn't working?</strong> Your device and/or browser might not support something called <a href="https://caniuse.com/datalist" target="_blank">the <code>datalist</code> element</a>, which
       is used in the tool's code to allow users to select a program <em>(you need to choose a CEGEP first to activate the program select menu!)</em>.</p>
       <p>For the best user experience, we recommend using a modern electronic device to browse our site—a laptop or desktop is
       highly recommended, or at the very least, a mobile device with a wider screen (tablets).</p>
-      <p><strong>Is there a mistake and/or bug?</strong> <a href="https://github.com/cw118/quetudesinfo/issues/new/choose" target="_blank">Create an issue on GitHub (the <code>quetudesinfo</code> repository)</a> to report a problem, and please provide as many details as possible.</p>
+      <p><strong>Is there a mistake and/or bug?</strong> Please <a href="/about/contact">let me know here</a> <strong>or</strong> <a href="https://github.com/cw118/quetudesinfo/issues/new/choose" target="_blank">create an issue on GitHub</a>, and <strong>provide as many details as possible</strong>.</p>
   </div>
   <button class="btn lightgray-bg text-left w-100 mb-2" data-bs-target="#contact" data-bs-toggle="collapse" aria-expanded="false" aria-controls="contact">How can I contact QUÉtudes-info?</button>
   <div id="contact" class="collapse mt-2">
       <p>Hi there! You can send me a message through <a href="/about/contact">the contact form on this website</a>.</p>
-      <p><em>You can also find me on GitHub here, along with the QUÉtudes-info repository: <a href="https://github.com/cw118" target="_blank">https://github.com/cw118</a>.</em></p>
+      <p>You can also find me on GitHub as <code>cw118</code>, along with the QUÉtudes-info repository: <a href="https://github.com/cw118" target="_blank">https://github.com/cw118</a>.</p>
   </div>
 
   <h2 class="lightorange-bg mt-4" id="sitemap">Sitemap <i class="fas fa-sitemap"></i></h2>
@@ -290,7 +290,7 @@
           <li><a href="/applyingtocegep/choosingacegepandprogram">Choosing a CEGEP and Program</a> <em>(Tips on choosing a CEGEP and program.)</em></li>
           <li><a href="/applyingtocegep/makingsmartchoices">Making Smart Choices</a> <em>(Strategies and things to keep in mind for CEGEP applications.)</em></li>
           <li><a href="/applyingtocegep/importantdates">Important Dates</a> <em>(Event calendar with dates to remember for CEGEP applicants.)</em></li>
-          <li><a href="/applyingtocegep/applicationmodules">Application Modules</a> <em>(Comprehensive guide to applying to CEGEP, with instructions specific to each application system.)</em></li>
+          <li><a href="/applyingtocegep/applicationmodules">Application Modules</a> <em>(Comprehensive guide to applying to CEGEP, with instructions specific to each application module.)</em></li>
           <li><a href="/applyingtocegep/afterapplying">After Applying</a> <em>(What comes after submitting applications and clarification of CEGEP General Education requirements.)</em></li>
         </ul>
       </li>

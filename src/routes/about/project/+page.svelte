@@ -58,7 +58,7 @@
     looking to improve the implementation of this webpage as I learn more and gain more experience coding websites. But for
     now, this should do!</p>
     <p>QUÉtudes-info was created as my final project for Harvard University's CS50's Introduction to Computer Science course,
-    which I talk about more in <a href="/quetudesinfo/about/about-me">About Me</a>. I completed QUÉtudes-info on my own—the research, design, and code
+    which I talk about more in <a href="/about/me">About Me</a>. I completed QUÉtudes-info on my own—the research, design, and code
     <em>(which I admit was messy)</em> was all done by me. It was fun, rewarding, and admittedly tiring, but overall a
     wonderful learning and coding experience. Now I hope QUÉtudes-info will help others, and that maybe I'll get the time
     and chance to organize and improve my code for this site.</p>

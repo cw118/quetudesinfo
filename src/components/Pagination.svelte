@@ -6,9 +6,9 @@
   let nextText = 'Next' + (nextSection ? `: ${nextSection}` : ' \u2192');
 </script>
 
-<div class="pagination mb-2" role="navigation">
+<div class="pagination py-1 mb-2" role="navigation">
   {#if previous || prevSection}
-  <a href={previous} class={"btn" + (prevSection ? ` btn-info text-white` : ' btn-warning')}>{prevText}</a>
+  <a href={previous} class={"btn" + (prevSection ? ` btn-info text-white btn-min` : ' btn-warning')}>{prevText}</a>
   {:else}
   <button class="btn placeholder">{prevText}</button>
   {/if}
@@ -16,7 +16,7 @@
   <span><strong>Current section:</strong> {section}</span>
   
   {#if next || nextSection}
-  <a href={next} class={"btn" + (nextSection ? ` btn-info text-white` : ' btn-warning')}>{nextText}</a>
+  <a href={next} class={"btn" + (nextSection ? ` btn-info text-white btn-min` : ' btn-warning')}>{nextText}</a>
   {:else}
   <button class="btn placeholder">{nextText}</button>
   {/if}
@@ -34,6 +34,7 @@
 .pagination a {
   margin: 10px;
   width: fit-content;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
 }
 
 .pagination a:nth-child(3) {
@@ -55,8 +56,10 @@
   }
 }
 
-.pagination a {
-  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+@media screen and (min-width: 501px) and (max-width: 1024px) {
+  .pagination a.btn-min {
+    width: min-content;
+  }
 }
 
 .placeholder {

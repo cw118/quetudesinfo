@@ -211,7 +211,7 @@
   <div id={chapters[3].link}>
     <h2 class="yellow-bg">{chapters[3].name}</h2>
     <p>Instead of a focus on DEC programs, some of the colleges below offer more DEP and/or AEC programs. (Not sure what DEC,
-    DEP, and AEC mean? See <a href="#english-cegeps">English-language CEGEPs</a> at the top of this page.)</p>
+    DEP, and AEC mean? See <a href="#english-cegeps">English CEGEPs</a> at the top of this page.)</p>
     <Disclaimer>A reminder: if you're looking at CEGEP/college programs, look at the <strong>DEC programs</strong> (the ones that lead to a <strong>DCS/DEC</strong>)!</Disclaimer><hr>
 
     <h3>Cégep de Sept-Îles</h3>
