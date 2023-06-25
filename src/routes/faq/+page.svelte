@@ -257,14 +257,6 @@
           target="_blank">https://www.dawsoncollege.qc.ca/public/services/finance_department/quebecresidenceformenglish.pdf</a>.</p>
       <p><em>Also see official college websites for more information on student fees: <a href="/usefullinks/cegeplinks" target="_blank">CEGEP links</a>.</em></p>
   </div>
-  <button class="btn lightgray-bg text-left w-100 mb-2" data-bs-target="#site-secure" data-bs-toggle="collapse" aria-expanded="false" aria-controls="site-secure">Is the QUÉtudes-info site safe?</button>
-  <div id="site-secure" class="collapse mt-2">
-      <p>Yes. Our site is secured with HTTPS (Hypertext Transfer Protocol Secure) and uses a safe subdomain, <code>github.io</code>, which is
-      inherited from the GitHub Pages website hosting service. (GitHub is a web-based repository-hosting service used by
-      developers all around the globe for easy collaboration and version control.)</p>
-      <p><em>Read more about the QUÉtudes-info site and project at <a href="/about/project" target="_blank">QUÉtudes-info: The Project</a>.</em></p>
-      <p><em>Learn more about GitHub at <a href="https://github.com/about" target="_blank">their About page</a>.</em></p>
-  </div>
   <button class="btn lightgray-bg text-left w-100 mb-2" data-bs-target="#site-issues" data-bs-toggle="collapse" aria-expanded="false" aria-controls="site-issues">Having issues with the site?</button>
   <div id="site-issues" class="collapse mt-2">
       <p><strong>The Program Comparison Tool isn't working?</strong> Your device and/or browser might not support something called <a href="https://caniuse.com/datalist" target="_blank">the <em>datalist</em> element</a>, which
@@ -273,10 +265,10 @@
       highly recommended, or at the very least, a mobile device with a wider screen (tablets).</p>
       <p><strong>Is there a mistake and/or bug?</strong> <a href="https://github.com/cw118/quetudesinfo/issues/new/choose" target="_blank">Create an issue on GitHub (the <code>quetudesinfo</code> repository)</a> to report a problem, and please provide as many details as possible.</p>
   </div>
-  <button class="btn lightgray-bg text-left w-100 mb-2" data-bs-target="#contact" data-bs-toggle="collapse" aria-expanded="false" aria-controls="contact">How can I get in touch with the site creator?</button>
+  <button class="btn lightgray-bg text-left w-100 mb-2" data-bs-target="#contact" data-bs-toggle="collapse" aria-expanded="false" aria-controls="contact">How can I contact QUÉtudes-info?</button>
   <div id="contact" class="collapse mt-2">
-      <p>Hi there! A contact form is in progress and will hopefully be made available soon. Apologies for any inconvenience this may cause.</p>
-      <p><em>You can find me on GitHub here, along with the QUÉtudes-info repository: <a href="https://github.com/cw118" target="_blank">https://github.com/cw118</a>.</em></p>
+      <p>Hi there! You can send me a message through <a href="/about/contact">the contact form on this website</a>.</p>
+      <p><em>You can also find me on GitHub here, along with the QUÉtudes-info repository: <a href="https://github.com/cw118" target="_blank">https://github.com/cw118</a>.</em></p>
   </div>
 
   <h2 class="lightorange-bg mt-4" id="sitemap">Sitemap <i class="fas fa-sitemap"></i></h2>
@@ -284,35 +276,35 @@
   <button class="btn btn-outline-dark mb-2" data-bs-target="#sitemap-full" data-bs-toggle="collapse" aria-expanded="false" aria-controls="sitemap-full">Click here to show or hide the sitemap</button>
   <div id="sitemap-full" class="collapse mt-2">
     <ul>
-      <li><a href="/" target="_blank">Home</a> <em>(Welcome! If you're not sure where to begin, the homepage suggests some starting points.)</em></li>
-      <li><a href="/whatiscegep" target="_blank">What is CEGEP</a> <em>(Overview of Quebec's education system and what CEGEP is.)</em>
+      <li><a href="/">Home</a> <em>(Welcome! If you're not sure where to begin, the homepage suggests some starting points.)</em></li>
+      <li><a href="/whatiscegep">What is CEGEP</a> <em>(Overview of Quebec's education system and what CEGEP is.)</em>
         <ul class="inner">
-          <li><a href="/whatiscegep/programs" target="_blank">Programs</a> <em>(In-depth explanations of important vocabulary and introduction to the basics of CEGEP programs.)</em></li>
-          <li><a href="/whatiscegep/englishcegeps" target="_blank">English-language CEGEPs</a> <em>(Concise list and descriptions of CEGEPs offering English instruction.)</em></li>
-          <li><a href="/whatiscegep/therscore" target="_blank">The R-Score</a> <em>(Detailed dissection of CEGEP R-Scores, their purpose, and the R-Score formula.)</em></li>
-          <li><a href="/whatiscegep/alternativestocegep" target="_blank">Alternatives to CEGEP</a> <em>(Brief rundown of post-secondary alternatives.)</em></li>
+          <li><a href="/whatiscegep/programs">Programs</a> <em>(In-depth explanations of important vocabulary and introduction to the basics of CEGEP programs.)</em></li>
+          <li><a href="/whatiscegep/englishcegeps">English CEGEPs</a> <em>(Concise list and descriptions of CEGEPs offering English instruction.)</em></li>
+          <li><a href="/whatiscegep/therscore">The R-Score</a> <em>(Detailed dissection of CEGEP R-Scores, their purpose, and the R-Score formula.)</em></li>
+          <li><a href="/whatiscegep/alternativestocegep">Alternatives to CEGEP</a> <em>(Brief rundown of post-secondary alternatives.)</em></li>
         </ul>
       </li>
-      <li><a href="/applyingtocegep" target="_blank">Applying to CEGEP</a> <em>(Explanation of CEGEP admissions and introduction to CEGEP applications.)</em>
+      <li><a href="/applyingtocegep">Applying to CEGEP</a> <em>(Explanation of CEGEP admissions and introduction to CEGEP applications.)</em>
         <ul class="inner">
-          <li><a href="/applyingtocegep/choosingacegepandprogram" target="_blank">Choosing a CEGEP and Program</a> <em>(Tips on choosing a CEGEP and program.)</em></li>
-          <li><a href="/applyingtocegep/makingsmartchoices" target="_blank">Making smart choices</a> <em>(Strategies and things to keep in mind for CEGEP applications.)</em></li>
-          <li><a href="/applyingtocegep/importantdates" target="_blank">Important Dates</a> <em>(Event calendar with dates to remember for CEGEP applicants.)</em></li>
-          <li><a href="/applyingtocegep/applicationmodules" target="_blank">Application modules</a> <em>(Comprehensive guide to applying to CEGEP, with instructions specific to each application system.)</em></li>
-          <li><a href="/applyingtocegep/afterapplying" target="_blank">After applying</a> <em>(What comes after submitting applications and clarification of CEGEP General Education requirements.)</em></li>
+          <li><a href="/applyingtocegep/choosingacegepandprogram">Choosing a CEGEP and Program</a> <em>(Tips on choosing a CEGEP and program.)</em></li>
+          <li><a href="/applyingtocegep/makingsmartchoices">Making Smart Choices</a> <em>(Strategies and things to keep in mind for CEGEP applications.)</em></li>
+          <li><a href="/applyingtocegep/importantdates">Important Dates</a> <em>(Event calendar with dates to remember for CEGEP applicants.)</em></li>
+          <li><a href="/applyingtocegep/applicationmodules">Application Modules</a> <em>(Comprehensive guide to applying to CEGEP, with instructions specific to each application system.)</em></li>
+          <li><a href="/applyingtocegep/afterapplying">After Applying</a> <em>(What comes after submitting applications and clarification of CEGEP General Education requirements.)</em></li>
         </ul>
       </li>
-      <li><a href="/programcomparisontool" target="_blank">Program Comparison Tool</a> <em>(Compare pre-university programs side-by-side with ease.)</em></li>
-      <li><a href="/usefullinks/cegeplinks" target="_blank">CEGEP links</a> <em>(URLs for official websites and helpful resources on CEGEP.)</em></li>
-      <li><a href="/usefullinks/resources" target="_blank">Resources</a> <em>(Free web resources for a variety of subjects.)</em></li>
-      <li><a href="/about/disclaimersandterms" target="_blank">About &#8594; Disclaimers and Terms</a> <em>(Important information including disclaimers, licenses and terms of use.)</em>
+      <li><a href="/programcomparisontool">Program Comparison Tool</a> <em>(Compare pre-university programs side-by-side with ease.)</em></li>
+      <li><a href="/usefullinks/cegeplinks">CEGEP Links</a> <em>(URLs for official websites and helpful resources on CEGEP.)</em></li>
+      <li><a href="/usefullinks/resources">Resources</a> <em>(Free web resources for a variety of subjects.)</em></li>
+      <li><a href="/about/disclaimersandterms">About &#8594; Disclaimers and Terms</a> <em>(Important information including disclaimers, licenses and terms of use.)</em>
         <ul class="inner">
-          <li><a href="/about/project" target="_blank">QUÉtudes-info: The Project</a> <em>(About the project, brief explanation of why and how this site was created.)</em></li>
-          <li><a href="/about/me" target="_blank">About the site creator</a> <em>(About me, the student behind QUÉtudes-info.)</em></li>
+          <li><a href="/about/project">The QUÉtudes-info Project</a> <em>(About the project, brief explanation of why and how this site was created.)</em></li>
+          <li><a href="/about/me">About Me</a> <em>(About the student behind QUÉtudes-info.)</em></li>
+          <li><a href="/about/contact">Contact</a></li>                        
         </ul>
       </li>
       <li><strong>FAQ</strong> <em>(You are here: FAQ and sitemap)</em></li>
-      <li><a href="/about/contact" target="_blank">Contact</a> <em>(hopefully coming soon)</em></li>                        
     </ul>
   </div>
 </section>

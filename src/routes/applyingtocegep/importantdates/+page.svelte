@@ -69,7 +69,7 @@
         </div>
         <div class="details">
           <h3>Winter 2024 Deadline</h3>
-          <p>High school students and more: the 2024 Winter semester application deadline (and SRAM's round 1 deadline) is <strong>Wednesday, November 1, 2023</strong> at 11:59 PM. <a href="https://cw118.github.io/quetudesinfo/cegep-links#application-links" target="_blank">CEGEP application modules</a> will open in mid-September.</p>
+          <p>High school students and more: the 2024 Winter semester application deadline (and SRAM's round 1 deadline) is <strong>Wednesday, November 1, 2023</strong> at 11:59 PM. <a href="/usefullinks/cegeplinks#application-modules-and-guides" target="_blank">CEGEP application modules</a> will open in mid-September.</p>
         </div>
       </div>
     </div>
@@ -96,7 +96,7 @@
         </div>
         <div class="details">
           <h3>Fall 2024 Deadline</h3>
-          <p>High school students and more: the 2023 Fall semester application deadline (and SRAM's round 1 deadline) is <strong>Friday, March 1, 2024</strong> at 11:59 PM. <a href="https://cw118.github.io/quetudesinfo/cegep-links#application-links" target="_blank">CEGEP application modules</a> will open in mid-January.</p>
+          <p>High school students and more: the 2023 Fall semester application deadline (and SRAM's round 1 deadline) is <strong>Friday, March 1, 2024</strong> at 11:59 PM. <a href="/usefullinks/cegeplinks#application-modules-and-guides" target="_blank">CEGEP application modules</a> will open in mid-January.</p>
         </div>
       </div>
     </div>

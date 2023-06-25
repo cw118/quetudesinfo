@@ -480,14 +480,6 @@ ul.card-text {
   margin: auto;
 }
 
-.text-consolas {
-  font-family: Consolas, Verdana, Times;
-}
-
-.text-ubuntu {
-  font-family: Ubuntu, Arial;
-}
-
 .skyblue-bg {
   background: #87ceeb;
 }
@@ -502,10 +494,6 @@ ul.card-text {
 
 .lightorange-bg {
   background: #ffc966;
-}
-
-.text-roboto-condensed {
-  font-family: Roboto Condensed, Arial;
 }
 
 #sram {

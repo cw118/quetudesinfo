@@ -69,7 +69,7 @@ export const UsefulLinks = [
 export const AboutQuetudesInfo = [
   {
     name: 'Disclaimers and Terms',
-    link: '/about/disclaimersterms',
+    link: '/about/disclaimersandterms',
   },
   {
     name: 'The QUÉtudes-info Project',
