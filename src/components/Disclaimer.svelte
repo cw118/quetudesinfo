@@ -3,8 +3,7 @@
 <style>
 .p-disclaimer {
   font-weight: 600;
-  padding-top: 8px;
-  padding-bottom: 8px;
+  padding: 8px 10px;
   border-radius: 5px;
   background: #fff5cc;
 }
