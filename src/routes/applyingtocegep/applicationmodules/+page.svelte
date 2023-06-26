@@ -355,7 +355,7 @@
     <p><i class="fas fa-star"></i> <strong>You can apply to Marianopolis College at this link:</strong> <a href="https://www.bemarianopolis.ca/admissions/apply-now/" target="_blank">https://www.bemarianopolis.ca/admissions/apply-now/</a></p>
     <hr>
     <p><i class="fas fa-arrow-alt-circle-right"></i> <strong>1. To start an application, click "Submit an Application for Admission" at the bottom of the application module page.</strong></p>
-    <img class="xsmall-img" src="/assets/applications/cas-mari-start.png" alt="Marianopolis Omnivox submit an application or consult file">
+    <img class="xsmall-img" src="/assets/applications/crc-mari-start.png" alt="Marianopolis Omnivox submit an application or consult file">
     <br><br><p><i class="fas fa-arrow-alt-circle-right"></i> <strong>2. <u>Reminder that this walkthrough is intended for high school students in the day/youth sector who are applying to the Fall semester!</u> The first part of the application is where you'll select your first and second choice programs. On page 1, under "Program of Studies", select the correct Fall semester for "Semester". The option should be "Fall <em>[the
     year you're graduating]</em>".</strong></p>
     <img class="xsmall-img" src="/assets/applications/mari-apply-step1.png" alt="Marianopolis application page 1, select program of studies and legal status">
@@ -401,17 +401,17 @@
     <p><i class="fas fa-star"></i> <strong>Or apply to Champlain St-Lawrence at this link:</strong> <a href="https://slc-admission-en.omnivox.ca/" target="_blank">https://slc-admission-en.omnivox.ca/</a></p>
     <hr>
     <p><i class="fas fa-arrow-alt-circle-right"></i> <strong>1. To start an application, click "Submit an Application for Admission" at the bottom of the application module page.</strong></p>
-    <img class="xsmall-img" src="/assets/applications/cas-mari-start.png" alt="Champlain St-Lambert Omnivox submit an application or consult file">
+    <img class="xsmall-img" src="/assets/applications/crc-mari-start.png" alt="Champlain St-Lambert Omnivox submit an application or consult file">
     <br><br><p><i class="fas fa-arrow-alt-circle-right"></i> <strong>2. <u>Reminder that this application guide is for day division Quebec high school students (adolescents studying full-time in
     a Quebec high school).</u> On page 1, under "Program of Studies", select the correct Fall semester for "Semester". The option should be "Fall <em>[the year you're
     graduating]</em>".</strong></p>
-    <img class="xsmall-img" src="/assets/applications/cas-page1.png" alt="Champlain St-Lambert application page 1, select program of studies and legal status">
+    <img class="xsmall-img" src="/assets/applications/crc-page1.png" alt="Champlain St-Lambert application page 1, select program of studies and legal status">
     <p><strong>A dropdown menu labelled "Pathway" will appear underneath. Choose "Day Division".</strong></p>
     <p><strong>Input boxes for your program choices will appear underneath. Select your first-choice program, as well as your
     second-choice program.</strong></p>
     <p><strong>Under "Legal Status", select your living situation</strong> (in Quebec, elsewhere in Canada, outside Canada).</p>
     <br><p><i class="fas fa-arrow-alt-circle-right"></i> <strong>3. Press "Next" to proceed. First, complete the "Identification" form carefully</strong> (you'll have to provide information such as your permanent code, last name, first name, other given names if applicable, optional SIN, date of birth, gender).</p>
-    <img class="small-img" src="/assets/applications/cas-identification.png" alt="Champlain St-Lambert application page 2, Identification form">
+    <img class="small-img" src="/assets/applications/crc-identification.png" alt="Champlain St-Lambert application page 2, Identification form">
     <p><strong>Fill out the "Permanent Address" form carefully with your mailing address in Quebec and your contact information</strong> (house number, street name or PO box, apartment number, city/town, province: Quebec, country: Canada, postal code, phone
     numbers, email address).</p>
     <p><strong>Complete the "Citizenship" form carefully</strong> (country of citizenship, place of birth, legal status in Canada), <strong>then complete the "Other Information" form</strong> (mother

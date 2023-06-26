@@ -118,8 +118,7 @@
 
     <div class="footnotes">
       <p class="note"><i class="fas fa-info-circle"></i> Most double DEC programs require the completion of two
-        comprehensive assessments, one for each
-        program/discipline of the
+        comprehensive assessments, one for each program/discipline of the
         double DEC. Consult official websites, viewbooks, and/or brochures for details.</p>
       <p class="sources">Sources: <a href="/usefullinks/cegeplinks">official CEGEP websites, viewbooks, program brochures
           and more</a>

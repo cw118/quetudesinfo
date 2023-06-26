@@ -115,7 +115,7 @@
       <strong>"Application for Admission - Follow Up"</strong> page</li>
     </ul>
     <br><h4><i class="fas fa-caret-right"></i> <strong>To check your application status for Champlain College, St-Lambert and/or St-Lawrence:</strong></h4>
-    <img class="xsmall-img" src="/assets/applications/cas-mari-start.png" alt="Champlain St-Lambert submit an application or consult file">
+    <img class="xsmall-img" src="/assets/applications/crc-mari-start.png" alt="Champlain St-Lambert submit an application or consult file">
     <ul class="ul-blue ms-3">
       <li>Under "Submit an Application for Admission", click <strong>"Consult my File or Upload Documents"</strong>. You'll be taken to their
       <strong>"Application for Admission - Follow Up"</strong> page</li>

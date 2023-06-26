@@ -104,3 +104,68 @@
 
   <Pagination {section} {previous} {next} />
 </section>
+
+<style>
+.event-row {
+  margin: 5px 10px 45px 10px;
+  display: grid;
+}
+
+.event-row .event {
+  margin: 8px;
+  height: 100%;
+  border: solid white 0.5rem;
+}
+
+@media screen and (min-width: 1000px) {
+  .event-row {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.event-row .event .time {
+  background: #262626;
+  width: 30%;
+  height: 100%;
+  text-align: center;
+  float: left;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+.event-row .event .time h2 {
+  margin: 0;
+  color: #fff;
+  font-size: 45px;
+}
+
+.event-row .event .time h2 span {
+  font-size: 30px;
+}
+
+.event-row .event .details {
+  padding: 10px;
+  background: #f2f2f2;
+  color: black;
+  float: left;
+  width: 70%;
+  height: 100%;
+}
+
+@media only screen and (max-width: 319px) {
+  .event-row .event .time {
+    display: none;
+  }
+
+  .event-row .event .details {
+    width: 100%;
+  }
+
+  .event-row .event {
+    border: inset 1px black;
+  }
+}
+</style>

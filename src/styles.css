@@ -10,14 +10,6 @@ body {
   font-family: Poppins, serif;
 }
 
-html, body {
-  height: 100%;
-}
-
-.custom-container {
-  padding: 20px;
-}
-
 /* non-home page styling */
 section {
   padding: 15px 10px;
@@ -42,11 +34,7 @@ section p {
     padding: 15px;
   }
 
-  section p {
-    font-size: 17px;
-  }
-
-  section ul li {
+  section p, section ul li {
     font-size: 17px;
   }
 }
@@ -62,10 +50,6 @@ section p {
     width: 82%;
     padding-top: 24px;
   }
-}
-
-.section-container {
-  padding: 15px;
 }
 
 h2 {
@@ -113,10 +97,7 @@ h3 {
 }
 
 @media screen and (max-width: 568px) {
-
-  .sources,
-  .citation,
-  .caption {
+  .sources, .citation, .caption {
     font-size: 12px;
   }
 
@@ -149,14 +130,11 @@ section ol {
   line-height: 1.75;
 }
 
-.ol-blue,
-.ul-blue,
-.text-blue {
+.ol-blue, .ul-blue, .text-blue {
   color: #002b80;
 }
 
-.ul-indented,
-.ol-indented {
+.ul-indented, .ol-indented {
   padding-left: 70px;
 }
 
@@ -199,8 +177,7 @@ img.figure {
     width: 90%;
   }
 
-  ul.inner li,
-  ol.inner li {
+  ul.inner li, ol.inner li {
     font-size: 16px;
   }
 
@@ -213,10 +190,6 @@ img.figure {
   .xsmall-img {
     width: 65%;
   }
-}
-
-.img-white-bg {
-  background: white;
 }
 
 .lightblue-bg {
@@ -237,26 +210,21 @@ img.figure {
   }
 }
 
-.about-grid img,
-.rightsm-grid img {
+.about-grid img, .rightsm-grid img {
   max-width: 100%;
 }
 
 @media screen and (max-width: 1024px) and (orientation: landscape) {
-
-  .about-grid img,
-  .rightsm-grid img {
+  .about-grid img, .rightsm-grid img {
     width: 75%;
   }
 }
 
-.about-grid ul,
-.rightsm-grid ul {
+.about-grid ul, .rightsm-grid ul {
   margin-top: 6px;
 }
 
-.about-grid ul li,
-.leftsm-grid ul li {
+.about-grid ul li, .leftsm-grid ul li {
   margin-bottom: 6px;
   overflow-wrap: break-word;
 }
@@ -289,7 +257,6 @@ img.figure {
 }
 
 section h3 {
-  font-family: Ubuntu, Arial;
   margin: 0;
   padding: 10px 15px;
   color: #000;
@@ -299,54 +266,48 @@ section h4 {
   padding: 5px 15px 15px;
 }
 
+#mari-about, #dawson-about, #vanier-about, #champlain-about, #jabbott-about, #alc, #lib-arts, #music, #social-science, #science, #accounting-management-tech, #business-management, #nursing, #special-care {
+  color: white;
+}
+
 #mari-about {
   background: #003cb3;
-  color: white;
 }
 
 #dawson-about {
   background: #001a4d;
-  color: white;
 }
 
 #vanier-about {
   background: red;
-  color: white;
 }
 
 #champlain-about {
   background: #006080;
-  color: white;
 }
 
 #jabbott-about {
   background: #0066ff;
-  color: white;
 }
 
 #alc {
   background: orangered;
-  color: white;
 }
 
 #lib-arts {
   background: orange;
-  color: white;
 }
 
 #music {
   background: darkviolet;
-  color: white;
 }
 
 #social-science {
   background: blue;
-  color: white;
 }
 
 #science {
   background: green;
-  color: white;
 }
 
 .description-top {
@@ -359,12 +320,10 @@ section hr {
 
 #accounting-management-tech {
   background: #009999;
-  color: white;
 }
 
 #business-management {
   background: #000099;
-  color: white;
 }
 
 #comp-sci-tech {
@@ -374,7 +333,6 @@ section hr {
 
 #nursing {
   background: #ff00bf;
-  color: white;
 }
 
 #office-systems {
@@ -383,7 +341,6 @@ section hr {
 
 #special-care {
   background: #ff5050;
-  color: white;
 }
 
 .description-bottom {
@@ -421,8 +378,7 @@ section hr {
   background: #fff5cc;
 }
 
-.card-header,
-.card-footer {
+.card-header, .card-footer {
   font-size: 18px;
 }
 
@@ -530,76 +486,6 @@ ul.card-text {
 @media screen and (min-width: 768px) and (max-width: 1024px) {
   .logo-img {
     width: 30%;
-  }
-}
-
-.event-row {
-  margin: 5px 10px 45px 10px;
-  display: grid;
-}
-
-.event-row .event {
-  margin: 8px;
-  height: 100%;
-  border: solid white 0.5rem;
-}
-
-@media screen and (max-width: 999px) {
-  .event-row {
-    grid-template-columns: repeat(1, 1fr);
-  }
-}
-
-@media screen and (min-width: 1000px) {
-  .event-row {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-.event-row .event .time {
-  background: #262626;
-  width: 30%;
-  height: 100%;
-  text-align: center;
-  float: left;
-  font-family: Roboto Condensed, Arial;
-  display: grid;
-  align-items: center;
-  justify-content: center;
-  margin: 0;
-  padding: 0;
-}
-
-.event-row .event .time h2 {
-  margin: 0;
-  color: #fff;
-  font-size: 45px;
-}
-
-.event-row .event .time h2 span {
-  font-size: 30px;
-}
-
-.event-row .event .details {
-  padding: 10px;
-  background: #f2f2f2;
-  color: black;
-  float: left;
-  width: 70%;
-  height: 100%;
-}
-
-@media only screen and (max-width: 319px) {
-  .event-row .event .time {
-    display: none;
-  }
-
-  .event-row .event .details {
-    width: 100%;
-  }
-
-  .event-row .event {
-    border: inset 1px black;
   }
 }
 
