@@ -73,7 +73,7 @@
     <h4 class="mb-0">Migration: Svelte(Kit), Bootstrap 5, and Restyling</h4>
     <p>On June 23, 2023, I began to migrate the entire QUÉtudes-info website to use the Svelte framework (more precisely, SvelteKit). I chose Svelte because it is, in a way,
       a superset of HTML, CSS, and JavaScript, so its syntax is extremely similar to my legacy code. This made it less complex to migrate than it probably would have been to migrate to
-      another front-end framework or ilbrary like React, but the process was still somewhat long. Along the way, I decided to restyle/redesign the site a little, and upgrade to the most recent
+      another front-end framework or library like React, but the process was still somewhat long. Along the way, I decided to restyle/redesign the site a little, and upgrade to the most recent
       version of Bootstrap (Bootstrap 5.3). New Bootstrap versions will of course be released, but this was the current version at the time.
     </p>
     <p>I took the opportunity to clean up quite a bit of my CSS, to create reusable components, to refactor a lot of JavaScript, and to update some content. I also recreated the 

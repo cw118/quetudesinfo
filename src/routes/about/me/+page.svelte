@@ -69,15 +69,12 @@
     <p>Once I'd watched all the lectures and completed every lab and problem set, the last step was the final project. I really
     liked the idea of helping others better understand CEGEP, as well as sharing my knowledge on the subject with others,
     since I'd been doing research on the topic for such a long time. So I chose to create the QUÉtudes-info website as my
-    final project <em>(read more about how I made the site <a href="/about/project">here</a>)</em>. I'd also been thinking about a tool that allowed people to
+    final project <em>(<a href="/about/project">read more about how I made the site here</a>)</em>. I'd also been thinking about a tool that allowed people to
     compare CEGEP programs side-by-side, and thanks to CS50x, I was actually able to make this tool myself <em>(see the <a href="/programcomparisontool" target="_blank">Program
     Comparison Tool</a>)</em>.</p>
     <p>I learned so much as I developed QUÉtudes-info, both about CEGEP and web development. Web programming, for me, combines
     creativity, logic and technology into one discipline—I love how it allows you to be artistic and mathematical/scientific
     at once. I'm also continuing my CS journey by learning more programming languages and tools.</p>
-    <p><em>Also, if any programmers out there look at my current code, I know it's a mess. I went into this project with
-    just the very basics of HTML, CSS and JavaScript, so I was learning about new and more effective features along the way.
-    I do hope to clean things up in the future.</em></p><hr>
     <p>And that's all I have to say about myself—if you're looking for the CS50x course, I've provided the links below in the
     <a href="#links">Links</a> part of this page. <strong>Thank you so much for visiting my site, and here's a final reminder</strong> in case you missed it
     earlier: I've worked and continue to work tirelessly to assure the correctness of the site's contents, but <strong><u>it is always
