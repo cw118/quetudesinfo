@@ -65,7 +65,7 @@
     <div class="event-row">
       <div class="event clearfix">
         <div class="time">
-          <h2>1<br><span>November</span><br><span>2024</span></h2>
+          <h2>1<br><span>Nov</span><br><span>2024</span></h2>
         </div>
         <div class="details">
           <h3>Winter 2024 Deadline</h3>

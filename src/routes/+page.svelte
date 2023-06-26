@@ -235,6 +235,7 @@
   left: 0;
   right: 0;
   bottom: 0;
+  padding: 0 1rem;
 }
 
 #start-cards div.card-item div.overlay .custom-card-title {
@@ -284,10 +285,6 @@
   #start-cards div.card-item div.overlay .custom-card-title {
     font-size: 22px;
   }
-}
-
-#why-cegep {
-  animation: fade-in 1s ease forwards;
 }
 
 .cegep-reasons {

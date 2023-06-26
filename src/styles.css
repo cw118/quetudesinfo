@@ -421,12 +421,6 @@ section hr {
   background: #fff5cc;
 }
 
-#headingOne h2 button,
-#headingTwo h2 button {
-  color: black;
-  font-weight: bold;
-}
-
 .card-header,
 .card-footer {
   font-size: 18px;
@@ -609,23 +603,7 @@ ul.card-text {
   }
 }
 
-.hide {
-  visibility: hidden;
-}
-
 #site-link {
   user-select: all;
   color: #00004d;
-}
-
-#program-grid1,
-#program-grid2 {
-  padding-left: 5px;
-  line-height: 1.75;
-}
-
-#program-grid1 li,
-#program-grid2 li {
-  font-size: 17px;
-  margin-left: 25px;
 }

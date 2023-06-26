@@ -6,7 +6,7 @@
   import Pagination from "../../components/Pagination.svelte";
   import { ProgramComparisonTool } from "../../sectionPages";
 
-  const pages = ProgramComparisonTool, section = 'Program Comparison Tool', prevSection = 'Applying to CEGEP', previous = '/applyingtocegep', nextSection = 'Useful Links', next = '/usefullinks/cegeplinks';
+  const pages = ProgramComparisonTool, section = 'Program Comparison Tool', prevSection = 'Applying to CEGEP', previous = '/applyingtocegep/afterapplying', nextSection = 'Useful Links', next = '/usefullinks/cegeplinks';
 
   const chapters = [
     {

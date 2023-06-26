@@ -1,26 +1,21 @@
 # For more information on GitHub Actions' labeler, see https://github.com/actions/labeler
 
 assets:
-- assets/**/*
+- static/**/*
 
-content:
-- about/**/*
-- apply/**/*
-- whatiscegep/**/*
-- '*.html'
+components:
+- src/components/**/*
 
-CSS:
-- style/**/*
+pages:
+- src/routes/**/*
+
+styling:
 - '*.css'
 
 documentation:
 - '*.md'
 
-HTML:
-- '*.html'
-
 JS:
-- scripts/**/*
 - '*.js'
 
 workflow:

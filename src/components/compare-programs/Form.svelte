@@ -72,7 +72,7 @@
       {#if programName}
         <ul>
           {#each programInfo as info (programInfo.indexOf(info))}
-            <li class="mt-2"><strong>{info[0]}</strong>{info[1] ? `: ${info[1]}` : ''}</li>
+            <li class="mt-2 fs-6"><strong>{info[0]}</strong>{info[1] ? `: ${info[1]}` : ''}</li>
           {/each}
         </ul>
 
@@ -80,7 +80,7 @@
           <h6 class="mb-1 text-decoration-underline">Program Grid</h6>
           <ul>
             {#each programGrid as item (programGrid.indexOf(item))}
-              <li class="mt-2"><strong>{item[0]}</strong>{item[1] ? `: ${item[1]}` : ''}</li>
+              <li class="mt-2 fs-6"><strong>{item[0]}</strong>{item[1] ? `: ${item[1]}` : ''}</li>
             {/each}
           </ul>
         {/if}
