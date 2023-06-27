@@ -139,11 +139,11 @@
 .event-row .event .time h2 {
   margin: 0;
   color: #fff;
-  font-size: 45px;
+  font-size: 40px;
 }
 
 .event-row .event .time h2 span {
-  font-size: 30px;
+  font-size: 25px;
 }
 
 .event-row .event .details {

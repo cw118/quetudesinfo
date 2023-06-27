@@ -54,7 +54,7 @@
     <h3 class="green-bg mb-2">Location</h3>
     <div class="image-label">
       <p class="label">John Abbott College campus</p>
-      <img src="https://www.macleans.ca/wp-content/uploads/2016/09/John-Abbott-College-Profile-Macleans.jpg" class="small-img" alt="Overhead view of John Abbott College's campus, source is Maclean's">
+      <img src="/assets/applyingtocegep/john-abbott-top.webp" class="small-img" alt="Overhead view of John Abbott College's campus, source is Maclean's">
       <p class="caption">Photo by Maclean's. Copyright by St. Joseph Communications, 2021.</p>
     </div>
     <p>Would you prefer a campus in downtown or away from urban centres? Do you want to live directly on the school campus*?</p>
@@ -65,7 +65,7 @@
 
     <h3 class="silver-bg mb-1">Finances</h3>
     <div class="image-label">
-      <img src="https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=695&q=80"
+      <img src="/assets/applyingtocegep/money-jar.webp"
           class="small-img" alt="Spilled coins from a jar, by Michael Longmire">
       <p class="caption">Photo by Michael Longmire on Unsplash.</p>
     </div>
@@ -83,7 +83,7 @@
     <h3 class="orange-bg mb-2">Program Options</h3>
     <div class="image-label">
       <p class="label">Child Studies at Dawson College</p>
-      <img src="https://www.dawsoncollege.qc.ca/public/programs/header_images/Child-Studies-300FE.jpg" class="figure" alt="Child Studies students at Dawson College working in a group">
+      <img src="/assets/applyingtocegep/dawson-child-studies.webp" class="figure" alt="Child Studies students at Dawson College working in a group">
       <p class="caption">Photo by Dawson College. Copyright by Dawson College, 2021.</p>
     </div>
     <p>Does the CEGEP offer your <strong>program of interest</strong>? <strong>What distinguishes the program at this particular college</strong> from other
@@ -96,7 +96,7 @@
     that the highest-ranked school may not be the best fit—everyone learns in different ways and at different paces.</p>
     <div class="image-label">
       <p class="label">Marianopolis College R-Score Statistics</p>
-      <img src="https://www.bemarianopolis.ca/wp/wp-content/uploads/GC-R-Score-Chart-2019.jpg" class="figure" alt="Marianopolis student R-Scores in comparison to other English CEGEPs">
+      <img src="/assets/applyingtocegep/marianopolis-r-scores.webp" class="figure" alt="Marianopolis student R-Scores in comparison to other English CEGEPs">
       <p class="caption">Graph and statistics by Marianopolis College. Copyright by Marianopolis College, 2021.</p>
     </div>
     <p>Taking into account the reputation of a CEGEP doesn't mean blindly believing every rumour about the college. While
@@ -113,7 +113,7 @@
     look for high-quality athletic facilities and training equipment.</p>
     <div class="image-label">
       <p class="label">Fitness Room at Vanier College</p>
-      <img src="https://www.vaniercollege.qc.ca/sports-recreation/files/2012/09/16395788_10154850931742667_602453780_n-1.jpg" class="small-img"
+      <img src="/assets/applyingtocegep/vanier-fitness-room.webp" class="small-img"
           alt="Vanier College fitness room with new training equipment">
       <p class="caption">Photo by Vanier College. Copyright by Vanier College, 2021.</p>
     </div>
@@ -125,7 +125,7 @@
     <h3 class="lightpurple-bg mb-2">Clubs and Activities</h3>
     <div class="image-label">
       <p class="label">Champlain St-Lambert Athletics: The Cavaliers</p>
-      <img src="https://www.champlaincavaliers.com/wp-content/uploads/Cavs_CGlow.png"
+      <img src="/assets/applyingtocegep/champlain-st-lambert-cavaliers.webp"
           class="xsmall-img" alt="Champlain St-Lambert sports team mascot and logo, the Cavaliers">
       <p class="caption">Photo by Champlain St-Lambert. Copyright by Champlain College Saint-Lambert, 2018.</p>
     </div>
@@ -145,7 +145,7 @@
     <strong>technical</strong> (3 years) programs.</p>
     <div class="image-label">
       <p class="label">Visual Arts at John Abbott College</p>
-      <img src="https://www.johnabbott.qc.ca/wp-content/uploads/2020/06/visual.png" class="xsmall-img"
+      <img src="/assets/applyingtocegep/pottery.webp" class="xsmall-img"
           alt="Student in a pottery or sculpture class">
       <p class="caption">Photo by John Abbott College. Copyright by John Abbott College, 2020.</p>
     </div>
@@ -186,7 +186,7 @@
     
     <div class="about-grid">
       <div class="image-label">
-        <img src="https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=709&q=80"
+        <img src="/assets/applyingtocegep/apple-and-books.webp"
             alt="Red apple on top of a pile of four books">
         <p class="caption">Photo by Element5 Digital on Unsplash.</p>
       </div>
@@ -220,7 +220,7 @@
         What were your favourite memories?</li>
       </ul>
       <div class="image-label">
-        <img src="https://images.unsplash.com/photo-1550439062-609e1531270e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
+        <img src="/assets/applyingtocegep/three-monitor-setup.webp"
             alt="Man facing three computer monitors while sitting">
         <p class="caption">Photo by Max Duzij on Unsplash.</p>
       </div>

@@ -71,7 +71,7 @@
         </ul>
         <div class="image-label">
           <p class="label">Left-skewed data example</p>
-          <img class="xxsmall-img" src="https://www.mathsisfun.com/data/images/normal-distribution-skew-left.gif" alt="Uneven bar graph where bars tend to be lower on the left">
+          <img class="xxsmall-img" src="/assets/whatiscegep/left-skewed.webp" alt="Uneven bar graph where bars tend to be lower on the left">
           <p class="citation">Graph from Mathisfun. Copyright by MathsIsFun, 2019.</p>
         </div>
       </li>
@@ -83,7 +83,7 @@
         </ul>
         <div class="image-label">
           <p class="label">Bell Curve diagram</p>
-          <img class="xsmall-img" src="https://www.mathsisfun.com/data/images/normal-distribution-1.svg"
+          <img class="xsmall-img" src="/assets/whatiscegep/bell-curve.svg"
               alt="Bar graph where the bar heights form a half-parabola opening downwards">
           <p class="citation">Diagram from Mathisfun. Copyright by MathsIsFun, 2019.</p>
         </div>
@@ -147,7 +147,7 @@
     <p><em>Recall that lowercase sigma </em>&#963; <em>is the symbol for standard deviation.</em></p>
     <div class="image-label">
       <p class="label">Standard deviation diagram</p>
-      <img class="small-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Standard_deviation_diagram.svg/1920px-Standard_deviation_diagram.svg.png" alt="Diagram showing the percentage of values within varying numbers of standard deviations">
+      <img class="small-img" src="/assets/whatiscegep/standard-deviation.webp" alt="Diagram showing the percentage of values within varying numbers of standard deviations">
       <p class="citation">Diagram by M. W. Toews, CC BY 2.5 licence</p>
     </div><hr>
     <p>Just one final detail before we move on: the calculations shown above are used for a <strong>population</strong>, meaning
@@ -181,7 +181,7 @@
     <p><em>Why is it <strong>3 and -3</strong>?</em> Let's think back to the <strong>empirical rule</strong> with this diagram here:</p>
     <div class="image-label">
       <p class="label">Empirical rule histogram</p>
-      <img class="xsmall-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Empirical_rule_histogram.svg/1024px-Empirical_rule_histogram.svg.png" alt="Histogram of approximately normal data set, labeled with percentages of values that fall within a number of standard deviations">
+      <img class="xsmall-img" src="/assets/whatiscegep/empirical-rule.webp" alt="Histogram of approximately normal data set, labeled with percentages of values that fall within a number of standard deviations">
       <p class="citation">Diagram by Melikamp, CC BY-SA 4.0 licence</p>
     </div>
     <Disclaimer><em>The symbol </em>&#956; <em>is lowercase Greek letter "mu", which is statistical notation for the <strong>mean</strong>. Recall that a <u>z-score</u> is defined as <u>how many standard deviations above or below the <strong>mean</strong> a data point is</u>.</em></Disclaimer>

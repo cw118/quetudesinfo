@@ -75,7 +75,7 @@
     <p>CEGEPs consider students' grades and compare them to the class/group average. For most programs, your grades will also
     be compared to cutoffs (minimum required averages and grades, vary based on program). Below is an image depicting what
     admissions teams see:</p>
-    <img src="/assets/cegep-hsgrades.png" class="xsmall-img" alt="Table with school code, student permanent code, course code, grade earned, and class or group average">
+    <img src="/assets/applyingtocegep/cegep-hsgrades.webp" class="xsmall-img" alt="Table with school code, student permanent code, course code, grade earned, and class or group average">
     <p>The permanent code is a unique identifier assigned to each Quebec student, consisting of a 12 character code that is
     found on report cards and achievement records. The course code is a 6 character code representing a course, such as
     132506 for <em>Français langue seconde, enrichi</em>.</p>
@@ -84,7 +84,7 @@
     <p><em>SRAM stands for Service régional d'admission du Montréal métropolitain, and students can apply to several CEGEPs through
     SRAM. See <a href="/applyingtocegep/applicationmodules">Application Modules</a> for more details.</em></p>
     <div class="image-label">
-      <img src="https://admission.sram.qc.ca/static/sram/hibou_transp.png" class="logo-img" alt="SRAM logo">
+      <img src="/assets/applyingtocegep/sram-logo.webp" class="logo-img" alt="SRAM logo">
       <p class="caption">Brandmark &#169; SRAM</p>
     </div>
     

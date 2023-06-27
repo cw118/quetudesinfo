@@ -67,7 +67,7 @@
     verify this in July), your offer of admission may be withdrawn.</p>
     <hr>
     <h4><i class="fas fa-caret-right"></i> <strong>To check your application status in SRAM's module:</strong></h4>
-    <img src="/assets/applications/sram-apply.png" class="small-img" alt="SRAM admission main menu">
+    <img src="/assets/applyingtocegep/applications/sram-apply.webp" class="small-img" alt="SRAM admission main menu">
     <ul class="ul-blue ms-3">
       <li><strong>Log in</strong> by clicking "Log me in" in the top right corner of SRAM Admission's Home page
         <ul class="inner">
@@ -107,7 +107,7 @@
       <li>If you have questions or concerns regarding your application or admission status, use the Message Center to send a message</li>
     </ul>
     <br><h4><i class="fas fa-caret-right"></i> <strong>To check your application status for Marianopolis College:</strong></h4>
-    <img src="/assets/applications/mari-new-application-info.png" class="small-img" alt="Email from Marianopolis College that says 'There is new information related to your application for admission'">
+    <img src="/assets/applyingtocegep/applications/mari-new-application-info.webp" class="small-img" alt="Email from Marianopolis College that says 'There is new information related to your application for admission'">
     <ul class="ul-blue ms-3">
       <li>Most offers of admission are posted online in March, often starting as early as 10 days after the deadline (March 1)</li>
       <li>When your admission status has been updated, Omnivox (Marianopolis) sends an email saying there is new information related to your application</li>
@@ -115,7 +115,7 @@
       <strong>"Application for Admission - Follow Up"</strong> page</li>
     </ul>
     <br><h4><i class="fas fa-caret-right"></i> <strong>To check your application status for Champlain College, St-Lambert and/or St-Lawrence:</strong></h4>
-    <img class="xsmall-img" src="/assets/applications/crc-mari-start.png" alt="Champlain St-Lambert submit an application or consult file">
+    <img class="xsmall-img" src="/assets/applyingtocegep/applications/crc-mari-start.webp" alt="Champlain St-Lambert submit an application or consult file">
     <ul class="ul-blue ms-3">
       <li>Under "Submit an Application for Admission", click <strong>"Consult my File or Upload Documents"</strong>. You'll be taken to their
       <strong>"Application for Admission - Follow Up"</strong> page</li>
@@ -149,14 +149,14 @@
   </div>
 
   <div id={chapters[3].link}>
-    <h2 class="yellow-bg" id="college-course-overview">Overview of CEGEP Courses</h2>
+    <h2 class="yellow-bg">{chapters[3].name}</h2>
     <Disclaimer>Note: Course names vary by college. Examples were taken from several colleges and are not offered at every CEGEP.</Disclaimer>
     <p><strong>CEGEP course codes</strong> are 8 characters long, formatted as such: XXX-YYY-ZZ. The first three characters, XXX, are always numbers and indicate
     the discipline or subject that the course belongs to (603 = English, 201 = Math, 203 = Physics, 350 = Psychology, 607 =
     Spanish, etc.).</p>
     <div class="image-label">
       <p class="label">Liberal Arts courses at Vanier College</p>
-      <img src="/assets/vanier-courseexample.png" class="xsmall-img" alt="List of Liberal Arts courses at Vanier College">
+      <img src="/assets/vanier-courseexample.webp" class="xsmall-img" alt="List of Liberal Arts courses at Vanier College">
       <p class="caption">Photo of Vanier College's Liberal Arts website. Copyright by Vanier College, 2021.</p>
     </div>
     <p>The next three, YYY, usually specify the level or specialization of the course within its category, depending on the
@@ -209,7 +209,7 @@
       </ul>
       <div class="image-label">
         <img loading="lazy" alt="Writing on lined paper with a fountain pen"
-            src="https://images.unsplash.com/photo-1455390582262-044cdead277a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=666&q=80">
+            src="/assets/applyingtocegep/fountain-pen.webp">
         <p class="caption">Photo by Aaron Burden on Unsplash</p>
       </div>
     </div>
@@ -250,7 +250,7 @@
       </ul>
       <div class="image-label">
         <img loading="lazy" alt="Flag of Quebec, blue rectangle with centered white cross and four fleurs de lys in each quarter of the rectangle"
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Flag_of_Quebec.svg/1200px-Flag_of_Quebec.svg.png">
+            src="/assets/applyingtocegep/quebec-flag.webp">
         <p class="caption">Flag and symbols in Canadian public domain</p>
       </div>
     </div>
@@ -289,7 +289,7 @@
       <div class="image-label">
         <img loading="lazy"
             alt="Collection of old books on shelves"
-            src="https://images.unsplash.com/photo-1472173148041-00294f0814a2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80">
+            src="/assets/applyingtocegep/books.webp">
         <p class="caption">Photo by Thomas Kelley on Unsplash</p>
       </div>
     </div>
@@ -322,7 +322,7 @@
       </ul>
       <div class="image-label">
         <img loading="lazy" alt="Spalding brand basketball on running track next to green tarp"
-            src="https://images.unsplash.com/photo-1484482340112-e1e2682b4856?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=755&q=80">
+            src="/assets/applyingtocegep/basketball.webp">
         <p class="caption">Photo by Sabri Tuzcu on Unsplash</p>
       </div>
     </div>

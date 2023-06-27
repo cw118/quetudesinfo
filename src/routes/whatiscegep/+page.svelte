@@ -43,7 +43,7 @@
     few offer English instruction.</p>
     <p>The first year of CEGEP is equivalent to Grade 12 in other Canadian provinces (also equivalent to <i lang="fr">terminale</i> in France). The second year of a <a href="/whatiscegep/programs#pre-university-programs">pre-university program in CEGEP</a> is often considered equivalent to year 1 of university, while the second and third year of a <a href="/whatiscegep/programs#career-and-technical-programs">career/technical program in CEGEP</a> is equivalent to a college program in other provinces like Ontario.</p>
     <p class="label">Cégep de Saint-Laurent</p>
-    <img class="small-img" src="https://live.staticflickr.com/3304/3659476364_cbb1427731_b.jpg" alt="Cégep de Saint-Laurent, by Denis-Carl Robidoux">
+    <img class="small-img" src="/assets/whatiscegep/cegep-de-saint-laurent.webp" alt="Cégep de Saint-Laurent, by Denis-Carl Robidoux">
     <p class="citation">Photo by Denis-Carl Robidoux, <a href="https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&atype=rich">CC BY-NC 2.0 licence</a>.</p>
     <p>Internationally recognized for their high-quality education, CEGEPs provide a tight-knit and stimulating learning
     environment for students. Studying in a CEGEP is not only a chance for you to study what truly interests you, but also
@@ -68,7 +68,7 @@
     with CEGEP applications. <em>*Please note that many CEGEP programs have prerequisites beyond a secondary school diploma. For more details, see <a href="/whatiscegep/programs">Programs</a>.</em></p>
     
     <p class="label">Quebec youth sector Achievement Record</p>
-    <img class="xsmall-img" src="/assets/achievement-record.png" alt="Quebec achievement record sample">
+    <img class="xsmall-img" src="/assets/whatiscegep/achievement-record.webp" alt="Quebec achievement record sample">
     <p class="citation">From "Achievement Record" by Ministère de l'Éducation et Ministère de l'Enseignement supérieur. Copyright by Gouvernement du Québec, 2021.</p>
     
     <p>Read the UN column on your Achievement Record, or the Credits row on your high school report card (final term), to check the number of credits you obtain from a particular course. You can also look at the course code's last digit. This works for
@@ -99,7 +99,7 @@
     </ul>
     <p>Students have the choice of applying to pre-university programs (usually two years) or career programs (usually three
     years) for CEGEP. Here's a diagram overview of the Quebec school system from <a href="https://www.cegepsquebec.ca/en/" target="_blank">Cégeps du Québec</a>:</p>
-    <img loading="lazy" class="small-img" src="https://www.cegepsquebec.ca/wp-content/uploads/2019/03/SCHEMA_EN.svg" alt="Diagram of Quebec School System">
+    <img loading="lazy" class="small-img" src="/assets/whatiscegep/quebec-school-system.svg" alt="Diagram of Quebec School System">
     <p class="citation">From "Quebec School System" by Cégeps du Québec. Copyright by Cégeps du Québec, 2019.</p>
     <p>The type of college program you apply to will depend on several factors. CEGEP programs are explained in more depth later in <a href="/whatiscegep/programs">Programs</a>.</p>
 
@@ -140,14 +140,14 @@
   <div id={chapters[3].link}>
     <h2 class="yellow-bg">{chapters[3].name}</h2>
     <p class="label">Industrial Electronics at Vanier College</p>
-    <img loading="lazy" class="small-img" src="https://live.staticflickr.com/8338/8247775358_967c54b62c.jpg"
+    <img loading="lazy" class="small-img" src="/assets/whatiscegep/vanier-industrial-electronics.webp"
             alt="Vanier College Industrial Electronics">
     <p class="citation">Photo by Vanier College, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/?ref=ccsearch&atype=rich">CC BY-NC-ND 2.0 licence</a>.</p>
     <p>Each year at CEGEP is split into two 16-week semesters, Fall and Winter. The fall semester begins in late August and
     ends in December (including final exam period), while the winter semester starts around mid-January and ends in May. Each college's academic calendar is slightly different and specifies the various blocks of the school year.</p>
     <p>Each semester, students will follow a weekly class schedule resembling university schedules, for which they can select
     courses and/or class times. A schedule might look something like this:</p>
-    <img class="figure" src="/assets/sample-commerce-schedule.png" alt="Sample college schedule of a Commerce student">
+    <img class="figure" src="/assets/whatiscegep/sample-commerce-schedule.webp" alt="Sample college schedule of a Commerce student">
     <p>For each term, there are midterm exams (October, March) and final exams (December, May). There may also be a shorter
     summer term available (around June to August) for students wishing to retake a failed course, complete DCS (college
     diploma) requirements, or to meet university prerequisites. The passing grade remains 60% for college courses.</p>

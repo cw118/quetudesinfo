@@ -22,7 +22,7 @@
 
 <svelte:window on:scroll={handleOnScroll} />
 
-<button class="gotopbtn" on:click={goToTop} class:hidden><i class="fas fa-arrow-up"></i></button>
+<button class="gotopbtn" aria-label="Go to the top of the page" on:click={goToTop} class:hidden><i class="fas fa-arrow-up"></i></button>
 
 <style>
   /* based on https://www.youtube.com/watch?v=Vef9bxTilCU */

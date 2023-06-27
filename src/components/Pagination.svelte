@@ -10,7 +10,7 @@
   {#if previous || prevSection}
   <a href={previous} class={"btn" + (prevSection ? ` btn-info text-white btn-min` : ' btn-warning')}>{prevText}</a>
   {:else}
-  <button class="btn placeholder">{prevText}</button>
+  <button class="btn placeholder" aria-label="Placeholder for pagination button">{prevText}</button>
   {/if}
 
   <span><strong>Current section:</strong> {section}</span>
@@ -18,7 +18,7 @@
   {#if next || nextSection}
   <a href={next} class={"btn" + (nextSection ? ` btn-info text-white btn-min` : ' btn-warning')}>{nextText}</a>
   {:else}
-  <button class="btn placeholder">{nextText}</button>
+  <button class="btn placeholder" aria-label="Placeholder for pagination button">{nextText}</button>
   {/if}
 </div>
 
