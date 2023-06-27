@@ -5,7 +5,7 @@
 
 <div class="card">
   <div class="card-header gray-bg heading">
-    <button class="btn btn-link btn-block text-left collapsed w-100 pb-0 text-decoration-none text-black text-start" type="button" data-bs-toggle="collapse"
+    <button class="btn btn-link btn-block text-left collapsed w-100 pb-0 text-decoration-none text-black text-start" type="button" aria-label="Toggle collapse component" data-bs-toggle="collapse"
       data-bs-target={`#${collapseId}`} aria-expanded="false" aria-controls={collapseId}>
       <h4 class="p-0">{title}</h4>
     </button>

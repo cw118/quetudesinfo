@@ -92,7 +92,7 @@
     <p>Looking for some tips on choosing a CEGEP and/or program? Take a look at <a href="/applyingtocegep/choosingacegepandprogram">Choosing a CEGEP and Program</a>.</p>
   </div>
 
-  <button class="btn w-100" data-bs-target="#sram-sect" data-bs-toggle="collapse" aria-expanded="false" aria-controls="sram-sect"><h2 class="mb-0" id={chapters[1].link}>{chapters[1].name}</h2></button>
+  <button class="btn w-100" data-bs-target="#sram-sect" data-bs-toggle="collapse" aria-expanded="false" aria-controls="sram-sect" aria-label="Toggle collapse for SRAM section"><h2 class="mb-0" id={chapters[1].link}>{chapters[1].name}</h2></button>
   <div id="sram-sect" class="collapse">
     <Disclaimer> This walkthrough is specifically intended for Quebec high school students applying to the Day Division fall session.</Disclaimer>
     <p>The SRAM (Service régional d'admission du Montréal métropolitain) application module is used to apply to SRAM-affiliated
@@ -193,7 +193,7 @@
     </ul>
     <h4><i class="fas fa-glass-cheers"></i> <strong>And that's it! You've applied through SRAM's application module!</strong></h4>
     <p>Next, you can go to <a href="#dawson-application-centre">Dawson Application Centre</a>, <a href="#marianopolis-college-omnivox">Marianopolis College (Omnivox)</a>, or <a href="#champlain-regional-college-omnivox">Champlain Regional College (Omnivox)</a> to see how to apply to more CEGEPs. <em>Or if you're unsure about something, see below.</em></p>
-    <p><button class="btn btn-secondary" data-bs-target="#sram-sect" data-bs-toggle="collapse" aria-expanded="true" aria-controls="sram-sect">Click me to collapse this section</button></p>
+    <p><button class="btn btn-secondary" data-bs-target="#sram-sect" data-bs-toggle="collapse" aria-expanded="true" aria-controls="sram-sect" aria-label="Toggle collapse for SRAM section">Click me to collapse this section</button></p>
     <hr>
     <p>If you have additional concerns, SRAM's Admission FAQ may have the answer for you: <a href="https://sram.qc.ca/frequently-asked-questions/admission" target="_blank">https://sram.qc.ca/frequently-asked-questions/admission</a></p>
     <p>If you are struggling and would like to watch videos on this topic, you may find this site helpful: <a href="https://maformationenvideo.ca/the-college-admissions" target="_blank">https://maformationenvideo.ca/the-college-admissions</a></p>
@@ -201,7 +201,7 @@
     "Admission Procedures" lists some documents that you may have to upload depending on your situation:</em> <a href="https://www.sram.qc.ca/diploma-of-college-studies/admission-procedures" target="_blank">https://www.sram.qc.ca/diploma-of-college-studies/admission-procedures</a></p>
   </div>
 
-  <button class="btn w-100" data-bs-target="#dawson-sect" data-bs-toggle="collapse" aria-expanded="false" aria-controls="dawson-sect"><h2 class="mb-0" id={chapters[2].link}>{chapters[2].name}</h2></button>
+  <button class="btn w-100" data-bs-target="#dawson-sect" data-bs-toggle="collapse" aria-label="Toggle collapse for Dawson section" aria-expanded="false" aria-controls="dawson-sect"><h2 class="mb-0" id={chapters[2].link}>{chapters[2].name}</h2></button>
   <div class="collapse" id="dawson-sect">
     <Disclaimer> This walkthrough is specifically intended for
         Quebec high school students applying to the Day Division fall session.</Disclaimer>
@@ -331,10 +331,10 @@
     <h4><i class="fas fa-laugh-squint"></i> <strong>Congratulations, you've applied to Dawson College!</strong></h4>
     <p>Next, you can go to <a href="#sram">SRAM</a>, <a href="#marianopolis-college-omnivox">Marianopolis College (Omnivox)</a>, or <a href="#champlain-regional-college-omnivox">Champlain Regional College (Omnivox)</a> to see how to apply to more CEGEPs.</p>
     <p><em>Or if you're unsure, see the documents under "Applications Instructions" on Dawson College's <a href="https://www.dawsoncollege.qc.ca/admissions/how-to-apply/fall/" target="_blank">How to Apply (Fall) page</a>.</em></p>
-    <p><button class="btn btn-primary" data-bs-target="#dawson-sect" data-bs-toggle="collapse" aria-expanded="true" aria-controls="dawson-sect">Click me to collapse this section</button></p>
+    <p><button class="btn btn-primary" data-bs-target="#dawson-sect" aria-label="Toggle collapse for Dawson section" data-bs-toggle="collapse" aria-expanded="true" aria-controls="dawson-sect">Click me to collapse this section</button></p>
   </div>
 
-  <button class="btn w-100" data-bs-target="#marianopolis-sect" data-bs-toggle="collapse" aria-expanded="false" aria-controls="marianopolis-sect"><h2 class="mb-0" id={chapters[3].link}>{chapters[3].name}</h2></button>
+  <button class="btn w-100" data-bs-target="#marianopolis-sect" data-bs-toggle="collapse" aria-label="Toggle collapse for Marianopolis section" aria-expanded="false" aria-controls="marianopolis-sect"><h2 class="mb-0" id={chapters[3].link}>{chapters[3].name}</h2></button>
   <div class="collapse" id="marianopolis-sect">
     <Disclaimer> This walkthrough is specifically intended for Quebec high school students applying to the Day Division fall session.</Disclaimer>
     <p>When applying to Marianopolis College, you get <strong>one round</strong> and <strong>2 program choices</strong>.</p>
@@ -381,10 +381,10 @@
     
     <h4><i class="fas fa-hand-peace"></i> <strong>You did it—you applied to Marianopolis College!</strong></h4>
     <p>Go to <a href="#sram">SRAM</a>, <a href="#dawson-application-centre">Dawson Application Centre</a>, or <a href="#champlain-regional-college-omnivox">Champlain Regional College (Omnivox)</a> to see how to apply to more CEGEPs.</p>
-    <p><button class="btn btn-primary" data-bs-target="#marianopolis-sect" data-bs-toggle="collapse" aria-expanded="true" aria-controls="marianopolis-sect">Click me to collapse this section</button></p>
+    <p><button class="btn btn-primary" data-bs-target="#marianopolis-sect" data-bs-toggle="collapse" aria-label="Toggle collapse for Marianopolis section" aria-expanded="true" aria-controls="marianopolis-sect">Click me to collapse this section</button></p>
   </div>
 
-  <button class="btn w-100" data-bs-target="#champlain-sect" data-bs-toggle="collapse" aria-expanded="false" aria-controls="champlain-sect"><h2 class="mb-0" id={chapters[4].link}>{chapters[4].name}</h2></button>
+  <button class="btn w-100" data-bs-target="#champlain-sect" data-bs-toggle="collapse" aria-label="Toggle collapse for Champlain section" aria-expanded="false" aria-controls="champlain-sect"><h2 class="mb-0" id={chapters[4].link}>{chapters[4].name}</h2></button>
   <div class="collapse" id="champlain-sect">
     <Disclaimer> This walkthrough is specifically intended for Quebec high school students applying to the Day Division fall session.</Disclaimer>
     <p>Champlain Regional College's <strong>St-Lambert</strong> and <strong>St-Lawrence</strong> campuses use Omnivox. Since the process and layout for both campuses are nearly identical (certain choices are simply presented at different
@@ -443,7 +443,7 @@
     
     <h4><i class="fas fa-thumbs-up"></i> <strong>Give yourself a pat on the back—you've applied through to Champlain Regional College (St-Lambert/St-Lawrence)!</strong></h4>
     <p>If you haven't already, go see <a href="#sram">SRAM</a>, <a href="#dawson-application-centre">Dawson Application Centre</a>, or <a href="#marianopolis-college-omnivox">Marianopolis College (Omnivox)</a> to see how to apply to more CEGEPs!</p>
-    <p><button class="btn btn-info text-white" href="#champlain-sect" data-bs-toggle="collapse" aria-expanded="true" aria-controls="champlain-sect">Click me to collapse this section</button></p>
+    <p><button class="btn btn-info text-white" href="#champlain-sect" data-bs-toggle="collapse" aria-label="Toggle collapse for Champlain section" aria-expanded="true" aria-controls="champlain-sect">Click me to collapse this section</button></p>
   </div>
 
   <div id={chapters[5].link}>
