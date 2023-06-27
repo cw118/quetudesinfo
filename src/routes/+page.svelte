@@ -20,14 +20,14 @@
 </div>
 {/if}
 
-<div id="get-started">
+<div id="get-started" class="lightblue-bg">
   <h1>Welcome to QUÉtudes-info!</h1>
   <h4>As the transition from high school to university and to the workforce, CEGEP is a pivotal step for Quebec students.<br>Learn more about the CEGEP system and the options available to you:</h4>
 </div>
 
 <div id="start-cards">
   <div class="card-item text-center">                        
-    <img class="p-0" src="https://images.unsplash.com/photo-1540746409045-0bd66d2f898b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzF8fHF1ZWJlY3xlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60" alt="Quebec scenery, by Rich Martello">
+    <img class="p-0" src="/assets/home/quebec-scenery.webp" alt="Quebec scenery, by Rich Martello">
     <div class="overlay">
         <div class="citation">Photo by Rich Martello on Unsplash, 60% opacity</div>
         <div class="custom-card-title">Not sure what CEGEP is, or what CEGEPs are out there?</div>
@@ -35,7 +35,7 @@
     </div>                        
   </div>
   <div class="card-item text-center">
-    <img class="p-0" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Dawson_College_01.jpg/1200px-Dawson_College_01.jpg" alt="Dawson College, by Jean Gagnon">
+    <img class="p-0" src="/assets/home/dawson-college.webp" alt="Dawson College, by Jean Gagnon">
     <div class="overlay">
         <div class="citation">Photo by Jean Gagnon, CC 3.0 licence, 60% opacity</div>
         <div class="custom-card-title">Want to know more about CEGEP admissions and applications?</div>
@@ -44,7 +44,7 @@
     </div>
   </div>
   <div class="card-item text-center">
-    <img class="p-0" src="https://images.unsplash.com/photo-1604313890727-5542ff314405?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8c2NpZW5jZSUyMGxhYnxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60"
+    <img class="p-0" src="/assets/home/scientist.webp"
         alt="Scientist in lab, by Talha Hassan">
     <div class="overlay">
         <div class="citation">Photo by Talha Hassan on Unsplash, 60% opacity</div>
@@ -55,7 +55,7 @@
     </div>
   </div>
   <div class="card-item text-center">
-    <img class="p-0" src="https://live.staticflickr.com/6172/6238548941_359e0a90cf_b.jpg"
+    <img class="p-0" src="/assets/home/computer-lab.webp"
         alt="Students in computer lab, by J. Paxon Reyes">
     <div class="overlay">
         <div class="citation">Photo by J. Paxon Reyes, CC BY-NC 2.0 licence, 60% opacity</div>
@@ -186,7 +186,6 @@
   text-align: center;
   padding: 15px 20px;
   margin: 0;
-  background-image: url('https://unblast.com/wp-content/uploads/2020/07/Abstract-Texture-1.jpg');
 }
 
 #get-started h4 {

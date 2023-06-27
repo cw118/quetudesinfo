@@ -67,7 +67,7 @@
     <h3 id="mari-about">Marianopolis College</h3>
     <div class="about-grid">
       <div class="image-label">
-        <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Coll%C3%A8ge_Marianopolis.JPG/1280px-Coll%C3%A8ge_Marianopolis.JPG"
+        <img loading="lazy" src="/assets/whatiscegep/mariaopolis-front-entrance.webp"
             alt="Marianopolis College front entrance">
         <p class="caption">Photo by Colocho, CC BY-SA 3.0 licence.</p>
       </div>
@@ -89,7 +89,7 @@
     <h3 id="dawson-about">Dawson College</h3>
     <div class="about-grid">
       <div class="image-label">
-        <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Dawson_College_01.jpg/2560px-Dawson_College_01.jpg"
+        <img loading="lazy" src="/assets/whatiscegep/dawson-entrance.webp"
             alt="Dawson College entrance">
         <p class="caption">Photo by Jean Gagnon, CC BY-SA 3.0 licence.</p>
       </div>
@@ -112,7 +112,7 @@
     <h3 id="vanier-about">Vanier College</h3>
     <div class="about-grid">
       <div class="image-label">
-        <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/C%C3%A9gep_Vanier_College.jpg/640px-C%C3%A9gep_Vanier_College.jpg"
+        <img loading="lazy" src="/assets/whatiscegep/vanier-front-entrance.webp"
             alt="Vanier College front entrance in the evening">
         <p class="caption">Photo by Pierre5018, CC BY-SA 4.0 licence.</p>
       </div>
@@ -132,7 +132,7 @@
     <h3 id="champlain-about">Champlain Regional College</h3>
     <div class="about-grid">
       <div class="image-label">
-        <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Champlain_%28CRC%29_logo_cmyk1.jpg/1920px-Champlain_%28CRC%29_logo_cmyk1.jpg"
+        <img loading="lazy" src="/assets/whatiscegep/crc-emblem.webp"
             alt="Champlain Regional College emblem">
         <p class="caption">Brandmark and crest images &#169; Champlain Regional College</p>
       </div>
@@ -164,7 +164,7 @@
     <h3 id="jabbott-about">John Abbott College</h3>
     <div class="about-grid">
       <div class="image-label">
-        <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/John_Abbott_College_001.jpg/2560px-John_Abbott_College_001.jpg"
+        <img loading="lazy" src="/assets/whatiscegep/john-abbott-front.webp"
             alt="John Abbott College">
         <p class="caption">Photo by Jean Gagnon, CC BY-SA 3.0 licence</p>
       </div>
@@ -188,7 +188,7 @@
     <h2 class="lightblue-bg">{chapters[2].name}</h2>
     <h3>Heritage College, Gatineau</h3>
     <div class="image-label">
-      <img class="small-img" src="https://cdn.cegep-heritage.qc.ca/user_upload/aboutus-mobile.jpg?1591134160" alt="Heritage College, Gatineau campus">
+      <img class="small-img" src="/assets/whatiscegep/heritage-gatineau.webp" alt="Heritage College, Gatineau campus">
       <p class="caption">Photo by Heritage College. Copyright by Cégep Heritage College.</p>
     </div>
     <p><strong>Website:</strong> <a href="https://www.cegep-heritage.qc.ca/" target="_blank">https://www.cegep-heritage.qc.ca/</a></p>
@@ -198,7 +198,7 @@
 
     <h3>Centennial College, Montreal</h3>
     <div class="image-label">
-      <img class="logo-img" src="http://college.centennial.qc.ca/wp-content/uploads/2015/08/logoBig.png"
+      <img class="logo-img" src="/assets/whatiscegep/centennial-logo.webp"
           alt="Centennial College logo">
       <p class="caption">Brandmark &#169; Centennial College</p>
     </div>
@@ -216,7 +216,7 @@
 
     <h3>Cégep de Sept-Îles</h3>
     <div class="image-label">
-      <img class="xsmall-img" src="https://cegepsi.ca/wp-content/uploads/2019/10/logo_CEGEP_PROMO_2018-1.png" alt="Cégep de Sept-Îles logo">
+      <img class="xsmall-img" src="/assets/whatiscegep/cegep-de-sept-iles-logo.webp" alt="Cégep de Sept-Îles logo">
       <p class="caption">Brandmark &#169; Cégep de Sept-Îles</p>
     </div>
     <ul class="ul-indented ul-blue">
@@ -232,7 +232,7 @@
 
     <h3>TAV College</h3>
     <div class="image-label">
-      <img class="logo-img" src="/assets/tav-logo.png"
+      <img class="logo-img" src="/assets/whatiscegep/tav-logo.webp"
           alt="TAV College logo">
       <p class="caption">Brandmark &#169; TAV College</p>
     </div>
@@ -247,7 +247,7 @@
 
     <h3>LaSalle College</h3>
     <div class="image-label">
-      <img class="xsmall-img" src="https://www.lasallecollege.com/-/media/images/new-montreal/new_lasalle_college-ang_h.ashx" alt="LaSalle College logo">
+      <img class="xsmall-img" src="/assets/whatiscegep/lasalle-logo.webp" alt="LaSalle College logo">
       <p class="caption">Brandmark &#169; LCI Education</p>
     </div>
     <ul class="ul-indented ul-blue">

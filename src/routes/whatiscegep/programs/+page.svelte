@@ -64,7 +64,7 @@
     Special programs).</em></p>
     <div class="image-label">
       <p class="label">Social Science at Heritage College</p>
-      <img class="mw-100" src="https://cdn.cegep-heritage.qc.ca/_processed_/8/1/csm_socialscience-mobile_70923ee48a.jpg?0"
+      <img class="mw-100" src="/assets/whatiscegep/heritage-social-science.webp"
           alt="Students discussing at a table">
       <p class="caption">Photo by Heritage College, Copyright by Cégep Heritage College</p>
     </div>
@@ -89,7 +89,7 @@
     internships.</p>
     <div class="image-label">
       <p class="label">Early Childhood Education program at TAV College</p>
-      <img class="mw-100" src="/assets/tav-ece.png" alt="An adult reading a children's book to some young kids">
+      <img class="mw-100" src="/assets/whatiscegep/tav-ece.webp" alt="An adult reading a children's book to some young kids">
       <p class="caption">Photo by TAV College, Copyright by TAV College, 1989-2021.</p>
     </div>
 
@@ -129,7 +129,7 @@
     <div class="about-grid">
       <div class="image-label">
         <p class="label">Arts, Literature, and Communication at Vanier College</p>
-        <img loading="lazy" src="https://www.vaniercollege.qc.ca/camt/files/2017/07/portfolio-preparation-780x400.jpg" alt="Artist painting some animals">
+        <img loading="lazy" src="/assets/whatiscegep/vanier-art.webp" alt="Artist painting some animals">
         <p class="caption">Photo by Vanier College. Copyright by Vanier College, 2021.</p>
       </div>
       <ul class="ul-blue">
@@ -154,7 +154,7 @@
     <div class="about-grid">
       <div class="image-label">
         <p class="label">Liberal Arts at Heritage College</p>
-        <img loading="lazy" src="https://cdn.cegep-heritage.qc.ca/_processed_/4/c/csm_liberal_arts_5905702f70.jpg?0" alt="A large book on a wooden stand">
+        <img loading="lazy" src="/assets/whatiscegep/heritage-liberal-arts.webp" alt="A large book on a wooden stand">
         <p class="caption">Photo by Heritage College. Copyright by Cégep Heritage College.</p>
       </div>
       <ul class="ul-blue">
@@ -177,7 +177,7 @@
     <div class="about-grid">
       <div class="image-label">
         <p class="label">Music at Marianopolis College</p>
-        <img src="https://www.bemarianopolis.ca/wp/wp-content/uploads/C_0559.jpg" alt="A small group of music students playing various instruments">
+        <img src="/assets/whatiscegep/marianopolis-music.webp" alt="A small group of music students playing various instruments">
         <p class="caption">Photo by bemarianopolis. Copyright by Marianopolis College, 2021.</p>
       </div>
       <ul class="ul-blue">
@@ -193,7 +193,7 @@
     <div class="about-grid">
       <div class="image-label">
         <p class="label">Social Science at John Abbott College</p>
-        <img loading="lazy" src="https://www.johnabbott.qc.ca/wp-content/uploads/2020/07/social.png" alt="A row of stone sculptures, full bookshelves, and a wooden ladder in a library">
+        <img loading="lazy" src="/assets/whatiscegep/john-abbott-social-science.webp" alt="A row of stone sculptures, full bookshelves, and a wooden ladder in a library">
         <p class="caption">Photo by John Abbott College. Copyright by John Abbott College, 2020.</p>
       </div>
       <ul class="ul-blue">
@@ -221,7 +221,7 @@
     <div class="about-grid">
       <div class="image-label">
         <p class="label">Science at Champlain College Lennoxville</p>
-        <img loading="lazy" src="https://www.crc-lennox.qc.ca/wp-content/uploads/2018/06/Health-Science-600x275.jpg" alt="Instructor and students in science lab">
+        <img loading="lazy" src="/assets/whatiscegep/champlain-lennoxville-science.webp" alt="Instructor and students in science lab">
         <p class="caption">Photo by Champlain College Lennoxville. Copyright by Champlain College, 2018.</p>
       </div>
       <ul class="ul-blue">
@@ -246,7 +246,7 @@
     environment. This kind of program also tends to be more competitive than its regular equivalent with more prerequisites and higher cutoffs.</p>
     <div class="image-label">
       <p class="label">Honours Science at John Abbott College</p>
-      <img loading="lazy" class="mw-100" src="https://www.johnabbott.qc.ca/wp-content/uploads/2020/06/science.png" alt="Students in lab coats and safety glasses in a science lab">
+      <img loading="lazy" class="mw-100" src="/assets/whatiscegep/john-abbott-honours-science.webp" alt="Students in lab coats and safety glasses in a science lab">
       <p class="caption">Photo by John Abbott College. Copyright by John Abbott College, 2020.</p>
     </div>
     <ul class="ul-blue">
@@ -293,7 +293,7 @@
       </ul>
       <div class="image-label">
         <p class="label">Accounting and Management Technology at Champlain College Lennoxville</p>
-        <img loading="lazy" src="https://www.crc-lennox.qc.ca/wp-content/uploads/2018/03/Untitled-design-1.jpg" alt="A laptop and calculator on a desk and a person writing a report">
+        <img loading="lazy" src="/assets/whatiscegep/champlain-lennoxville-accounting-technology.webp" alt="A laptop and calculator on a desk and a person writing a report">
         <p class="caption">Photo by Champlain College Lennoxville. Copyright by Champlain College, 2018.</p>
       </div>                    
     </div>
@@ -315,7 +315,7 @@
       </ul>
       <div class="image-label">
         <p class="label">Business Management at John Abbott College</p>
-        <img loading="lazy" src="https://www.johnabbott.qc.ca/wp-content/uploads/2021/01/Web-photos-1108x642-Bus-Mgmt.jpg" alt="Two people having a discussion at a table with a laptop on it">
+        <img loading="lazy" src="/assets/whatiscegep/john-abbott-business-management.webp" alt="Two people having a discussion at a table with a laptop on it">
         <p class="caption">Photo by John Abbott College. Copyright by John Abbott College, 2020.</p>
       </div>                    
     </div>
@@ -360,7 +360,7 @@
       </ul>
       <div class="image-label">
         <p class="label">Nursing at Dawson College</p>
-        <img loading="lazy" src="https://www.dawsoncollege.qc.ca/public/programs/header_images/Nursing-180A0.jpg"
+        <img loading="lazy" src="/assets/whatiscegep/dawson-nursing.webp"
             alt="A health instructor and nursing student by a patient's bedside">
         <p class="caption">Photo by Dawson College. Copyright by Dawson College, 2021.</p>
       </div>                    
@@ -379,7 +379,7 @@
       </ul>
       <div class="image-label">
         <p class="label">OST: Micropublishing and Hypermedia at Vanier College</p>
-        <img loading="lazy" src="https://vtv.vaniercollege.qc.ca/wp-content/uploads/2017/10/office-systems-technology-micropublishing-hypermedia-320x180.jpg"
+        <img loading="lazy" src="/assets/whatiscegep/vanier-ost.webp"
             alt="An instructor with a camera talking to students">
         <p class="caption">Photo by Vanier College. Copyright by Vanier College, 2021.</p>
       </div>                    
@@ -405,7 +405,7 @@
       </ul>
       <div class="image-label">
         <p class="label">Special Care Counselling at LaSalle College</p>
-        <img loading="lazy" src="https://www.lasallecollege.com/-/media/images/responsive/collegelasalle_montreal/programs/sciences_techniques_humaines/special-care-counselling_1920x1080.ashx"
+        <img loading="lazy" src="/assets/whatiscegep/lasalle-special-care-counselling.webp"
             alt="A young boy smiling and playing with a toy with a special care counsellor by his side">
         <p class="caption">Photo by LaSalle College. Copyright by LCI Education, 2021.</p>
       </div>                    
@@ -433,7 +433,7 @@
     competition. This allows CEGEPs to offer adapted educational services to students; those in a high school Sport-Études
     program who wish to continue with their sport and studies may find this partnership beneficial.</p>
     <div class="image-label">
-      <img loading="lazy" class="xsmall-img" src="https://www.bemarianopolis.ca/wp/wp-content/uploads/alliance-sport-etudes-PNG.png"
+      <img loading="lazy" class="xsmall-img" src="/assets/whatiscegep/alliance-sport-etudes.webp"
           alt="Alliance Sport-Études brand and logo">
       <p class="caption">Brandmark and crest images &#169; Alliance Sport-Études</p>
     </div>

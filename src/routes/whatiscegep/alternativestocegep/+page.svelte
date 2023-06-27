@@ -91,7 +91,7 @@
     Here's a list of schools that currently offer a grade 12 program (<em>there may be more</em>):</p><br>
     <p><strong>Lower Canada College (LCC)</strong></p>
     <div class="image-label">
-      <img class="logo-img" src="https://pbs.twimg.com/profile_images/824617897741979648/isyi13wT.jpg"
+      <img class="logo-img" src="/assets/whatiscegep/lcc-logo.webp"
           alt="Lower Canada College logo">
       <p class="caption">Brandmark and crest &#169; Lower Canada College</p>
     </div>
@@ -102,7 +102,7 @@
     </ul><br>
     <p><strong>The Sacred Heart School of Montreal</strong></p>
     <div class="image-label">
-      <img class="xsmall-img" src="https://www.sacredheart.qc.ca/wp-content/uploads/2021/06/LogoScredHeart.svg"
+      <img class="xsmall-img" src="/assets/whatiscegep/sacred-heart-logo.svg"
           alt="Sacred Heart School of Montreal logo">
       <p class="caption">Brandmark and crest &#169; Sacred Heart School</p>
     </div>
@@ -113,7 +113,7 @@
     </ul><br>
     <p><strong>Kells Academy</strong></p>
     <div class="image-label">
-      <img class="logo-img" src="https://kells.ca/kInc/logo.png"
+      <img class="logo-img" src="/assets/whatiscegep/kells-logo.webp"
           alt="Kells Academy logo">
       <p class="caption">Brandmark and crest &#169; Kells Academy</p>
     </div>
@@ -124,7 +124,7 @@
     </ul><br>
     <p><strong>TAV College</strong></p>
     <div class="image-label">
-      <img class="logo-img" src="/assets/tav-logo.png" alt="TAV College logo">
+      <img class="logo-img" src="/assets/whatiscegep/tav-logo.webp" alt="TAV College logo">
       <p class="caption">Brandmark &#169; TAV College</p>
     </div>
     <ul class="ul-blue">

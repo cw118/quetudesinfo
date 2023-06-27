@@ -58,7 +58,7 @@
     computer science—it's nicely structured and provides you with a strong skill set that you'll find indispensable even
     beyond the course.</p>
     <div class="image-label">
-      <img src="https://prod-discovery.edx-cdn.org/media/course/image/da1b2400-322b-459b-97b0-0c557f05d017-3b9fb73b5d5d.small.jpg" class="xsmall-img" alt="CS50 text over background of students attending Harvard CS50 lecture">
+      <img src="/assets/about/cs50.webp" class="xsmall-img" alt="CS50 text over background of students attending Harvard CS50 lecture">
       <p class="caption">Photo by Harvard University. Copyright by The President and Fellows of Harvard College, 2021.</p>
     </div>
     <p>The lectures were super engaging and informative, the labs and problem sets got extremely challenging at times, but I
