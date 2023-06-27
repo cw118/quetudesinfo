@@ -6,7 +6,7 @@
 <nav class="navbar navbar-expand-xl p-0 border-bottom border-white border-2" id="top">
   <div class="container-fluid topnav">
     <a class="navbar-brand" href="/">
-      <img id="logo" src="/favicon.svg" alt="QUÉtudes-info" width="60">
+      <img id="logo" src="/favicon.svg" alt="QUÉtudes-info" width="60" height="60">
     </a>
     
     <button class="navbar-toggler bg-white fs-white" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
