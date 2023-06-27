@@ -20,8 +20,8 @@
 </div>
 {/if}
 
-<div id="get-started" class="lightblue-bg">
-  <h1>Welcome to QUÉtudes-info!</h1>
+<div id="get-started">
+  <h1 class="lightblue-bg">Welcome to QUÉtudes-info!</h1>
   <h4>As the transition from high school to university and to the workforce, CEGEP is a pivotal step for Quebec students.<br>Learn more about the CEGEP system and the options available to you:</h4>
 </div>
 
@@ -51,7 +51,6 @@
         <div class="custom-card-title">Unsure about the differences between some CEGEP programs?</div>
         <div class="card-button"><a class="btn btn-light" href="/programcomparisontool">Program Comparison Tool</a>
         </div>
-        <small>*Only pre-university programs can be compared</small>
     </div>
   </div>
   <div class="card-item text-center">
@@ -67,7 +66,7 @@
 </div>
 
 <div id="why-cegep">
-  <h1><i class="fas fa-user-graduate"></i> WHY CEGEP?</h1>
+  <h1 class="yellow-bg border-top border-secondary"><i class="fas fa-user-graduate"></i> WHY CEGEP?</h1>
   <div class="cegep-reasons">
     <div class="reason-column"><ul>
       <li>Internationally recognized for high-quality education</li>
@@ -88,7 +87,7 @@
 </div>
 
 <div id="dates-important">
-  <h1><a href="/applyingtocegep/importantdates"><i class="fas fa-calendar-week"></i> DATES TO REMEMBER</a></h1>
+  <h1 class="lightblue-bg"><a href="/applyingtocegep/importantdates"><i class="fas fa-calendar-week"></i> DATES TO REMEMBER</a></h1>
   <div class="events">
     <div class="event clearfix">
         <div class="time">
@@ -131,12 +130,11 @@
 
 <div id="resources-hero">
   <div class="hero-footer">
-    <p class="text-white-50">Photo by Freddie Marriage on Unsplash</p>
+    <p class="text-white-50 mb-0">Photo by Freddie Marriage on Unsplash</p>
   </div>
   <div class="hero-text">
-    <h3>Looking for homework help, tutorials, or want to learn something new?</h3>
-    <p>Check out these</p>
-    <a class="btn btn-outline-light" href="/usefullinks/resources">Resources</a>
+    <h3 class="mb-4">Looking for homework help, tutorials, or want to learn something new?</h3>
+    <a class="btn btn-outline-light" href="/usefullinks/resources">Check out these resources</a>
   </div>
 </div>
 
@@ -326,8 +324,6 @@
   text-align: center;
   padding: 15px 15px 10px;
   margin: 0;
-  background: navy;
-  color: #fcfcfc;
 }
 
 .sources {
@@ -339,7 +335,6 @@
 }
 
 #dates-important h1 {
-  background: deepskyblue;
   padding: 15px;
   margin: 0;
   text-align: center;
@@ -352,7 +347,7 @@
 }
 
 #dates-important h1 a:hover {
-  color: #333;
+  color: #222;
 }
 
 #dates-important .events .event {
@@ -401,11 +396,11 @@
 #dates-important .events .event .time h2 {
   margin: 0;
   color: #fff;
-  font-size: 45px;
+  font-size: 40px;
 }
 
 #dates-important .events .event .time h2 span {
-  font-size: 30px;
+  font-size: 25px;
 }
 
 #dates-important .events .event .details {
@@ -418,35 +413,29 @@
 }
 
 #resources-hero {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://images.unsplash.com/photo-1495465798138-718f86d1a4bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('/assets/home/resources-hero-bg.webp');
   height: 300px;
   padding: 7px 10px;
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
-  position: relative;
+  display: grid;
 }
 
 #resources-hero .hero-text {
+  align-self: self-start;
   text-align: center;
-  margin: auto;
   color: white;
   font-weight: bold;
 }
 
-#resources-hero .hero-text p {
-  font-size: 20px;
-  font-weight: normal;
-  margin-top: 15px;
-}
-
 #resources-hero .hero-text a {
   font-size: 22px;
-  padding: 10px 15px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 #resources-hero .hero-footer {
-  margin-left: 2px;
   font-size: 11px;
 }
 
