@@ -11,14 +11,14 @@
   <p>On this page</p>
   <ul class="list-group-flush ps-3 mb-3">
     {#each chapters as chapter (chapters.indexOf(chapter))}
-      <a class="nav-link list-group-item ps-2 border-start border-dark-subtle" href={'#' + chapter.link}>{chapter.name}</a>
+      <a class="nav-link list-group-item ps-2 pe-3 border-start border-dark-subtle" href={'#' + chapter.link}>{chapter.name}</a>
     {/each}
   </ul>
   <hr class="m-0 border border-black" />
   <p>In this section</p>
   <ul class="list-group-flush ps-3 mb-2">
     {#each pages as page (pages.indexOf(page))}
-      <a href={page.link} class={"nav-link list-group-item ps-2 border-start border-dark-subtle" + (path === page.link ? ' active' : '')}>{page.name}</a>
+      <a href={page.link} class={"nav-link list-group-item ps-2 pe-3 border-start border-dark-subtle" + (path === page.link ? ' active' : '')}>{page.name}</a>
     {/each}
   </ul>
 </nav>
