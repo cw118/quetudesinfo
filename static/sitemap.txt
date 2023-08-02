@@ -13,8 +13,8 @@ https://quetudesinfo.vercel.app/applyingtocegep/afterapplying
 https://quetudesinfo.vercel.app/programcomparisontool
 https://quetudesinfo.vercel.app/usefullinks/cegeplinks
 https://quetudesinfo.vercel.app/usefullinks/resources
+https://quetudesinfo.vercel.app/about/contact
 https://quetudesinfo.vercel.app/about/disclaimersandterms
 https://quetudesinfo.vercel.app/about/project
 https://quetudesinfo.vercel.app/about/me
 https://quetudesinfo.vercel.app/faq
-https://quetudesinfo.vercel.app/contact
