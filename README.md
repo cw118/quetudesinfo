@@ -4,8 +4,6 @@ Welcome to QUÉtudes-info, the student-created guide to CEGEP! This project is c
 
 Please take the time to read the [participation guidelines (code of conduct)](#participation-guidelines), [licenses](LICENSE.md) and the [brief guide to contributions](docs/CONTRIBUTING.md) — all contribution is welcome :)
 
-***Coming soon: GitHub Discussions for QUÉtudes-info***
-
 ---
 
 ## What is QUÉtudes-info?

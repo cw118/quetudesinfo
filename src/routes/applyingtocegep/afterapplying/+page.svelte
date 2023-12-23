@@ -156,7 +156,7 @@
     Spanish, etc.).</p>
     <div class="image-label">
       <p class="label">Liberal Arts courses at Vanier College</p>
-      <img src="/assets/vanier-courseexample.webp" class="xsmall-img" alt="List of Liberal Arts courses at Vanier College">
+      <img src="/assets/applyingtocegep/vanier-courseexample.webp" class="xsmall-img" alt="List of Liberal Arts courses at Vanier College">
       <p class="caption">Photo of Vanier College's Liberal Arts website. Copyright by Vanier College, 2021.</p>
     </div>
     <p>The next three, YYY, usually specify the level or specialization of the course within its category, depending on the

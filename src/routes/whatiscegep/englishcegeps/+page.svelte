@@ -67,7 +67,7 @@
     <h3 id="mari-about">Marianopolis College</h3>
     <div class="about-grid">
       <div class="image-label">
-        <img loading="lazy" src="/assets/whatiscegep/mariaopolis-front-entrance.webp"
+        <img loading="lazy" src="/assets/whatiscegep/marianopolis-front-entrance.webp"
             alt="Marianopolis College front entrance">
         <p class="caption">Photo by Colocho, CC BY-SA 3.0 licence.</p>
       </div>

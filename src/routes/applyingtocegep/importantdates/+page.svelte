@@ -62,17 +62,17 @@
 
   <div id={chapters[2].link}>
     <h2 class="lightblue-bg">{chapters[2].name}</h2>
-    <div class="event-row">
+    <!-- <div class="event-row">
       <div class="event clearfix">
         <div class="time">
           <h2>1<br><span>Nov</span><br><span>2024</span></h2>
         </div>
         <div class="details">
-          <h3>Winter 2024 Deadline</h3>
-          <p>High school students and more: the 2024 Winter semester application deadline (and SRAM's round 1 deadline) is <strong>Wednesday, November 1, 2023</strong> at 11:59 PM. <a href="/usefullinks/cegeplinks#application-modules-and-guides" target="_blank">CEGEP application modules</a> will open in mid-September.</p>
+          <h3>Winter 2025 Deadline</h3>
+          <p>High school students and more: the 2025 Winter semester application deadline (and SRAM's round 1 deadline) is <strong>Wednesday, November 1, 2023</strong> at 11:59 PM. <a href="/usefullinks/cegeplinks#application-modules-and-guides" target="_blank">CEGEP application modules</a> will open in mid-September.</p>
         </div>
       </div>
-    </div>
+    </div> -->
   </div>
 
   <div id={chapters[3].link}>

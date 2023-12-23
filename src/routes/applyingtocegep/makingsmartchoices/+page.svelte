@@ -78,7 +78,7 @@
     applications by going through the actual process risk-free. Just <strong>remember to submit a real application afterwards!</strong></p>
     <div class="image-label">
       <p class="label">Dawson College's Application Centre: Simulate or Start an Application</p>
-      <img src="/assets/applyingtocegep/applications/dawson-applicationsystem.png"
+      <img src="/assets/applyingtocegep/applications/dawson-applicationsystem.webp"
           class="small-img" alt="Dawson College application module with buttons to apply and to simulate an application">
       <p class="caption">Photo by Dawson College. Copyright by Dawson College, 2021.</p>
     </div>

@@ -110,15 +110,15 @@
     <p><i class="fas fa-arrow-alt-circle-right"></i> <strong>1. SRAM will first present you with the menu below</strong> (you can switch from English to French, depending on your preference).
     Notice that in the bottom right corner, next to "Contact the cégeps", you can choose to fill out a Mock application (=
     simulate an application).</p>
-    <img src="/assets/applyingtocegep/applications/sram-apply.png" class="figure" alt="SRAM admission main menu">
+    <img src="/assets/applyingtocegep/applications/sram-apply.webp" class="figure" alt="SRAM admission main menu">
     <br><br><p><i class="fas fa-arrow-alt-circle-right"></i> <strong>2. Click on "Apply for admission" at the very left.</strong> You'll be taken to this menu:</p>
-    <img src="/assets/applyingtocegep/applications/sram-applicantmenu.png" class="figure" alt="SRAM admission applicant menu">
+    <img src="/assets/applyingtocegep/applications/sram-applicantmenu.webp" class="figure" alt="SRAM admission applicant menu">
     <br><br><p><i class="fas fa-arrow-alt-circle-right"></i> <strong>3. Select "Regular applicant" and create a new account</strong> (or login if you've already made one). Read the guidelines displayed to you ("Important guidelines") and <strong>once you're ready, proceed to step 2, "Choice
         of college and program"</strong>.</p>
-    <img class="logo-img" src="/assets/applyingtocegep/applications/sram-loggedin.png" alt="Side menu including options Important guidelines, Choice of college and program, identity, academic background, verify your information, payment of application fees">
+    <img class="logo-img" src="/assets/applyingtocegep/applications/sram-loggedin.webp" alt="Side menu including options Important guidelines, Choice of college and program, identity, academic background, verify your information, payment of application fees">
     <br><br><p><i class="fas fa-arrow-alt-circle-right"></i> <strong>4. Choose a college, then select a program. A third menu may pop up, asking you to choose a "Particularity" or a
     "Specialization"—you may wish to consult the CEGEP's viewbook for help.</strong> <u>If you are applying to round 2 or 3, click on "View available programs" before making your choice.</u></p>
-    <img class="figure" src="/assets/applyingtocegep/applications/sram-step2.png" alt="SRAM step 2, with Vanier College selected as an example and an empty input box for the program choice">
+    <img class="figure" src="/assets/applyingtocegep/applications/sram-step2.webp" alt="SRAM step 2, with Vanier College selected as an example and an empty input box for the program choice">
     <p>Depending on your choices, specifications about the program pertaining to availability, precisions, and prerequisites
     may appear. <strong>Read the specifications carefully, especially if there are prerequisites, to verify that you qualify for admissions.</strong> Make sure to check the boxes signalling that you've read the precisions, and/or that you have or will have all the
     prerequisites. (You won't be able to proceed otherwise.)</p>
@@ -143,13 +143,13 @@
     permanent code).</p>
     <p><strong>Once you've completed that part of the form, click "Continue" on "Parents" and fill out your parents' information</strong> (first and last name of your parents).</p>
     <p><strong>Next, click "Continue" on "Contact information". You can search for your address or enter it manually.</strong></p>
-    <img class="small-img" src="/assets/applyingtocegep/applications/sram-contactinfo.png" alt="SRAM contact information form for manually inputting address">
+    <img class="small-img" src="/assets/applyingtocegep/applications/sram-contactinfo.webp" alt="SRAM contact information form for manually inputting address">
     <p><strong>Finally, press "Continue" to "Reminders and notifications".</strong> Depending on your preferences, you can ask to be notified by text, email, or simply not be notified at all if your
     application is incomplete. <strong>Once you've filled out this last section of the "Identity" form, click "Continue" in the bottom right corner of the
     webpage.</strong></p>
     <br><p><i class="fas fa-arrow-alt-circle-right"></i> <strong>6. You should now be at step 4 on your SRAM application, "Academic background". <i class="fas fa-info-circle"></i> <u>Reminder that this application guide is for day division Quebec high school students (adolescents studying full-time in
     a Quebec high school).</u></strong></p>
-    <img class="figure" src="/assets/applyingtocegep/applications/sram-academicbg.png" alt="Academic background in Quebec form, if enrolled in youth sector, in adult education centre secondary school, in CEGEP">
+    <img class="figure" src="/assets/applyingtocegep/applications/sram-academicbg.webp" alt="Academic background in Quebec form, if enrolled in youth sector, in adult education centre secondary school, in CEGEP">
     <ul class="ul-blue">
       <li><strong>Select "Yes" for "...secondary school, youth sector?"</strong></li>
       <li><strong>Select "No" for "...secondary school in an adult education centre?"</strong> (this is asking if you are enrolled in Continuing Education)</li>
@@ -159,12 +159,12 @@
     as instructed.</strong></p>
     <br><p><i class="fas fa-arrow-alt-circle-right"></i> <strong>7. Continue to step 5, "Verify your information". Carefully look over the choices and information recorded by SRAM from
     the previous 3 steps</strong> ("Choice of college and program", "Identity", "Academic background"). <strong>Click "Update" next to a section if you'd like to modify or correct something there</strong> (this will take you back to that step of the application).</p>
-    <img class="small-img" src="/assets/applyingtocegep/applications/sram-verify.png" alt="SRAM verify your information form">
+    <img class="small-img" src="/assets/applyingtocegep/applications/sram-verify.webp" alt="SRAM verify your information form">
     <p><strong>Once you are certain that everything is correct, read the terms and conditions</strong> (text in the black box: "I declare that the information provided in this application is accurate. I authorize…"). <strong>Lastly, click "Create an application".</strong></p>
     <br><p><i class="fas fa-arrow-alt-circle-right"></i> <strong>8. A modal (pop-up) should appear, stating that your application for admission has been sent to SRAM. You can access
     your file, as indicated in the notification, by clicking on the "Status of my application" tab. Click "OK" when you're
     ready to dismiss the pop-up.</strong></p>
-    <img class="logo-img" src="/assets/applyingtocegep/applications/sram-applicationstatus.png" alt="Side menu with options to check application file status, pay application fees, upload documents, and more">
+    <img class="logo-img" src="/assets/applyingtocegep/applications/sram-applicationstatus.webp" alt="Side menu with options to check application file status, pay application fees, upload documents, and more">
     <br><br><p><i class="fas fa-arrow-alt-circle-right"></i> <strong>9. Check to see if you need to upload any documents. You can upload them directly to your file by clicking on the
     "Upload documents" tab and following the instructions that appear.</strong> SRAM accepts PDF or JPEG (JPG) file formats with a maximum file size of 3 MB.</p>
     <p><strong>Here is a checklist of documents for Quebec day division high school students:</strong></p>
@@ -216,18 +216,18 @@
     <hr>
     <p><i class="fas fa-arrow-alt-circle-right"></i> <strong>1. When you first open Dawson's Application Centre, you'll see its welcome page. Click "Create Network Account" and enter
     your email address</strong> (instructions on how to set up your account will be sent to your email).</p>
-    <img class="small-img" src="/assets/applyingtocegep/applications/dawson-applicationcentre.png" alt="Dawson Application Centre, log in or create network account">
+    <img class="small-img" src="/assets/applyingtocegep/applications/dawson-applicationcentre.webp" alt="Dawson Application Centre, log in or create network account">
     <br><br><p><i class="fas fa-arrow-alt-circle-right"></i> <strong>2. Log in to the Application Centre by entering your email address and password in the login form.</strong></p>
-    <img class="xsmall-img" src="/assets/applyingtocegep/applications/dawson-login.png" alt="Dawson Application Centre login with email address or student number and password">
+    <img class="xsmall-img" src="/assets/applyingtocegep/applications/dawson-login.webp" alt="Dawson Application Centre login with email address or student number and password">
     <br><br><p><i class="fas fa-arrow-alt-circle-right"></i> <strong>3. You should be taken to the Application Centre's summary page. In the "Day Programs" box, read the instructions; once
     you're ready, click "Apply Now". <i class="fas fa-info-circle"></i> <u>Reminder that this application guide is for day division Quebec high school students (adolescents studying full-time in
     a Quebec high school).</u></strong></p>
-    <img class="small-img" src="/assets/applyingtocegep/applications/dawson-applicationsummary.png" alt="Dawson Day Programs, Apply Now button">
+    <img class="small-img" src="/assets/applyingtocegep/applications/dawson-applicationsummary.webp" alt="Dawson Day Programs, Apply Now button">
     <br><br><p><i class="fas fa-arrow-alt-circle-right"></i> <strong>4. To begin your application, click "Start a New Application Now" on the left. If you'd like to complete an application
     simulation first, click "Simulate an Application" (remember to complete a real application afterwards!).</strong></p>
-    <img class="small-img" src="/assets/applyingtocegep/applications/dawson-applicationsystem.png" alt="Dawson Day Program Students, simulate or start a new application">
+    <img class="small-img" src="/assets/applyingtocegep/applications/dawson-applicationsystem.webp" alt="Dawson Day Program Students, simulate or start a new application">
     <br><br><p><i class="fas fa-arrow-alt-circle-right"></i> <strong>5. Start with the first out of 6 steps, "Personal Information".</strong></p>
-    <img class="figure" src="/assets/applyingtocegep/applications/dawson-applicationsteps.png" alt="Dawson application steps including Personal Information, Mailing Address, Academic Background, Academic Background details, Program Choice, Review and Confirm">
+    <img class="figure" src="/assets/applyingtocegep/applications/dawson-applicationsteps.webp" alt="Dawson application steps including Personal Information, Mailing Address, Academic Background, Academic Background details, Program Choice, Review and Confirm">
     <p><strong>Fill out the "Identification" form carefully</strong> (family name, first name, sex, date of birth, have you previously studied in a Quebec high school or CEGEP, permanent
     code, mother tongue, language spoken at home). <strong>Ensure that the information you've provided is correct before proceeding.</strong></p>
     <p><strong>Complete the "Legal Status" form carefully</strong> (country of birth, province/state of birth, city of birth, country of permanent residence, province of permanent
@@ -237,16 +237,16 @@
     <br><p><i class="fas fa-arrow-alt-circle-right"></i> <strong>6. Proceed to step 2, "Mailing Address", by clicking the "Next Page" button at the bottom of the page. Enter your contact
     and mailing information in the "Mailing Address" form</strong> (postal code, country, province, street number, street name, apartment number, city/town, PO box, phone numbers and
     extensions, email address). <strong>You must provide a valid email address</strong> so that Dawson College can send you important information. <u>Dawson College does NOT recommend Hotmail or Live email addresses.</u></p>
-    <img class="small-img" src="/assets/applyingtocegep/applications/dawson-applicationaddress.png" alt="Dawson Mailing Address form">
+    <img class="small-img" src="/assets/applyingtocegep/applications/dawson-applicationaddress.webp" alt="Dawson Mailing Address form">
     <br><br><p><i class="fas fa-arrow-alt-circle-right"></i> <strong>7. Press "Next Page" to proceed to step 3 and 4, "Academic Background" and "Academic Background - Details". <i class="fas fa-info-circle"></i> <u>Reminder that this application guide is for day division Quebec high school students (adolescents studying full-time in
     a Quebec high school).</u></strong></p>
-    <img class="figure" src="/assets/applyingtocegep/applications/dawson-youthsector.png" alt="Dawson secondary youth sector box, options for presently registered or completed part of a diploma or all of a diploma in a regular high school program in Quebec, in another province in Canada, or outside Canada">
+    <img class="figure" src="/assets/applyingtocegep/applications/dawson-youthsector.webp" alt="Dawson secondary youth sector box, options for presently registered or completed part of a diploma or all of a diploma in a regular high school program in Quebec, in another province in Canada, or outside Canada">
     <p class="mt-2 mb-1"><strong>In the "Secondary Studies - Youth Sector" box:</strong></p>
     <ul class="ul-blue ul-indented">
       <li><strong>Select "In Quebec" for "I am presently registered in a regular high school program (not adult education):"</strong></li>
       <li><strong>Leave the second field blank—do NOT select any of the options</strong> ("I am NOT presently registered in a regular high school program, but I have completed all or part of a diploma there:")</li>
     </ul>
-    <img class="figure" src="/assets/applyingtocegep/applications/dawson-adultsector.png" alt="Dawson adult sector box, options for presently registered or was previously in a high school adult education program in Quebec, in another province in Canada, or outside Canada">
+    <img class="figure" src="/assets/applyingtocegep/applications/dawson-adultsector.webp" alt="Dawson adult sector box, options for presently registered or was previously in a high school adult education program in Quebec, in another province in Canada, or outside Canada">
     <p class="mt-2 mb-1"><strong>In the "Secondary Studies - Adult Sector" box:</strong></p>
     <ul class="ul-blue ul-indented">
       <li><strong>Leave the first field blank—do NOT select any of the options</strong> ("I am presently registered in a high school adult education program:")</li>
@@ -272,7 +272,7 @@
     </ul>
     <br><p><i class="fas fa-arrow-alt-circle-right"></i> <strong>8. Click "Next Page" to continue to step 4, "Academic Background - Details". You'll be asked to provide the name of your
     school board and school in the "Secondary Studies - Youth Sector" box:</strong></p>
-    <img class="figure" src="/assets/applyingtocegep/applications/dawson-schoolandboard.png" alt="Dawson choose a school board and school">
+    <img class="figure" src="/assets/applyingtocegep/applications/dawson-schoolandboard.webp" alt="Dawson choose a school board and school">
     <p class="mb-1"><strong>Depending on your school, a box below the name of your school ("Name of your last school") will appear and indicate whether your
     school will provide your grades.</strong></p>
     <ul class="ul-blue">
@@ -285,7 +285,7 @@
     <br><p><i class="fas fa-arrow-alt-circle-right"></i> <strong>9. Proceed to step 5, "Program Choice", by clicking "Next Page" at the bottom. Select your first-choice program by
     filling out the "Program Choice 1" form, then select your second-choice program by completing the "Program Choice 2"
     form.</strong></p>
-    <img class="small-img" src="/assets/applyingtocegep/applications/dawson-step5.png" alt="Dawson program choice 1 and program choice 2 form">
+    <img class="small-img" src="/assets/applyingtocegep/applications/dawson-step5.webp" alt="Dawson program choice 1 and program choice 2 form">
     <p><strong>You'll be asked to select a program type, program group, and program (name) for each choice.</strong> Consult the Table of Programs Offered and Program Requirements document found on
     <a href="https://www.dawsoncollege.qc.ca/admissions/how-to-apply/fall/" target="_blank">Dawson's How to Apply (Fall) page</a> as needed.</p>
     <p><strong>Then, under "Payment", your application fees should amount to $30.00 (the fee is NOT paid here). Check/select the field
@@ -295,9 +295,9 @@
     to you—use the "Previous Page" and "Next Page" buttons to return to any step and make corrections</strong> (if necessary).</p>
     <p><strong>Once you are certain that everything is correct, make the declarations (check the checkboxes to their left—see image
     below), then click "Submit your application to Dawson College" to submit your application.</strong></p>
-    <img class="small-img" src="/assets/applyingtocegep/applications/dawson-declaration.png" alt="Dawson application declarations with checkboxes">
+    <img class="small-img" src="/assets/applyingtocegep/applications/dawson-declaration.webp" alt="Dawson application declarations with checkboxes">
     <br><br><p><i class="fas fa-arrow-alt-circle-right"></i> <strong>11. After submitting, you'll be shown a note about an email confirmation that may look something like this:</strong></p>
-    <img class="figure" src="/assets/applyingtocegep/applications/dawson-emailconfirm.png" alt="Dawson email confirmation message with file number example">
+    <img class="figure" src="/assets/applyingtocegep/applications/dawson-emailconfirm.webp" alt="Dawson email confirmation message with file number example">
     <p class="mt-1"><em>Note: the image above was taken from Dawson's How to Apply (Fall 2021) guide. The file number displayed is not real.</em></p>
     <p class="p-disclaimer yellow-bg"><i class="fas fa-sticky-note"></i> <u>Take note of your file number!</u> It can be found in the note about the email confirmation. <u>You should also receive an email confirming that your
     application was received</u>—check the email you provided when applying. <u>Then, under "Application Details", click "Download a copy
@@ -355,16 +355,16 @@
     <p><i class="fas fa-star"></i> <strong>You can apply to Marianopolis College at this link:</strong> <a href="https://www.bemarianopolis.ca/admissions/apply-now/" target="_blank">https://www.bemarianopolis.ca/admissions/apply-now/</a></p>
     <hr>
     <p><i class="fas fa-arrow-alt-circle-right"></i> <strong>1. To start an application, click "Submit an Application for Admission" at the bottom of the application module page.</strong></p>
-    <img class="xsmall-img" src="/assets/applyingtocegep/applications/crc-mari-start.png" alt="Marianopolis Omnivox submit an application or consult file">
+    <img class="xsmall-img" src="/assets/applyingtocegep/applications/crc-mari-start.webp" alt="Marianopolis Omnivox submit an application or consult file">
     <br><br><p><i class="fas fa-arrow-alt-circle-right"></i> <strong>2. <u>Reminder that this walkthrough is intended for high school students in the day/youth sector who are applying to the Fall semester!</u> The first part of the application is where you'll select your first and second choice programs. On page 1, under "Program of Studies", select the correct Fall semester for "Semester". The option should be "Fall <em>[the
     year you're graduating]</em>".</strong></p>
-    <img class="xsmall-img" src="/assets/applyingtocegep/applications/mari-apply-step1.png" alt="Marianopolis application page 1, select program of studies and legal status">
+    <img class="xsmall-img" src="/assets/applyingtocegep/applications/mari-apply-step1.webp" alt="Marianopolis application page 1, select program of studies and legal status">
     <p><strong>Two dropdown menus should pop up, one for your first choice program followed by another for your second choice program. Then, select the answers that apply to you for the two dropdowns concerning <a href="/whatiscegep/programs#special-programs-partnerships-and-opportunities" target="_blank">Sport-Études</a>.</strong></p>
     <p><strong>Under "Legal Status", specify your legal status</strong> (see <a href="https://www.dawsoncollege.qc.ca/public/services/finance_department/quebecresidenceformenglish.pdf" target="_blank">this form</a> to confirm whether you're considered a Quebec resident—just because you currently live in Quebec doesn't necessarily mean you have Quebec resident status!).</p>
     <br><p><i class="fas fa-arrow-alt-circle-right"></i> <strong>3. Press "Next" to proceed. Complete the "Identification", "Permanent Address", "Citizenship" and "Other Information" forms very carefully.</strong></p>
-    <img class="xsmall-img" src="/assets/applyingtocegep/applications/mari-apply-step2.png" alt="Marianopolis application step 2, Identification and Permanent Address">
+    <img class="xsmall-img" src="/assets/applyingtocegep/applications/mari-apply-step2.webp" alt="Marianopolis application step 2, Identification and Permanent Address">
     <br><br><p><i class="fas fa-arrow-alt-circle-right"></i> <strong>4. Fill out the rest of the application carefully. </strong></p>
-    <img class="xsmall-img" src="/assets/applyingtocegep/applications/mari-apply-step3.png" alt="Marianopolis application step 3, Previous Studies">
+    <img class="xsmall-img" src="/assets/applyingtocegep/applications/mari-apply-step3.webp" alt="Marianopolis application step 3, Previous Studies">
     <p><strong>You can press "Previous" to go back to earlier sections and confirm that you typed in all information correctly—note that once you've paid the application fee, you will <u>not</u> be able to modify your "answers"!</strong></p>
     <br><p><i class="fas fa-arrow-alt-circle-right"></i> <strong>5. After verifying that you've entered all of your information correctly, submit your application and pay the non-refundable application fee of $50. Check for submission and payment confirmation, and save a copy of your receipt. <u>Also take note of your Application for Admission number, as you'll need it to log in and check your application status!</u></strong></p>
     <br><p><i class="fas fa-arrow-alt-circle-right"></i> <strong>6. Upload all required documents directly to Omnivox (see below for a general checklist). <em>Ensure you select the correct and good-quality documents before confirming an upload, because you won't be able to remove or modify it afterwards! Also note that the application module will allow you to select multiple files for one upload category (e.g. all sides of your report card if you didn't combine them into one document)—upload them all at once, or else you won't be able to add more files later on!</em></strong></p>
@@ -401,17 +401,17 @@
     <p><i class="fas fa-star"></i> <strong>Or apply to Champlain St-Lawrence at this link:</strong> <a href="https://slc-admission-en.omnivox.ca/" target="_blank">https://slc-admission-en.omnivox.ca/</a></p>
     <hr>
     <p><i class="fas fa-arrow-alt-circle-right"></i> <strong>1. To start an application, click "Submit an Application for Admission" at the bottom of the application module page.</strong></p>
-    <img class="xsmall-img" src="/assets/applyingtocegep/applications/crc-mari-start.png" alt="Champlain St-Lambert Omnivox submit an application or consult file">
+    <img class="xsmall-img" src="/assets/applyingtocegep/applications/crc-mari-start.webp" alt="Champlain St-Lambert Omnivox submit an application or consult file">
     <br><br><p><i class="fas fa-arrow-alt-circle-right"></i> <strong>2. <u>Reminder that this application guide is for day division Quebec high school students (adolescents studying full-time in
     a Quebec high school).</u> On page 1, under "Program of Studies", select the correct Fall semester for "Semester". The option should be "Fall <em>[the year you're
     graduating]</em>".</strong></p>
-    <img class="xsmall-img" src="/assets/applyingtocegep/applications/crc-page1.png" alt="Champlain St-Lambert application page 1, select program of studies and legal status">
+    <img class="xsmall-img" src="/assets/applyingtocegep/applications/crc-page1.webp" alt="Champlain St-Lambert application page 1, select program of studies and legal status">
     <p><strong>A dropdown menu labelled "Pathway" will appear underneath. Choose "Day Division".</strong></p>
     <p><strong>Input boxes for your program choices will appear underneath. Select your first-choice program, as well as your
     second-choice program.</strong></p>
     <p><strong>Under "Legal Status", select your living situation</strong> (in Quebec, elsewhere in Canada, outside Canada).</p>
     <br><p><i class="fas fa-arrow-alt-circle-right"></i> <strong>3. Press "Next" to proceed. First, complete the "Identification" form carefully</strong> (you'll have to provide information such as your permanent code, last name, first name, other given names if applicable, optional SIN, date of birth, gender).</p>
-    <img class="small-img" src="/assets/applyingtocegep/applications/crc-identification.png" alt="Champlain St-Lambert application page 2, Identification form">
+    <img class="small-img" src="/assets/applyingtocegep/applications/crc-identification.webp" alt="Champlain St-Lambert application page 2, Identification form">
     <p><strong>Fill out the "Permanent Address" form carefully with your mailing address in Quebec and your contact information</strong> (house number, street name or PO box, apartment number, city/town, province: Quebec, country: Canada, postal code, phone
     numbers, email address).</p>
     <p><strong>Complete the "Citizenship" form carefully</strong> (country of citizenship, place of birth, legal status in Canada), <strong>then complete the "Other Information" form</strong> (mother

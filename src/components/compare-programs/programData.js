@@ -841,7 +841,7 @@ export const MarianopolisCollege = JSON.parse(`{
     "Pre-auditions, auditions, entrance tests": "",
     "3-year pre-university Double DEC": "",
     "Program Grid": {
-      "Math": "Calculus I (201-NYA-05), Calculus II (201-NYB-05), Linear Algebra I (201-NYC-05)",
+      "Math": "Calculus I (201-NYA-05), Calculus II (201-NYB-05), Linear Algebra (201-NYC-05)",
       "Physics": "Mechanics (203-NYA-05); Waves, Optics and Modern Physics (203-NYC-05); Electricity and Magnetism (203-NYB-05)",
       "Chemistry": "General Chemistry (202-NYA-05), General Chemistry II (202-NYB-05)",
       "Biology": "General Biology (101-NYA-05)",
@@ -867,25 +867,23 @@ export const MarianopolisCollege = JSON.parse(`{
   },
   "HealthScience": {
     "Prerequisites": "Secondary V Math TS/SN (506), Secondary V Physics (504), Secondary V Chemistry (504)",
-    "Cutoffs": "83% overall average, 75% minimum in Secondary IV and V Math TS/SN, 84% science/math average",
+    "Cutoffs": "83% overall average, 75% minimum in Secondary IV and V Math TS/SN, 85% science/math average",
     "Program Grid": {
-      "Math": "Calculus I (201-NYA-05), Calculus II (201-NYB-05), Linear Algebra I (201-NYC-05)",
+      "Math": "Differential Calculus (201-NYA-05), Integral Calculus (201-NYB-05), Linear Algebra (201-NYC-05), Programming in Science (new in Fall 2024)",
       "Physics": "Mechanics (203-NYA-05); Waves, Optics and Modern Physics (203-NYC-05); Electricity and Magnetism (203-NYB-05)",
-      "Chemistry": "General Chemistry (202-NYA-05), General Chemistry II (202-NYB-05), Organic Chemistry I (202-LCU-05)",
-      "Biology": "General Biology (101-NYA-05), General Biology II (101-LCU-05)",
-      "1 elective course": "",
-      "Elective disciplines: Biology, Chemistry, Computer Science, Mathematics, Physics": ""
+      "Chemistry": "General Chemistry (202-NYA-05), Chemistry of Solutions (202-NYB-05), Organic Chemistry (202-LCU-05)",
+      "Biology": "Cellular Biology (101-NYA-05), Ecology & Evolution, Human Anatomy & Physiology"
     }
   },
   "PureandAppliedScience": {
     "Prerequisites": "Secondary V Math TS/SN (506), Secondary V Physics (504), Secondary V Chemistry (504)",
-    "Cutoffs": "83% overall average, 75% minimum in Secondary IV and V Math TS/SN, 84% science/math average",
+    "Cutoffs": "83% overall average, 75% minimum in Secondary IV and V Math TS/SN, 85% science/math average",
     "Program Grid": {
-      "Math": "Calculus I (201-NYA-05), Calculus II (201-NYB-05), Linear Algebra I (201-NYC-05)",
+      "Math": "Differential Calculus (201-NYA-05), Integral Calculus (201-NYB-05), Linear Algebra (201-NYC-05), Programming in Science (new in Fall 2024)",
       "Physics": "Mechanics (203-NYA-05); Waves, Optics and Modern Physics (203-NYC-05); Electricity and Magnetism (203-NYB-05)",
-      "Chemistry": "General Chemistry (202-NYA-05), General Chemistry II (202-NYB-05)",
-      "Biology": "General Biology (101-NYA-05)",
-      "3 elective courses": "8 credits",
+      "Chemistry": "General Chemistry (202-NYA-05), Chemistry of Solutions (202-NYB-05)",
+      "Biology": "Cellular Biology (101-NYA-05)",
+      "2 elective courses": "",
       "Elective disciplines: Biology, Chemistry, Computer Science, Mathematics, Physics": ""
     }
   },
@@ -895,12 +893,12 @@ export const MarianopolisCollege = JSON.parse(`{
     "Letter of intent": "",
     "Choice of Honours Health Science or Honours Pure and Applied Science": "",
     "Program Grid": {
-      "Math": "Calculus I (201-NYA-05), Calculus II (201-NYB-05), Linear Algebra I (201-NYC-05)",
+      "Math": "Differential Calculus (201-NYA-05), Integral Calculus (201-NYB-05), Linear Algebra (201-NYC-05), Programming in Science (new in Fall 2024)",
       "Physics": "Mechanics (203-NYA-05); Waves, Optics and Modern Physics (203-NYC-05); Electricity and Magnetism (203-NYB-05)",
-      "Chemistry": "General Chemistry (202-NYA-05), General Chemistry II (202-NYB-05)",
-      "Biology": "General Biology (101-NYA-05)",
-      "Honours Health Science": "Organic Chemistry I (202-LCU-05), General Biology II (101-LCU-05)",
-      "1 elective (Health) OR 3 electives (Pure and Applied)": "",
+      "Chemistry": "General Chemistry (202-NYA-05), Chemistry of Solutions (202-NYB-05)",
+      "Biology": "Cellular Biology (101-NYA-05)",
+      "Honours Health Science": "Organic Chemistry (202-LCU-05), Ecology & Evolution, Human Anatomy & Physiology",
+      "No electives (Health) OR 2 electives (Pure and Applied)": "",
       "3 of 12 required science courses must be Enriched courses": ""
     }
   },
