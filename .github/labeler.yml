@@ -1,23 +1,31 @@
 # For more information on GitHub Actions' labeler, see https://github.com/actions/labeler
 
 assets:
-  - static/**/*
+- any:
+  - changed-files:
+    - any-glob-to-any-file: 'static/**/*'
 
 components:
-  - src/components/**/*
+- any:
+  - changed-files:
+    - any-glob-to-any-file: 'src/components/**/*'
 
 pages:
-  - src/routes/**/*
+- any:
+  - changed-files:
+    - any-glob-to-any-file: 'src/routes/**/*'
 
 styling:
-  - '*.css'
+- any:
+  - changed-files:
+    - any-glob-to-any-file: '*.css'
 
 documentation:
-  - docs/**/*
-  - '*.md'
-
-JS:
-  - '*.js'
+- any:
+  - changed-files:
+    - any-glob-to-any-file: ['docs/**/*', '*.md']
 
 workflow:
-  - .github/**/*
+- any:
+  - changed-files:
+    - any-glob-to-any-file: '.github/**/*'
